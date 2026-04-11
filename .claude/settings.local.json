@@ -9,7 +9,15 @@
       "Read(//home/junior/.nvm/versions/**)",
       "Read(//home/junior/.local/bin/**)",
       "Read(//home/junior/**)",
-      "Read(//home/junior/.local/**)"
+      "Read(//home/junior/.local/**)",
+      "Bash(npm install:*)",
+      "Bash(mkdir -p /home/junior/Dev/world-cup-roasters/data/excel)",
+      "Bash(cp ~/Downloads/1994_WorldCup_Rosters.xlsx ~/Downloads/1998_WorldCup_Rosters.xlsx ~/Downloads/2002_WorldCup_Rosters.xlsx /home/junior/Dev/world-cup-roasters/data/excel/)",
+      "Bash(npx tsx:*)",
+      "Bash(npm run:*)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(node:*)"
     ]
   }
 }
