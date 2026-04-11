@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/junior/Dev/**)",
+      "Bash(npx create-next-app@latest world-cup-roasters --typescript --tailwind --app --src-dir --no-eslint --use-npm --yes)",
+      "Bash(npm --version)",
+      "Bash(export PATH=\"$PATH:/usr/local/bin:/usr/bin\")",
+      "Read(//usr/local/bin/**)",
+      "Read(//home/junior/.nvm/versions/**)",
+      "Read(//home/junior/.local/bin/**)",
+      "Read(//home/junior/**)",
+      "Read(//home/junior/.local/**)"
+    ]
+  }
+}
