@@ -2,7 +2,6 @@
 
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts";
 
-// Everforest sequence — most distinct first, gray last (Other)
 const LEAGUE_COLORS = [
   "#7FBBB3", // ef-blue
   "#A7C080", // ef-green
@@ -24,9 +23,24 @@ const TOOLTIP_STYLE = {
 interface Props {
   data: Record<string, number | string>[];
   leagues: string[];
+  leagueCountry: Record<string, string>;
 }
 
-export default function LeagueChart({ data, leagues }: Props) {
+export default function LeagueChart({ data, leagues, leagueCountry }: Props) {
+  function formatLegend(league: string) {
+    const country = leagueCountry[league];
+    if (!country || league === "Other") return league;
+    // Truncate long league names, always show country
+    const name = league.length > 20 ? league.slice(0, 18) + "…" : league;
+    return `${name} · ${country}`;
+  }
+
+  function formatTooltip(league: string) {
+    const country = leagueCountry[league];
+    if (!country || league === "Other") return league;
+    return `${league} (${country})`;
+  }
+
   return (
     <div className="rounded-md border border-ef-bg2 bg-ef-bg1 p-5">
       <p className="text-xs font-medium tracking-widest uppercase text-ef-dim mb-5">
@@ -42,10 +56,12 @@ export default function LeagueChart({ data, leagues }: Props) {
             labelStyle={{ color: "#D3C6AA", marginBottom: 4 }}
             itemStyle={{ color: "#D3C6AA" }}
             cursor={{ fill: "rgba(255,255,255,0.03)" }}
+            formatter={(value, name) => [value, formatTooltip(String(name))]}
+            wrapperStyle={{ zIndex: 10 }}
           />
           <Legend
-            wrapperStyle={{ fontSize: 11, color: "#859289", paddingTop: 12 }}
-            formatter={(v) => (v.length > 24 ? v.slice(0, 22) + "…" : v)}
+            wrapperStyle={{ fontSize: 11, color: "#859289", paddingTop: 12, position: "relative", zIndex: 0 }}
+            formatter={(v) => formatLegend(String(v))}
           />
           {leagues.map((league, i) => (
             <Bar

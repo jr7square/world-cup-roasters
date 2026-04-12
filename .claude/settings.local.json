@@ -17,7 +17,8 @@
       "Bash(npm run:*)",
       "Bash(curl -s http://localhost:3000)",
       "Bash(pkill -f \"next dev\")",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(ls:*)"
     ]
   }
 }

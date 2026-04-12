@@ -8,7 +8,7 @@ export default function Header() {
             World Cup Roster Visualizer
           </h1>
           <p className="text-ef-dim text-sm mt-1">
-            Compare national team squads across 1994, 1998 &amp; 2002
+            Compare national team squads across 1994 – 2022 FIFA World Cups
           </p>
         </div>
       </div>

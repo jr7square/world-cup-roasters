@@ -7,6 +7,11 @@ const FILES: { year: number; file: string }[] = [
   { year: 1994, file: "data/excel/1994_WorldCup_Rosters.xlsx" },
   { year: 1998, file: "data/excel/1998_WorldCup_Rosters.xlsx" },
   { year: 2002, file: "data/excel/2002_WorldCup_Rosters.xlsx" },
+  { year: 2006, file: "data/excel/2006_WorldCup_Rosters.xlsx" },
+  { year: 2010, file: "data/excel/2010_WorldCup_Rosters.xlsx" },
+  { year: 2014, file: "data/excel/2014_WorldCup_Rosters.xlsx" },
+  { year: 2018, file: "data/excel/2018_WorldCup_Rosters.xlsx" },
+  { year: 2022, file: "data/excel/2022_WorldCup_Rosters.xlsx" },
 ];
 
 function parsePlayer(row: Record<string, unknown>): Player | null {

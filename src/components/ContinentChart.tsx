@@ -45,8 +45,9 @@ export default function ContinentChart({ data }: Props) {
             labelStyle={{ color: "#D3C6AA", marginBottom: 4 }}
             itemStyle={{ color: "#D3C6AA" }}
             cursor={{ fill: "rgba(255,255,255,0.03)" }}
+            wrapperStyle={{ zIndex: 10 }}
           />
-          <Legend wrapperStyle={{ fontSize: 11, color: "#859289", paddingTop: 12 }} />
+          <Legend wrapperStyle={{ fontSize: 11, color: "#859289", paddingTop: 12, position: "relative", zIndex: 0 }} />
           {active.map((continent, i) => (
             <Bar
               key={continent}

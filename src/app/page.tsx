@@ -9,6 +9,7 @@ import RosterTable from "@/components/RosterTable";
 import ContinentChart from "@/components/ContinentChart";
 import LeagueChart from "@/components/LeagueChart";
 import PlayerOverlapTable from "@/components/PlayerOverlapTable";
+import TournamentFilter from "@/components/TournamentFilter";
 
 import {
   data,
@@ -25,6 +26,7 @@ function AppContent() {
   const [selected, setSelected] = useState<string>(
     () => searchParams.get("country") ?? ""
   );
+  const [selectedYears, setSelectedYears] = useState<number[]>([]);
 
   useEffect(() => {
     const params = new URLSearchParams();
@@ -32,13 +34,28 @@ function AppContent() {
     router.replace(`?${params.toString()}`, { scroll: false });
   }, [selected, router]);
 
-  const rosters = selected ? getCountryRosters(selected) : {};
+  // Reset tournament selection whenever the country changes
+  useEffect(() => {
+    if (!selected) { setSelectedYears([]); return; }
+    const allYears = data.tournaments
+      .filter((t) => t.teams[selected])
+      .map((t) => t.year)
+      .sort((a, b) => a - b);
+    setSelectedYears(allYears);
+  }, [selected]);
+
+  const allRosters = selected ? getCountryRosters(selected) : {};
+  const allYears = Object.keys(allRosters).map(Number).sort();
+
+  const rosters = selected ? getCountryRosters(selected, selectedYears) : {};
   const years = Object.keys(rosters).map(Number).sort();
-  const continentData = selected ? getContinentDistribution(selected) : [];
-  const { data: leagueData, leagues } = selected
-    ? getLeagueDistribution(selected)
-    : { data: [], leagues: [] };
-  const overlapPlayers = selected ? getPlayerOverlap(selected) : [];
+  const continentData = selected && selectedYears.length > 0
+    ? getContinentDistribution(selected, selectedYears) : [];
+  const { data: leagueData, leagues, leagueCountry } = selected && selectedYears.length > 0
+    ? getLeagueDistribution(selected, 7, selectedYears)
+    : { data: [], leagues: [], leagueCountry: {} };
+  const overlapPlayers = selected && selectedYears.length > 0
+    ? getPlayerOverlap(selected, selectedYears) : [];
 
   return (
     <div className="min-h-screen bg-ef-bg text-ef-fg">
@@ -53,21 +70,32 @@ function AppContent() {
           onChange={setSelected}
         />
 
-        {selected && years.length > 0 ? (
+        {selected && allYears.length > 0 ? (
           <>
             {/* Country + meta */}
             <div className="border-b border-ef-bg2 pb-4">
               <h2 className="text-xl font-semibold text-ef-fg">{selected}</h2>
               <p className="text-ef-dim text-sm mt-0.5">
-                {years.join(" · ")} &nbsp;&mdash;&nbsp; {years.length} tournament{years.length !== 1 ? "s" : ""}
+                {allYears.join(" · ")} &nbsp;&mdash;&nbsp; {allYears.length} tournament{allYears.length !== 1 ? "s" : ""}
               </p>
             </div>
 
+            {/* Tournament filter */}
+            <TournamentFilter
+              years={allYears}
+              selected={selectedYears}
+              onChange={setSelectedYears}
+            />
+
             {/* Charts */}
-            <section className="grid grid-cols-1 md:grid-cols-2 gap-5">
-              <ContinentChart data={continentData} />
-              <LeagueChart data={leagueData} leagues={leagues} />
-            </section>
+            {selectedYears.length > 0 ? (
+              <section className="grid grid-cols-1 md:grid-cols-2 gap-5">
+                <ContinentChart data={continentData} />
+                <LeagueChart data={leagueData} leagues={leagues} leagueCountry={leagueCountry} />
+              </section>
+            ) : (
+              <p className="text-ef-dim text-sm">Select at least one tournament to see charts.</p>
+            )}
 
             {/* Multi-tournament players */}
             {overlapPlayers.length > 0 && (
@@ -77,31 +105,33 @@ function AppContent() {
             )}
 
             {/* Roster tables */}
-            <section className="space-y-3">
-              <p className="text-xs font-medium tracking-widest uppercase text-ef-dim">
-                Squads
-              </p>
-              <div
-                className={`grid gap-5 ${
-                  years.length === 1
-                    ? "grid-cols-1 max-w-xl"
-                    : years.length === 2
-                    ? "grid-cols-1 lg:grid-cols-2"
-                    : "grid-cols-1 lg:grid-cols-3"
-                }`}
-              >
-                {years.map((year) => (
-                  <RosterTable key={year} year={year} roster={rosters[year]} />
-                ))}
-              </div>
-            </section>
+            {years.length > 0 && (
+              <section className="space-y-3">
+                <p className="text-xs font-medium tracking-widest uppercase text-ef-dim">
+                  Squads
+                </p>
+                <div
+                  className={`grid gap-5 ${
+                    years.length === 1
+                      ? "grid-cols-1 max-w-xl"
+                      : years.length === 2
+                      ? "grid-cols-1 lg:grid-cols-2"
+                      : "grid-cols-1 lg:grid-cols-3"
+                  }`}
+                >
+                  {years.map((year) => (
+                    <RosterTable key={year} year={year} roster={rosters[year]} />
+                  ))}
+                </div>
+              </section>
+            )}
           </>
         ) : (
           !selected && (
             <div className="py-24 text-center">
               <p className="text-4xl mb-4">⚽</p>
               <p className="text-ef-dim text-sm">
-                47 countries &nbsp;·&nbsp; 3 tournaments &nbsp;·&nbsp; 1994 – 2002
+                70 countries &nbsp;·&nbsp; 8 tournaments &nbsp;·&nbsp; 1994 – 2022
               </p>
             </div>
           )
