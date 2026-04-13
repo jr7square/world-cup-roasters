@@ -18,7 +18,8 @@
       "Bash(curl -s http://localhost:3000)",
       "Bash(pkill -f \"next dev\")",
       "Bash(node:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(npx tsc:*)"
     ]
   }
 }

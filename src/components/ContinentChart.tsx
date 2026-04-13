@@ -1,6 +1,6 @@
 "use client";
 
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts";
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, type BarShapeProps } from "recharts";
 import { CONTINENT_ORDER, type Continent } from "@/lib/data";
 
 // Everforest palette per continent
@@ -20,6 +20,29 @@ const TOOLTIP_STYLE = {
   borderRadius: 6,
   fontSize: 12,
 };
+
+// Transparent full-column rect to catch hover events for the entire bar height
+function HoverTarget(props: BarShapeProps) {
+  const bg = props.background;
+  if (!bg || bg.x === null || bg.y === null) return null;
+  return <rect x={bg.x} y={bg.y} width={bg.width} height={bg.height} fill="transparent" stroke="none" />;
+}
+
+function CustomTooltip({ active, payload, label }: { active?: boolean; payload?: { dataKey: string; value: number; fill: string; name: string }[]; label?: string }) {
+  if (!active || !payload?.length) return null;
+  const items = payload.filter((p) => p.dataKey !== "__hover__" && (p.value ?? 0) > 0);
+  if (!items.length) return null;
+  return (
+    <div style={{ ...TOOLTIP_STYLE, padding: "8px 12px" }}>
+      <p style={{ color: "#D3C6AA", marginBottom: 4, fontWeight: 500 }}>{label}</p>
+      {items.map((item) => (
+        <p key={item.dataKey} style={{ color: item.fill, margin: "2px 0" }}>
+          {item.name}: {item.value}
+        </p>
+      ))}
+    </div>
+  );
+}
 
 interface Props {
   data: Record<string, number | string>[];
@@ -41,9 +64,7 @@ export default function ContinentChart({ data }: Props) {
           <XAxis dataKey="year" stroke="#475258" tick={{ fill: "#859289", fontSize: 12 }} axisLine={false} tickLine={false} />
           <YAxis stroke="#475258" tick={{ fill: "#859289", fontSize: 12 }} axisLine={false} tickLine={false} allowDecimals={false} />
           <Tooltip
-            contentStyle={TOOLTIP_STYLE}
-            labelStyle={{ color: "#D3C6AA", marginBottom: 4 }}
-            itemStyle={{ color: "#D3C6AA" }}
+            content={<CustomTooltip />}
             cursor={{ fill: "rgba(255,255,255,0.03)" }}
             wrapperStyle={{ zIndex: 10 }}
           />
@@ -57,6 +78,7 @@ export default function ContinentChart({ data }: Props) {
               radius={i === active.length - 1 ? [3, 3, 0, 0] : undefined}
             />
           ))}
+          <Bar dataKey="__hover__" stackId="a" shape={HoverTarget} legendType="none" isAnimationActive={false} />
         </BarChart>
       </ResponsiveContainer>
     </div>
