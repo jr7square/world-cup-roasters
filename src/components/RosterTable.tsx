@@ -11,6 +11,12 @@ const YEAR_ACCENT: Record<number, string> = {
   1994: "border-ef-blue   text-ef-blue",
   1998: "border-ef-green  text-ef-green",
   2002: "border-ef-yellow text-ef-yellow",
+  2006: "border-ef-orange text-ef-orange",
+  2010: "border-ef-purple text-ef-purple",
+  2014: "border-ef-aqua   text-ef-aqua",
+  2018: "border-ef-red    text-ef-red",
+  2022: "border-ef-fg     text-ef-fg",
+  2026: "border-ef-dim    text-ef-dim",
 };
 
 interface Props {

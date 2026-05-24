@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "World Cup Roster Visualizer",
-  description: "Compare FIFA World Cup squad rosters across 1994, 1998, and 2002",
+  description: "Compare FIFA World Cup squad rosters from 1994 to 2026",
 };
 
 export default function RootLayout({

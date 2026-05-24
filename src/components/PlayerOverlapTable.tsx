@@ -1,7 +1,13 @@
 const YEAR_STYLES: Record<number, string> = {
-  1994: "text-ef-blue  border border-ef-blue/30  bg-ef-blue/10",
-  1998: "text-ef-green border border-ef-green/30 bg-ef-green/10",
+  1994: "text-ef-blue   border border-ef-blue/30   bg-ef-blue/10",
+  1998: "text-ef-green  border border-ef-green/30  bg-ef-green/10",
   2002: "text-ef-yellow border border-ef-yellow/30 bg-ef-yellow/10",
+  2006: "text-ef-orange border border-ef-orange/30 bg-ef-orange/10",
+  2010: "text-ef-purple border border-ef-purple/30 bg-ef-purple/10",
+  2014: "text-ef-aqua   border border-ef-aqua/30   bg-ef-aqua/10",
+  2018: "text-ef-red    border border-ef-red/30    bg-ef-red/10",
+  2022: "text-ef-fg     border border-ef-fg/30     bg-ef-fg/10",
+  2026: "text-ef-dim    border border-ef-dim/30    bg-ef-dim/10",
 };
 
 interface OverlapPlayer {

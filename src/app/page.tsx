@@ -131,7 +131,7 @@ function AppContent() {
             <div className="py-24 text-center">
               <p className="text-4xl mb-4">⚽</p>
               <p className="text-ef-dim text-sm">
-                70 countries &nbsp;·&nbsp; 8 tournaments &nbsp;·&nbsp; 1994 – 2022
+                73 countries &nbsp;·&nbsp; 9 tournaments &nbsp;·&nbsp; 1994 – 2026
               </p>
             </div>
           )

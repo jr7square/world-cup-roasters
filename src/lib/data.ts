@@ -12,6 +12,7 @@ export type Continent =
 
 const CONTINENT_MAP: Record<string, Continent> = {
   // Europe
+  Armenia: "Europe",
   Austria: "Europe", Belgium: "Europe", Bosnia: "Europe", Bulgaria: "Europe",
   Croatia: "Europe", Cyprus: "Europe", "Czech Republic": "Europe",
   Denmark: "Europe", England: "Europe", Finland: "Europe", France: "Europe",
@@ -37,7 +38,7 @@ const CONTINENT_MAP: Record<string, Continent> = {
   // Asia
   China: "Asia", Iran: "Asia", Israel: "Asia", Japan: "Asia", Kuwait: "Asia",
   "North Korea": "Asia", Qatar: "Asia", "Saudi Arabia": "Asia",
-  "South Korea": "Asia", UAE: "Asia",
+  "South Korea": "Asia", UAE: "Asia", Uzbekistan: "Asia",
   // Oceania
   Australia: "Oceania", "New Zealand": "Oceania", "New Zealand/Australia": "Oceania",
 };

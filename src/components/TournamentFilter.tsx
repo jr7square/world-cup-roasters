@@ -11,6 +11,7 @@ const YEAR_COLORS: Record<number, string> = {
   2014: "#83C092", // ef-aqua
   2018: "#E67E80", // ef-red
   2022: "#DDD0B3", // ef-fg
+  2026: "#9DA89D", // ef-dim
 };
 
 interface Props {
