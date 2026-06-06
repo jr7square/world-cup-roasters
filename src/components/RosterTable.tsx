@@ -48,6 +48,7 @@ export default function RosterTable({ year, roster }: Props) {
               <th className="px-3 py-2 w-10 font-normal" />
               <th className="px-3 py-2 text-left font-normal">Player</th>
               <th className="px-3 py-2 text-left font-normal hidden sm:table-cell">Club</th>
+
             </tr>
           </thead>
           <tbody>
@@ -70,11 +71,21 @@ export default function RosterTable({ year, roster }: Props) {
                     </div>
                   </td>
                   <td className="px-3 py-2 text-ef-fg">
-                    {p.name}
-                    {p.isCaptain && (
-                      <span className="ml-1.5 text-[10px] text-ef-yellow font-semibold tracking-wide">
-                        C
-                      </span>
+                    <div>
+                      <span>{p.name}</span>
+                      {p.isCaptain && (
+                        <span className="ml-1.5 text-[10px] text-ef-yellow font-semibold tracking-wide">
+                          C
+                        </span>
+                      )}
+                    </div>
+                    {(p.club || p.clubCountry) && (
+                      <div className="sm:hidden mt-0.5">
+                        <span className="text-ef-dim text-xs">{p.club}</span>
+                        {p.clubCountry && (
+                          <span className="ml-1 text-ef-bg4 text-xs">{p.clubCountry}</span>
+                        )}
+                      </div>
                     )}
                   </td>
                   <td className="px-3 py-2 hidden sm:table-cell">
