@@ -43,7 +43,7 @@ export default function TournamentFilter({ years, selected, onChange }: Props) {
                 ? { backgroundColor: color, color: "#1E2326", borderColor: color }
                 : { color: color, borderColor: color }
             }
-            className="px-3 py-1 rounded text-xs font-semibold border transition-colors"
+            className="px-4 py-2 sm:px-3 sm:py-1 rounded text-sm sm:text-xs font-semibold border transition-colors min-w-[4rem] sm:min-w-0"
           >
             {year}
           </button>
