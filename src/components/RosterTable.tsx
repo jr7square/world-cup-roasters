@@ -1,4 +1,7 @@
+import Link from "next/link";
 import type { TeamRoster } from "@/types";
+import { slugify } from "@/lib/slugify";
+import profilesJson from "@/data/player-profiles.json";
 
 const POSITION_STYLES: Record<string, { dot: string; label: string }> = {
   GK: { dot: "bg-ef-yellow",  label: "text-ef-yellow" },
@@ -19,6 +22,10 @@ const YEAR_ACCENT: Record<number, string> = {
   2026: "border-ef-dim    text-ef-dim",
 };
 
+const profileSlugs = new Set(
+  Object.keys((profilesJson as { players: Record<string, unknown> }).players)
+);
+
 interface Props {
   year: number;
   roster: TeamRoster;
@@ -29,7 +36,6 @@ export default function RosterTable({ year, roster }: Props) {
 
   return (
     <div className="rounded-md overflow-hidden border border-ef-bg2">
-      {/* Header */}
       <div className={`px-4 py-3 bg-ef-bg1 border-b border-ef-bg2 flex items-center gap-2`}>
         <span className={`text-sm font-semibold border-b-2 pb-0.5 ${accent}`}>
           {year}
@@ -39,7 +45,6 @@ export default function RosterTable({ year, roster }: Props) {
         </span>
       </div>
 
-      {/* Table */}
       <div className="overflow-x-auto">
         <table className="w-full text-sm">
           <thead>
@@ -48,16 +53,20 @@ export default function RosterTable({ year, roster }: Props) {
               <th className="px-3 py-2 w-10 font-normal" />
               <th className="px-3 py-2 text-left font-normal">Player</th>
               <th className="px-3 py-2 text-left font-normal hidden sm:table-cell">Club</th>
-
             </tr>
           </thead>
           <tbody>
             {roster.players.map((p, i) => {
               const pos = POSITION_STYLES[p.position];
+              const slug = year === 2026 ? slugify(p.name) : null;
+              const hasProfile = slug !== null && profileSlugs.has(slug);
+
               return (
                 <tr
                   key={i}
-                  className="border-b border-ef-bg2/60 last:border-0 hover:bg-ef-bg1/60 transition-colors"
+                  className={`border-b border-ef-bg2/60 last:border-0 transition-colors group ${
+                    hasProfile ? "hover:bg-ef-bg1/60 cursor-pointer" : "hover:bg-ef-bg1/60"
+                  }`}
                 >
                   <td className="px-3 py-2 text-right text-ef-dim font-mono text-xs">
                     {p.number ?? "—"}
@@ -71,19 +80,39 @@ export default function RosterTable({ year, roster }: Props) {
                     </div>
                   </td>
                   <td className="px-3 py-2 text-ef-fg">
-                    <div>
-                      <span>{p.name}</span>
-                      {p.isCaptain && (
-                        <span className="ml-1.5 text-[10px] text-ef-yellow font-semibold tracking-wide">
-                          C
-                        </span>
-                      )}
-                    </div>
-                    {(p.club || p.clubCountry) && (
-                      <div className="sm:hidden mt-0.5">
-                        <span className="text-ef-dim text-xs">{p.club}</span>
-                        {p.clubCountry && (
-                          <span className="ml-1 text-ef-bg4 text-xs">{p.clubCountry}</span>
+                    {hasProfile ? (
+                      <Link href={`/player/${slug}`} className="block">
+                        <div>
+                          <span className="group-hover:text-ef-blue transition-colors">{p.name}</span>
+                          {p.isCaptain && (
+                            <span className="ml-1.5 text-[10px] text-ef-yellow font-semibold tracking-wide">C</span>
+                          )}
+                          <span className="ml-1.5 text-[10px] text-ef-dim">›</span>
+                        </div>
+                        {(p.club || p.clubCountry) && (
+                          <div className="sm:hidden mt-0.5">
+                            <span className="text-ef-dim text-xs">{p.club}</span>
+                            {p.clubCountry && (
+                              <span className="ml-1 text-ef-bg4 text-xs">{p.clubCountry}</span>
+                            )}
+                          </div>
+                        )}
+                      </Link>
+                    ) : (
+                      <div>
+                        <div>
+                          <span>{p.name}</span>
+                          {p.isCaptain && (
+                            <span className="ml-1.5 text-[10px] text-ef-yellow font-semibold tracking-wide">C</span>
+                          )}
+                        </div>
+                        {(p.club || p.clubCountry) && (
+                          <div className="sm:hidden mt-0.5">
+                            <span className="text-ef-dim text-xs">{p.club}</span>
+                            {p.clubCountry && (
+                              <span className="ml-1 text-ef-bg4 text-xs">{p.clubCountry}</span>
+                            )}
+                          </div>
                         )}
                       </div>
                     )}
