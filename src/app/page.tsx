@@ -34,14 +34,15 @@ function AppContent() {
     router.replace(`?${params.toString()}`, { scroll: false });
   }, [selected, router]);
 
-  // Reset tournament selection whenever the country changes
+  // Default to 2026 (or most recent available) when country changes
   useEffect(() => {
     if (!selected) { setSelectedYears([]); return; }
     const allYears = data.tournaments
       .filter((t) => t.teams[selected])
       .map((t) => t.year)
       .sort((a, b) => a - b);
-    setSelectedYears(allYears);
+    const defaultYear = allYears.includes(2026) ? 2026 : allYears[allYears.length - 1];
+    setSelectedYears([defaultYear]);
   }, [selected]);
 
   const allRosters = selected ? getCountryRosters(selected) : {};
