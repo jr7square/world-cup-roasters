@@ -31,6 +31,32 @@ export interface WorldCupData {
   countries: CountryMeta[];
 }
 
+export interface WCMatch {
+  id: string;
+  stage: "group" | "r32" | "r16" | "qf" | "sf" | "third" | "final";
+  group?: string;
+  matchday?: number;
+  date: string;
+  time: string;
+  venue: string;
+  city: string;
+  teamA: string | null;
+  teamB: string | null;
+  scoreA: number | null;
+  scoreB: number | null;
+  status: "upcoming" | "live" | "finished";
+}
+
+export interface FormResult {
+  date: string;
+  opponent: string;
+  home: boolean;
+  goalsFor: number;
+  goalsAgainst: number;
+  result: "W" | "D" | "L";
+  competition: string;
+}
+
 export interface StatRow {
   stat: string;
   value: string;

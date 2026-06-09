@@ -1,0 +1,465 @@
+{
+  "groupSchedule": {
+    "GS-A-MD1-1": {"date":"2026-06-11","time":"20:00","venue":"SoFi Stadium","city":"Inglewood"},
+    "GS-A-MD1-2": {"date":"2026-06-12","time":"14:00","venue":"AT&T Stadium","city":"Arlington"},
+    "GS-A-MD2-1": {"date":"2026-06-21","time":"17:00","venue":"Rose Bowl","city":"Pasadena"},
+    "GS-A-MD2-2": {"date":"2026-06-21","time":"20:00","venue":"SoFi Stadium","city":"Inglewood"},
+    "GS-A-MD3-1": {"date":"2026-06-28","time":"20:00","venue":"Estadio Azteca","city":"Mexico City"},
+    "GS-A-MD3-2": {"date":"2026-06-28","time":"20:00","venue":"SoFi Stadium","city":"Inglewood"},
+
+    "GS-B-MD1-1": {"date":"2026-06-11","time":"14:00","venue":"BMO Field","city":"Toronto"},
+    "GS-B-MD1-2": {"date":"2026-06-12","time":"20:00","venue":"BC Place","city":"Vancouver"},
+    "GS-B-MD2-1": {"date":"2026-06-21","time":"14:00","venue":"BC Place","city":"Vancouver"},
+    "GS-B-MD2-2": {"date":"2026-06-22","time":"17:00","venue":"BMO Field","city":"Toronto"},
+    "GS-B-MD3-1": {"date":"2026-06-28","time":"17:00","venue":"BMO Field","city":"Toronto"},
+    "GS-B-MD3-2": {"date":"2026-06-28","time":"17:00","venue":"BC Place","city":"Vancouver"},
+
+    "GS-C-MD1-1": {"date":"2026-06-12","time":"17:00","venue":"MetLife Stadium","city":"East Rutherford"},
+    "GS-C-MD1-2": {"date":"2026-06-13","time":"14:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+    "GS-C-MD2-1": {"date":"2026-06-22","time":"14:00","venue":"AT&T Stadium","city":"Arlington"},
+    "GS-C-MD2-2": {"date":"2026-06-22","time":"20:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+    "GS-C-MD3-1": {"date":"2026-06-29","time":"20:00","venue":"MetLife Stadium","city":"East Rutherford"},
+    "GS-C-MD3-2": {"date":"2026-06-29","time":"20:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+
+    "GS-D-MD1-1": {"date":"2026-06-12","time":"20:00","venue":"MetLife Stadium","city":"East Rutherford"},
+    "GS-D-MD1-2": {"date":"2026-06-13","time":"17:00","venue":"Arrowhead Stadium","city":"Kansas City"},
+    "GS-D-MD2-1": {"date":"2026-06-22","time":"17:00","venue":"Levi's Stadium","city":"Santa Clara"},
+    "GS-D-MD2-2": {"date":"2026-06-23","time":"14:00","venue":"Arrowhead Stadium","city":"Kansas City"},
+    "GS-D-MD3-1": {"date":"2026-06-29","time":"17:00","venue":"MetLife Stadium","city":"East Rutherford"},
+    "GS-D-MD3-2": {"date":"2026-06-29","time":"17:00","venue":"Levi's Stadium","city":"Santa Clara"},
+
+    "GS-E-MD1-1": {"date":"2026-06-13","time":"14:00","venue":"Rose Bowl","city":"Pasadena"},
+    "GS-E-MD1-2": {"date":"2026-06-14","time":"17:00","venue":"Arrowhead Stadium","city":"Kansas City"},
+    "GS-E-MD2-1": {"date":"2026-06-23","time":"17:00","venue":"Rose Bowl","city":"Pasadena"},
+    "GS-E-MD2-2": {"date":"2026-06-23","time":"20:00","venue":"AT&T Stadium","city":"Arlington"},
+    "GS-E-MD3-1": {"date":"2026-06-30","time":"20:00","venue":"Rose Bowl","city":"Pasadena"},
+    "GS-E-MD3-2": {"date":"2026-06-30","time":"20:00","venue":"Arrowhead Stadium","city":"Kansas City"},
+
+    "GS-F-MD1-1": {"date":"2026-06-13","time":"20:00","venue":"Lumen Field","city":"Seattle"},
+    "GS-F-MD1-2": {"date":"2026-06-14","time":"14:00","venue":"BC Place","city":"Vancouver"},
+    "GS-F-MD2-1": {"date":"2026-06-23","time":"14:00","venue":"Lumen Field","city":"Seattle"},
+    "GS-F-MD2-2": {"date":"2026-06-24","time":"17:00","venue":"BC Place","city":"Vancouver"},
+    "GS-F-MD3-1": {"date":"2026-06-30","time":"17:00","venue":"Lumen Field","city":"Seattle"},
+    "GS-F-MD3-2": {"date":"2026-06-30","time":"17:00","venue":"BC Place","city":"Vancouver"},
+
+    "GS-G-MD1-1": {"date":"2026-06-14","time":"20:00","venue":"NRG Stadium","city":"Houston"},
+    "GS-G-MD1-2": {"date":"2026-06-15","time":"14:00","venue":"AT&T Stadium","city":"Arlington"},
+    "GS-G-MD2-1": {"date":"2026-06-24","time":"14:00","venue":"NRG Stadium","city":"Houston"},
+    "GS-G-MD2-2": {"date":"2026-06-24","time":"20:00","venue":"AT&T Stadium","city":"Arlington"},
+    "GS-G-MD3-1": {"date":"2026-07-01","time":"20:00","venue":"NRG Stadium","city":"Houston"},
+    "GS-G-MD3-2": {"date":"2026-07-01","time":"20:00","venue":"AT&T Stadium","city":"Arlington"},
+
+    "GS-H-MD1-1": {"date":"2026-06-15","time":"17:00","venue":"Lincoln Financial Field","city":"Philadelphia"},
+    "GS-H-MD1-2": {"date":"2026-06-15","time":"20:00","venue":"MetLife Stadium","city":"East Rutherford"},
+    "GS-H-MD2-1": {"date":"2026-06-24","time":"17:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+    "GS-H-MD2-2": {"date":"2026-06-25","time":"14:00","venue":"Lincoln Financial Field","city":"Philadelphia"},
+    "GS-H-MD3-1": {"date":"2026-07-01","time":"17:00","venue":"Lincoln Financial Field","city":"Philadelphia"},
+    "GS-H-MD3-2": {"date":"2026-07-01","time":"17:00","venue":"MetLife Stadium","city":"East Rutherford"},
+
+    "GS-I-MD1-1": {"date":"2026-06-15","time":"14:00","venue":"Estadio Azteca","city":"Mexico City"},
+    "GS-I-MD1-2": {"date":"2026-06-16","time":"17:00","venue":"Estadio BBVA","city":"Monterrey"},
+    "GS-I-MD2-1": {"date":"2026-06-25","time":"17:00","venue":"Estadio Azteca","city":"Mexico City"},
+    "GS-I-MD2-2": {"date":"2026-06-25","time":"20:00","venue":"Estadio BBVA","city":"Monterrey"},
+    "GS-I-MD3-1": {"date":"2026-07-02","time":"20:00","venue":"Estadio Azteca","city":"Mexico City"},
+    "GS-I-MD3-2": {"date":"2026-07-02","time":"20:00","venue":"Estadio BBVA","city":"Monterrey"},
+
+    "GS-J-MD1-1": {"date":"2026-06-16","time":"14:00","venue":"Rose Bowl","city":"Pasadena"},
+    "GS-J-MD1-2": {"date":"2026-06-16","time":"20:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+    "GS-J-MD2-1": {"date":"2026-06-25","time":"14:00","venue":"Levi's Stadium","city":"Santa Clara"},
+    "GS-J-MD2-2": {"date":"2026-06-26","time":"17:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+    "GS-J-MD3-1": {"date":"2026-07-02","time":"17:00","venue":"Rose Bowl","city":"Pasadena"},
+    "GS-J-MD3-2": {"date":"2026-07-02","time":"17:00","venue":"Hard Rock Stadium","city":"Miami Gardens"},
+
+    "GS-K-MD1-1": {"date":"2026-06-16","time":"17:00","venue":"Lincoln Financial Field","city":"Philadelphia"},
+    "GS-K-MD1-2": {"date":"2026-06-17","time":"14:00","venue":"Levi's Stadium","city":"Santa Clara"},
+    "GS-K-MD2-1": {"date":"2026-06-26","time":"14:00","venue":"Lincoln Financial Field","city":"Philadelphia"},
+    "GS-K-MD2-2": {"date":"2026-06-26","time":"20:00","venue":"Levi's Stadium","city":"Santa Clara"},
+    "GS-K-MD3-1": {"date":"2026-07-03","time":"20:00","venue":"Lincoln Financial Field","city":"Philadelphia"},
+    "GS-K-MD3-2": {"date":"2026-07-03","time":"20:00","venue":"Levi's Stadium","city":"Santa Clara"},
+
+    "GS-L-MD1-1": {"date":"2026-06-17","time":"17:00","venue":"Arrowhead Stadium","city":"Kansas City"},
+    "GS-L-MD1-2": {"date":"2026-06-17","time":"20:00","venue":"NRG Stadium","city":"Houston"},
+    "GS-L-MD2-1": {"date":"2026-06-26","time":"17:00","venue":"Lumen Field","city":"Seattle"},
+    "GS-L-MD2-2": {"date":"2026-06-27","time":"14:00","venue":"NRG Stadium","city":"Houston"},
+    "GS-L-MD3-1": {"date":"2026-07-03","time":"17:00","venue":"Arrowhead Stadium","city":"Kansas City"},
+    "GS-L-MD3-2": {"date":"2026-07-03","time":"17:00","venue":"NRG Stadium","city":"Houston"}
+  },
+
+  "knockoutMatches": [
+    {"id":"R32-1","stage":"r32","date":"2026-07-05","time":"14:00","venue":"MetLife Stadium","city":"East Rutherford","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-2","stage":"r32","date":"2026-07-05","time":"18:00","venue":"AT&T Stadium","city":"Arlington","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-3","stage":"r32","date":"2026-07-05","time":"21:00","venue":"SoFi Stadium","city":"Inglewood","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-4","stage":"r32","date":"2026-07-06","time":"14:00","venue":"Rose Bowl","city":"Pasadena","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-5","stage":"r32","date":"2026-07-06","time":"18:00","venue":"Hard Rock Stadium","city":"Miami Gardens","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-6","stage":"r32","date":"2026-07-06","time":"21:00","venue":"Arrowhead Stadium","city":"Kansas City","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-7","stage":"r32","date":"2026-07-07","time":"14:00","venue":"Levi's Stadium","city":"Santa Clara","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-8","stage":"r32","date":"2026-07-07","time":"18:00","venue":"BMO Field","city":"Toronto","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-9","stage":"r32","date":"2026-07-07","time":"21:00","venue":"Lumen Field","city":"Seattle","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-10","stage":"r32","date":"2026-07-08","time":"14:00","venue":"Lincoln Financial Field","city":"Philadelphia","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-11","stage":"r32","date":"2026-07-08","time":"18:00","venue":"NRG Stadium","city":"Houston","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-12","stage":"r32","date":"2026-07-08","time":"21:00","venue":"BC Place","city":"Vancouver","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-13","stage":"r32","date":"2026-07-09","time":"14:00","venue":"Estadio Azteca","city":"Mexico City","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-14","stage":"r32","date":"2026-07-09","time":"18:00","venue":"AT&T Stadium","city":"Arlington","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-15","stage":"r32","date":"2026-07-09","time":"21:00","venue":"MetLife Stadium","city":"East Rutherford","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R32-16","stage":"r32","date":"2026-07-10","time":"18:00","venue":"SoFi Stadium","city":"Inglewood","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+
+    {"id":"R16-1","stage":"r16","date":"2026-07-13","time":"14:00","venue":"MetLife Stadium","city":"East Rutherford","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-2","stage":"r16","date":"2026-07-13","time":"20:00","venue":"AT&T Stadium","city":"Arlington","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-3","stage":"r16","date":"2026-07-14","time":"14:00","venue":"SoFi Stadium","city":"Inglewood","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-4","stage":"r16","date":"2026-07-14","time":"20:00","venue":"Hard Rock Stadium","city":"Miami Gardens","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-5","stage":"r16","date":"2026-07-15","time":"14:00","venue":"Rose Bowl","city":"Pasadena","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-6","stage":"r16","date":"2026-07-15","time":"20:00","venue":"Arrowhead Stadium","city":"Kansas City","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-7","stage":"r16","date":"2026-07-16","time":"14:00","venue":"Levi's Stadium","city":"Santa Clara","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"R16-8","stage":"r16","date":"2026-07-16","time":"20:00","venue":"Lincoln Financial Field","city":"Philadelphia","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+
+    {"id":"QF-1","stage":"qf","date":"2026-07-18","time":"14:00","venue":"MetLife Stadium","city":"East Rutherford","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"QF-2","stage":"qf","date":"2026-07-18","time":"20:00","venue":"AT&T Stadium","city":"Arlington","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"QF-3","stage":"qf","date":"2026-07-19","time":"14:00","venue":"SoFi Stadium","city":"Inglewood","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"QF-4","stage":"qf","date":"2026-07-19","time":"20:00","venue":"Rose Bowl","city":"Pasadena","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+
+    {"id":"SF-1","stage":"sf","date":"2026-07-22","time":"20:00","venue":"MetLife Stadium","city":"East Rutherford","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"SF-2","stage":"sf","date":"2026-07-23","time":"20:00","venue":"AT&T Stadium","city":"Arlington","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+
+    {"id":"THIRD","stage":"third","date":"2026-07-25","time":"14:00","venue":"Hard Rock Stadium","city":"Miami Gardens","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"},
+    {"id":"FINAL","stage":"final","date":"2026-07-26","time":"19:00","venue":"MetLife Stadium","city":"East Rutherford","teamA":null,"teamB":null,"scoreA":null,"scoreB":null,"status":"upcoming"}
+  ],
+
+  "teamForm": {
+    "Mexico": [
+      {"date":"2026-03-22","opponent":"USA","home":false,"goalsFor":1,"goalsAgainst":2,"result":"L","competition":"CONCACAF Nations League Final"},
+      {"date":"2026-03-19","opponent":"Panama","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-18","opponent":"Jamaica","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-14","opponent":"Costa Rica","home":false,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-09-09","opponent":"Cuba","home":true,"goalsFor":4,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"}
+    ],
+    "South Africa": [
+      {"date":"2026-03-27","opponent":"Zimbabwe","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Namibia","home":false,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Nigeria","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-10-14","opponent":"Zambia","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Morocco","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"Friendly"}
+    ],
+    "South Korea": [
+      {"date":"2026-03-26","opponent":"Thailand","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2026-03-23","opponent":"Iraq","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"China","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Kyrgyzstan","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"Australia","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "Czech Republic": [
+      {"date":"2026-03-28","opponent":"Kosovo","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Georgia","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Faroe Islands","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-15","opponent":"Albania","home":false,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Ukraine","home":true,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"UEFA Nations League"}
+    ],
+    "Canada": [
+      {"date":"2026-03-26","opponent":"Trinidad & Tobago","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2026-03-23","opponent":"Guatemala","home":false,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-18","opponent":"Jamaica","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-15","opponent":"USA","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"CONCACAF Nations League"},
+      {"date":"2025-09-09","opponent":"Honduras","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"}
+    ],
+    "Bosnia & Herzegovina": [
+      {"date":"2026-03-28","opponent":"Montenegro","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Czech Republic","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Turkey","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-15","opponent":"Armenia","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Liechtenstein","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"}
+    ],
+    "Qatar": [
+      {"date":"2026-03-26","opponent":"Saudi Arabia","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"AFC Qualifier"},
+      {"date":"2026-03-23","opponent":"UAE","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Bahrain","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Iraq","home":false,"goalsFor":1,"goalsAgainst":2,"result":"L","competition":"AFC Qualifier"},
+      {"date":"2025-09-09","opponent":"Yemen","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "Switzerland": [
+      {"date":"2026-03-28","opponent":"Kosovo","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Ireland","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Gibraltar","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Romania","home":false,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Denmark","home":true,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"UEFA Nations League"}
+    ],
+    "Brazil": [
+      {"date":"2026-03-26","opponent":"Venezuela","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2026-03-23","opponent":"Argentina","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Bolivia","home":true,"goalsFor":4,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Colombia","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Peru","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"}
+    ],
+    "Morocco": [
+      {"date":"2026-03-27","opponent":"Mauritania","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"DR Congo","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Tanzania","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"South Africa","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"Friendly"},
+      {"date":"2025-09-10","opponent":"Ivory Coast","home":false,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Haiti": [
+      {"date":"2026-03-26","opponent":"Jamaica","home":true,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"CONCACAF Nations League"},
+      {"date":"2026-03-23","opponent":"Canada","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-18","opponent":"Cuba","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-15","opponent":"Trinidad & Tobago","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONCACAF Nations League"},
+      {"date":"2025-09-09","opponent":"Cayman Islands","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"}
+    ],
+    "Scotland": [
+      {"date":"2026-03-28","opponent":"Albania","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Croatia","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Finland","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Norway","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Lithuania","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"}
+    ],
+    "USA": [
+      {"date":"2026-03-22","opponent":"Mexico","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League Final"},
+      {"date":"2026-03-19","opponent":"Jamaica","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-18","opponent":"El Salvador","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-15","opponent":"Canada","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-09-09","opponent":"Trinidad & Tobago","home":true,"goalsFor":4,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League"}
+    ],
+    "Paraguay": [
+      {"date":"2026-03-26","opponent":"Bolivia","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2026-03-23","opponent":"Ecuador","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Brazil","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Peru","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Venezuela","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"CONMEBOL WC Qualifier"}
+    ],
+    "Australia": [
+      {"date":"2026-03-27","opponent":"China","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2026-03-24","opponent":"South Korea","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Vietnam","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Indonesia","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"Oman","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "Turkey": [
+      {"date":"2026-03-28","opponent":"Spain","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Albania","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Kosovo","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-15","opponent":"Gibraltar","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Armenia","home":true,"goalsFor":3,"goalsAgainst":2,"result":"W","competition":"UEFA Nations League"}
+    ],
+    "Germany": [
+      {"date":"2026-03-28","opponent":"Ireland","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Liechtenstein","home":false,"goalsFor":5,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-18","opponent":"Luxembourg","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Netherlands","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Estonia","home":true,"goalsFor":4,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"}
+    ],
+    "Curaçao": [
+      {"date":"2026-03-26","opponent":"El Salvador","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2026-03-23","opponent":"Trinidad & Tobago","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-18","opponent":"Mexico","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-15","opponent":"Anguilla","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-09-09","opponent":"Belize","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"}
+    ],
+    "Ivory Coast": [
+      {"date":"2026-03-27","opponent":"Ghana","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Cameroon","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Morocco","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Nigeria","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Guinea","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Ecuador": [
+      {"date":"2026-03-26","opponent":"Bolivia","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2026-03-23","opponent":"Paraguay","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Colombia","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Peru","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Chile","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"CONMEBOL WC Qualifier"}
+    ],
+    "Netherlands": [
+      {"date":"2026-03-28","opponent":"Estonia","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2026-03-25","opponent":"Germany","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Latvia","home":true,"goalsFor":4,"goalsAgainst":1,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Belarus","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Iceland","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"}
+    ],
+    "Japan": [
+      {"date":"2026-03-27","opponent":"China","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2026-03-24","opponent":"Syria","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Australia","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Iraq","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"Indonesia","home":true,"goalsFor":4,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "Sweden": [
+      {"date":"2026-03-28","opponent":"Estonia","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"WC Qualifier"},
+      {"date":"2026-03-25","opponent":"Norway","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"WC Qualifier"},
+      {"date":"2025-11-18","opponent":"Finland","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Netherlands","home":false,"goalsFor":1,"goalsAgainst":2,"result":"L","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Iceland","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"}
+    ],
+    "Tunisia": [
+      {"date":"2026-03-27","opponent":"Guinea","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Senegal","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Mauritania","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Morocco","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Egypt","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"}
+    ],
+    "Belgium": [
+      {"date":"2026-03-28","opponent":"Estonia","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2026-03-25","opponent":"France","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Slovakia","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Armenia","home":false,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Kazakhstan","home":true,"goalsFor":4,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"}
+    ],
+    "Egypt": [
+      {"date":"2026-03-27","opponent":"Algeria","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Morocco","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Nigeria","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Senegal","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Sudan","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Iran": [
+      {"date":"2026-03-27","opponent":"UAE","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2026-03-24","opponent":"Kazakhstan","home":false,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Iraq","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Tajikistan","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"Kyrgyzstan","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "New Zealand": [
+      {"date":"2026-03-27","opponent":"Fiji","home":true,"goalsFor":4,"goalsAgainst":1,"result":"W","competition":"OFC Nations Cup"},
+      {"date":"2026-03-24","opponent":"Vanuatu","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"OFC Nations Cup"},
+      {"date":"2025-11-19","opponent":"Solomon Islands","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"OFC WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Papua New Guinea","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"OFC WC Qualifier"},
+      {"date":"2025-09-10","opponent":"Samoa","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"OFC WC Qualifier"}
+    ],
+    "Spain": [
+      {"date":"2026-03-28","opponent":"Denmark","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Turkey","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Switzerland","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-15","opponent":"France","home":false,"goalsFor":1,"goalsAgainst":3,"result":"L","competition":"UEFA Nations League Final"},
+      {"date":"2025-09-09","opponent":"Albania","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"WC Qualifier"}
+    ],
+    "Cape Verde": [
+      {"date":"2026-03-27","opponent":"Liberia","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Guinea","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Sierra Leone","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Senegal","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Mauritania","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Saudi Arabia": [
+      {"date":"2026-03-27","opponent":"Qatar","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2026-03-24","opponent":"Iraq","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Indonesia","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Japan","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"UAE","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "Uruguay": [
+      {"date":"2026-03-26","opponent":"Bolivia","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2026-03-23","opponent":"Colombia","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Chile","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Argentina","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Venezuela","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"}
+    ],
+    "France": [
+      {"date":"2026-03-28","opponent":"Spain","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Poland","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Kazakhstan","home":true,"goalsFor":4,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Belgium","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Austria","home":false,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"}
+    ],
+    "Senegal": [
+      {"date":"2026-03-27","opponent":"South Africa","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Tanzania","home":false,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Morocco","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Cape Verde","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Congo","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Iraq": [
+      {"date":"2026-03-26","opponent":"South Korea","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2026-03-23","opponent":"Japan","home":true,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"India","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Oman","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"Saudi Arabia","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"}
+    ],
+    "Norway": [
+      {"date":"2026-03-28","opponent":"Scotland","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"WC Qualifier"},
+      {"date":"2026-03-25","opponent":"Sweden","home":true,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"WC Qualifier"},
+      {"date":"2025-11-18","opponent":"Azerbaijan","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-15","opponent":"Switzerland","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Finland","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"}
+    ],
+    "Argentina": [
+      {"date":"2026-03-26","opponent":"Brazil","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2026-03-23","opponent":"Bolivia","home":false,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Chile","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Venezuela","home":false,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Peru","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"}
+    ],
+    "Algeria": [
+      {"date":"2026-03-27","opponent":"Egypt","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Mauritania","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Tunisia","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Libya","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Cameroon","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Austria": [
+      {"date":"2026-03-28","opponent":"France","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Sweden","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Serbia","home":false,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-11-15","opponent":"Romania","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Germany","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"UEFA Nations League"}
+    ],
+    "Jordan": [
+      {"date":"2026-03-27","opponent":"Palestine","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2026-03-24","opponent":"Kuwait","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Bahrain","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"South Korea","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"UAE","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"}
+    ],
+    "Portugal": [
+      {"date":"2026-03-28","opponent":"Croatia","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Poland","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-18","opponent":"Cyprus","home":true,"goalsFor":4,"goalsAgainst":1,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Spain","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Slovakia","home":false,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"}
+    ],
+    "DR Congo": [
+      {"date":"2026-03-27","opponent":"Morocco","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Zambia","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Ghana","home":false,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Egypt","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Ethiopia","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Uzbekistan": [
+      {"date":"2026-03-27","opponent":"Iran","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFC Qualifier"},
+      {"date":"2026-03-24","opponent":"Afghanistan","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-11-19","opponent":"Tajikistan","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFC Qualifier"},
+      {"date":"2025-11-15","opponent":"Syria","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"},
+      {"date":"2025-09-10","opponent":"Palestine","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"AFC Qualifier"}
+    ],
+    "Colombia": [
+      {"date":"2026-03-26","opponent":"Peru","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2026-03-23","opponent":"Ecuador","home":false,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-19","opponent":"Uruguay","home":true,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Bolivia","home":false,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"CONMEBOL WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Chile","home":true,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"CONMEBOL WC Qualifier"}
+    ],
+    "England": [
+      {"date":"2026-03-28","opponent":"Finland","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2026-03-25","opponent":"Switzerland","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Ireland","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Germany","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"UEFA Nations League"},
+      {"date":"2025-09-09","opponent":"Albania","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"WC Qualifier"}
+    ],
+    "Croatia": [
+      {"date":"2026-03-28","opponent":"Portugal","home":false,"goalsFor":0,"goalsAgainst":3,"result":"L","competition":"UEFA Nations League"},
+      {"date":"2026-03-25","opponent":"Scotland","home":true,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"UEFA Nations League"},
+      {"date":"2025-11-18","opponent":"Slovakia","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-11-15","opponent":"Wales","home":false,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"WC Qualifier"},
+      {"date":"2025-09-09","opponent":"Germany","home":false,"goalsFor":0,"goalsAgainst":0,"result":"D","competition":"UEFA Nations League"}
+    ],
+    "Ghana": [
+      {"date":"2026-03-27","opponent":"DR Congo","home":false,"goalsFor":0,"goalsAgainst":1,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2026-03-24","opponent":"Ivory Coast","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"AFCON Qualifier"},
+      {"date":"2025-11-19","opponent":"Sudan","home":true,"goalsFor":2,"goalsAgainst":0,"result":"W","competition":"AFCON Qualifier"},
+      {"date":"2025-11-15","opponent":"Egypt","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"AFCON Qualifier"},
+      {"date":"2025-09-10","opponent":"Zimbabwe","home":true,"goalsFor":3,"goalsAgainst":1,"result":"W","competition":"AFCON Qualifier"}
+    ],
+    "Panama": [
+      {"date":"2026-03-26","opponent":"Guatemala","home":true,"goalsFor":2,"goalsAgainst":1,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2026-03-23","opponent":"Cuba","home":false,"goalsFor":1,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-18","opponent":"Mexico","home":false,"goalsFor":0,"goalsAgainst":2,"result":"L","competition":"CONCACAF Nations League"},
+      {"date":"2025-11-15","opponent":"Honduras","home":false,"goalsFor":1,"goalsAgainst":1,"result":"D","competition":"CONCACAF Nations League"},
+      {"date":"2025-09-09","opponent":"Belize","home":true,"goalsFor":3,"goalsAgainst":0,"result":"W","competition":"CONCACAF Nations League"}
+    ]
+  }
+}
