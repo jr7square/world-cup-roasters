@@ -15170,6 +15170,1020 @@
           }
         ]
       }
+    },
+    "altay-bayindir": {
+      "name": "Altay Bayındır",
+      "country": "Turkey",
+      "position": "GK",
+      "club": "Manchester United",
+      "age": 26,
+      "profile": "Altay Bayındır is the first Turkish player to join Manchester United, bringing experience from Fenerbahçe. As a backup goalkeeper competing for minutes at Old Trafford, he has demonstrated his quality with standout performances in cup competitions.",
+      "strengths": [
+        "Excellent reflexes and shot-stopping ability",
+        "Composed distribution from the back",
+        "European club experience at elite level"
+      ],
+      "weaknesses": [
+        "Limited Premier League match time in 2024-25",
+        "Competition from established keepers at United"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "~72%"
+          },
+          {
+            "stat": "GA90",
+            "value": "~1.2"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "~3"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~8"
+          }
+        ]
+      }
+    },
+    "mert-gunok": {
+      "name": "Mert Günok",
+      "country": "Turkey",
+      "position": "GK",
+      "club": "Fenerbahçe",
+      "age": 35,
+      "profile": "Mert Günok is a veteran goalkeeper who returned to Fenerbahçe in January 2026 after his contract with Beşiktaş. An experienced international with 37 caps, he has won multiple Süper Lig titles and was Turkey's starter at Euro 2024.",
+      "strengths": [
+        "Exceptional experience with multiple Süper Lig titles",
+        "Proven match-winner in crucial moments",
+        "Strong decision-making and positioning"
+      ],
+      "weaknesses": [
+        "Age-related decline in physical athleticism",
+        "Slower reflexes compared to younger keepers"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "~76%"
+          },
+          {
+            "stat": "GA90",
+            "value": "~0.88"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "~12"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~22"
+          }
+        ]
+      }
+    },
+    "ugurcan-cakir": {
+      "name": "Uğurcan Çakır",
+      "country": "Turkey",
+      "position": "GK",
+      "club": "Galatasaray",
+      "age": 30,
+      "profile": "Uğurcan Çakır joined Galatasaray in September 2025 from Trabzonspor after a decade there, including winning the 2021-22 Süper Lig title. He brings extensive Turkish domestic experience and Euro 2024 credentials to Turkey's World Cup campaign.",
+      "strengths": [
+        "Long pedigree with consistent performances in Süper Lig",
+        "Won league title with Trabzonspor",
+        "Reliable penalty-stopper"
+      ],
+      "weaknesses": [
+        "Limited European competition experience",
+        "Recent transfer adjustment period"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "~74%"
+          },
+          {
+            "stat": "GA90",
+            "value": "~0.95"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "~11"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~24"
+          }
+        ]
+      }
+    },
+    "abdulkerim-bardakci": {
+      "name": "Abdülkerim Bardakçı",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Galatasaray",
+      "age": 28,
+      "profile": "Abdülkerim Bardakçı is a stalwart of Galatasaray's defence, part of their recent Süper Lig title-winning squad. A composed centre-back who has featured consistently in Turkish football, he provides defensive stability and aerial presence.",
+      "strengths": [
+        "Strong in aerial duels and defensive positioning",
+        "Part of championship-winning defensive unit",
+        "Good reading of the game"
+      ],
+      "weaknesses": [
+        "Limited European competition experience",
+        "Pace concerns against rapid attackers"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.8"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~2.1"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~68%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~4.2"
+          }
+        ]
+      }
+    },
+    "caglar-s-yuncu": {
+      "name": "Çağlar Söyüncü",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Fenerbahçe",
+      "age": 30,
+      "profile": "Çağlar Söyüncü is a modern centre-back with European pedigree from Leicester City and Atlético Madrid. Known for his agility and aggressive defending, he anchors Turkey's defence with experience and tactical intelligence.",
+      "strengths": [
+        "Exceptional athleticism and modern defensive approach",
+        "PFA Team of the Year winner at Leicester",
+        "Strong on the ball with distribution"
+      ],
+      "weaknesses": [
+        "Occasionally prone to rash challenges",
+        "Injury history requiring management"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~3.1"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~2.4"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~71%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.8"
+          }
+        ]
+      }
+    },
+    "eren-elmali": {
+      "name": "Eren Elmalı",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Kasımpaşa",
+      "age": 26,
+      "profile": "Eren Elmalı is a defender with Turkish Super League experience at Kasımpaşa. While based in the domestic league, he represents solid depth in Turkey's defensive ranks for World Cup preparations.",
+      "strengths": [
+        "Solid defensive positioning",
+        "Physical presence in defence",
+        "Turkish Super League experience"
+      ],
+      "weaknesses": [
+        "Limited international experience",
+        "Playing outside top European leagues"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.4"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.8"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~62%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.5"
+          }
+        ]
+      }
+    },
+    "ferdi-kadioglu": {
+      "name": "Ferdi Kadıoğlu",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Brighton & Hove Albion",
+      "age": 26,
+      "profile": "Ferdi Kadıoğlu is a versatile Dutch-born Turkish international who joined Brighton in summer 2024. Named Brighton's Player of the Season for 2025-26, he brings Premier League experience and adaptability across defensive and midfield positions.",
+      "strengths": [
+        "Exceptional versatility across multiple positions",
+        "Brighton Player of the Season 2025-26",
+        "Strong athleticism and work rate"
+      ],
+      "weaknesses": [
+        "Relatively new to Premier League environment",
+        "Consistency questions in first season"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.6"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~2.0"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~64%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.9"
+          }
+        ]
+      }
+    },
+    "merih-demiral": {
+      "name": "Merih Demiral",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Al-Qadsiah",
+      "age": 26,
+      "profile": "Merih Demiral is an aggressive and physical centre-back with European experience at Juventus and Atalanta. Known for his aerial dominance and tactical intelligence, he scored twice at Euro 2024 and provides crucial leadership in Turkey's defence.",
+      "strengths": [
+        "Exceptional physical presence and aerial dominance",
+        "Proven goalscorer from set pieces",
+        "Euro 2024 standout performer"
+      ],
+      "weaknesses": [
+        "Playing in Saudi league away from top European football",
+        "Disciplinary concerns from aggressive style"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Saudi Pro League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~3.2"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~2.3"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~73%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~4.1"
+          }
+        ]
+      }
+    },
+    "mert-muldur": {
+      "name": "Mert Müldür",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Fenerbahçe",
+      "age": 27,
+      "profile": "Mert Müldür is a versatile defender capable of playing right-back or centre-back, developed through Rapid Wien's academy. A lifelong Fenerbahçe supporter, he has emerged as a key figure in their recent success with solid technical ability.",
+      "strengths": [
+        "Versatility across defensive positions",
+        "Strong speed and stamina for long defensive coverage",
+        "Excellent sliding tackle technique"
+      ],
+      "weaknesses": [
+        "Occasional concentration lapses defensively",
+        "Consistency questions in big European matches"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.7"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.9"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~66%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.6"
+          }
+        ]
+      }
+    },
+    "ozan-kabak": {
+      "name": "Ozan Kabak",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "TSG Hoffenheim",
+      "age": 24,
+      "profile": "Ozan Kabak is a young centre-back who gained prominence at Stuttgart and Liverpool. Currently at Hoffenheim, he brings youth, athleticism, and European Bundesliga experience to Turkey's World Cup campaign.",
+      "strengths": [
+        "Youth and physical athleticism",
+        "Bundesliga experience since teenage years",
+        "Strong recovery pace"
+      ],
+      "weaknesses": [
+        "Tactical naivety still developing",
+        "Limited international experience at top level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Bundesliga",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.3"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.7"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~69%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.3"
+          }
+        ]
+      }
+    },
+    "samet-akaydin": {
+      "name": "Samet Akaydın",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "Galatasaray",
+      "age": 27,
+      "profile": "Samet Akaydın is a centre-back for Galatasaray's multiple championship-winning squads. A reliable defender with consistent performances in the Turkish Super League, he provides defensive continuity for the national team.",
+      "strengths": [
+        "Part of championship-winning defensive units",
+        "Strong positioning and reading of play",
+        "Aerial strength"
+      ],
+      "weaknesses": [
+        "Limited European competition experience",
+        "Pace limitations against quick attackers"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.6"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.9"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~67%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.7"
+          }
+        ]
+      }
+    },
+    "zeki-celik": {
+      "name": "Zeki Çelik",
+      "country": "Turkey",
+      "position": "DF",
+      "club": "AS Roma",
+      "age": 29,
+      "profile": "Zeki Çelik is an experienced right-back for AS Roma who has been a consistent performer in Serie A. A Kurdish player of significance for Turkish football, he brings European elite-level experience and reliability to the national defence.",
+      "strengths": [
+        "Proven Serie A performer with multiple seasons",
+        "Strong defensive positioning and marking",
+        "Multilingual communicator with team"
+      ],
+      "weaknesses": [
+        "Age affecting pace recovery",
+        "Limited injury avoidance in recent seasons"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.4"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.8"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~62%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~3.4"
+          }
+        ]
+      }
+    },
+    "hakan-calhanoglu": {
+      "name": "Hakan Çalhanoğlu",
+      "country": "Turkey",
+      "position": "MF",
+      "club": "Inter Milan",
+      "age": 32,
+      "profile": "Hakan Çalhanoğlu is Turkey's captain and midfield maestro at Inter Milan, where he transferred in 2021. A set-piece specialist modelled on Juninho Pernambucano's knuckleball technique, he's regarded as one of the world's best midfielders.",
+      "strengths": [
+        "Elite set-piece specialist with distinctive knuckleball free-kick",
+        "Exceptional vision and long-range passing",
+        "Champions League final experience and proven big-game player"
+      ],
+      "weaknesses": [
+        "Physical pace limitations for wider roles",
+        "Age-related decline in explosive athleticism"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~1.8"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~87%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.4"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~28"
+          }
+        ]
+      }
+    },
+    "i-smail-yuksek": {
+      "name": "İsmail Yüksek",
+      "country": "Turkey",
+      "position": "MF",
+      "club": "Fenerbahçe",
+      "age": 27,
+      "profile": "İsmail Yüksek is a versatile box-to-box midfielder for Fenerbahçe with strong physical attributes and technical ability. Recently reaching 100 competitive appearances for the club, he provides defensive stability and drive in midfield.",
+      "strengths": [
+        "Aggressive tackling and strong work rate",
+        "Powerful long-range shooting ability",
+        "Physical strength in midfield duels"
+      ],
+      "weaknesses": [
+        "Positional discipline sometimes questionable",
+        "Limited experience outside Fenerbahçe"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.9"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~82%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.6"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~26"
+          }
+        ]
+      }
+    },
+    "kaan-ayhan": {
+      "name": "Kaan Ayhan",
+      "country": "Turkey",
+      "position": "MF",
+      "club": "Galatasaray",
+      "age": 31,
+      "profile": "Kaan Ayhan is a defender-turned-midfielder who has won four consecutive Süper Lig titles with Galatasaray. A German-born Turkish international, he brings versatility and experience from multiple European leagues.",
+      "strengths": [
+        "Four consecutive Süper Lig titles with Galatasaray",
+        "Versatile defender-to-midfielder transition capabilities",
+        "European experience across Bundesliga and Serie A"
+      ],
+      "weaknesses": [
+        "Age approaching 32 affecting physical peak",
+        "Limited international appearances at elite level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.5"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~81%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.7"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~24"
+          }
+        ]
+      }
+    },
+    "orkun-k-kcu": {
+      "name": "Orkun Kökçü",
+      "country": "Turkey",
+      "position": "MF",
+      "club": "Benfica",
+      "age": 25,
+      "profile": "Orkun Kökçü is a talented midfielder who captained Feyenoord to the 2022-23 Eredivisie title before joining Benfica for €25 million. Now at Beşiktaş on loan with obligation to buy, he anchors Turkey's midfield with technical ability.",
+      "strengths": [
+        "Eredivisie Player of the Year recognition",
+        "Captaincy experience at top club level",
+        "Strong technical ability and vision"
+      ],
+      "weaknesses": [
+        "Currently in loan arrangement affecting long-term focus",
+        "Consistency in European elite matches variable"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.2"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~84%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.5"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~22"
+          }
+        ]
+      }
+    },
+    "salih-zcan": {
+      "name": "Salih Özcan",
+      "country": "Turkey",
+      "position": "MF",
+      "club": "Borussia Dortmund",
+      "age": 26,
+      "profile": "Salih Özcan is a defensive midfielder for Borussia Dortmund with significant European experience. A former German U-21 representative who switched to Turkey, he reached the 2023-24 Champions League final with Dortmund.",
+      "strengths": [
+        "Champions League final experience in 2024",
+        "Strong defensive positioning and work rate",
+        "Bundesliga consistency over multiple seasons"
+      ],
+      "weaknesses": [
+        "Loan spells indicating uncertainty over position",
+        "Limited creative output for midfielder"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Bundesliga",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~2.8"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~80%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~1.9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~25"
+          }
+        ]
+      }
+    },
+    "arda-guler": {
+      "name": "Arda Güler",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Real Madrid",
+      "age": 21,
+      "profile": "Arda Güler is one of football's brightest young talents, signed by Real Madrid in 2023. The 2025-26 UEFA Champions League Young Player of the Season, he combines technical excellence with goal-scoring prowess and has already won La Liga and Champions League at club level.",
+      "strengths": [
+        "UEFA Champions League Young Player of the Season 2025-26",
+        "Multi-goal languages of dribbling and technical play",
+        "Elite champions league performer despite young age"
+      ],
+      "weaknesses": [
+        "Inconsistent minutes and integration under rotation",
+        "Tactical flexibility still developing at elite level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~8"
+          },
+          {
+            "stat": "Assists",
+            "value": "~5"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~58%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~24"
+          }
+        ]
+      }
+    },
+    "baris-alper-yilmaz": {
+      "name": "Barış Alper Yılmaz",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Galatasaray",
+      "age": 26,
+      "profile": "Barış Alper Yılmaz is a winger with Galatasaray's championship-winning squad, having scored 30 goals in 141 league appearances for the club. A pacey winger known for dribbling and creativity, he complements Turkey's attacking options.",
+      "strengths": [
+        "Galatasaray's four consecutive title winner",
+        "Pace and dribbling ability on wings",
+        "Consistent scorer with 30 goals in 141 appearances"
+      ],
+      "weaknesses": [
+        "Limited European elite competition experience",
+        "Defensive contribution minimal"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~6"
+          },
+          {
+            "stat": "Assists",
+            "value": "~3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~48%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~28"
+          }
+        ]
+      }
+    },
+    "can-uzun": {
+      "name": "Can Uzun",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Eintracht Frankfurt",
+      "age": 20,
+      "profile": "Can Uzun is a promising attacking midfielder who joined Eintracht Frankfurt in July 2024. Though born in Germany, he chose Turkish representation and contributed 4 goals in 20 Bundesliga appearances in his first season.",
+      "strengths": [
+        "Young prospect with high ceiling",
+        "4 goals in 20 Bundesliga appearances in debut season",
+        "Bundesliga top club experience at Frankfurt"
+      ],
+      "weaknesses": [
+        "Very limited international experience",
+        "Adapting to elite German football demands"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Bundesliga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~4"
+          },
+          {
+            "stat": "Assists",
+            "value": "~2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~42%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~20"
+          }
+        ]
+      }
+    },
+    "deniz-gul": {
+      "name": "Deniz Gül",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "FC Porto",
+      "age": 22,
+      "profile": "Deniz Gül is a tall, physical forward who joined FC Porto from Swedish club Hammarby in August 2024. Born to Turkish-Swedish parents in Stockholm, he recently switched to Turkish representation and has already scored for the national team.",
+      "strengths": [
+        "Excellent physical attributes and height at 1.92m",
+        "Recent hat-trick from lower leagues showing goal threat",
+        "Porto's Champions League/Europa League environment"
+      ],
+      "weaknesses": [
+        "Limited elite-level experience prior to Porto",
+        "Adjustment period to Portuguese football ongoing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Primeira Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~3"
+          },
+          {
+            "stat": "Assists",
+            "value": "~1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~38%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~14"
+          }
+        ]
+      }
+    },
+    "i-rfan-can-kahveci": {
+      "name": "İrfan Can Kahveci",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Fenerbahçe",
+      "age": 31,
+      "profile": "İrfan Can Kahveci is an experienced attacking midfielder/winger who won the Turkish Footballer of the Year award in 2020. Known for dribbling, speed, and technical ability, he provides experience and directness to Turkey's attack.",
+      "strengths": [
+        "2020 Turkish Footballer of the Year",
+        "Hat-trick record in Champions League group stage",
+        "Excellent dribbling and close control"
+      ],
+      "weaknesses": [
+        "Age at 31 affecting peak athleticism",
+        "Loan arrangement indicating reduced role"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~7"
+          },
+          {
+            "stat": "Assists",
+            "value": "~4"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~51%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~26"
+          }
+        ]
+      }
+    },
+    "kenan-yildiz": {
+      "name": "Kenan Yıldız",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Juventus",
+      "age": 21,
+      "profile": "Kenan Yıldız is an exciting attacking prospect at Juventus who won the Serie A Best Under-23 Player award in 2025-26 with 10 goals and 6 assists. A modern playmaker known for passing and outside-the-box shots, he brings youth and creativity to Turkey's forwards.",
+      "strengths": [
+        "Serie A Best Under-23 Player 2025-26",
+        "Scored Serie A Goal of the Season 2024-25",
+        "Exceptional technical ability and modern playmaking"
+      ],
+      "weaknesses": [
+        "Age and experience still developing",
+        "Physical strength concerns against elite defenders"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~10"
+          },
+          {
+            "stat": "Assists",
+            "value": "~6"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~52%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~33"
+          }
+        ]
+      }
+    },
+    "kerem-akturkoglu": {
+      "name": "Kerem Aktürkoğlu",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Fenerbahçe",
+      "age": 27,
+      "profile": "Kerem Aktürkoğlu is a dynamic left winger who moved from Benfica to Fenerbahçe in September 2025 for €22.5 million. Known for dribbling and ball control, he emerged from lower Turkish leagues to become a key player for the national team.",
+      "strengths": [
+        "2021-22 Süper Lig Player of the Season",
+        "Exceptional dribbling and agility",
+        "15 goals in 52 caps for Turkey showing goal threat"
+      ],
+      "weaknesses": [
+        "Recent transfer adjustment affecting consistency",
+        "Defensive work rate minimal"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Série A",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~5"
+          },
+          {
+            "stat": "Assists",
+            "value": "~3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~46%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~18"
+          }
+        ]
+      }
+    },
+    "oguz-aydin": {
+      "name": "Oğuz Aydın",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Fenerbahçe",
+      "age": 25,
+      "profile": "Oğuz Aydın is a winger capable of playing either flank with strong versatility. After joining Fenerbahçe in 2024, he impressed with 2 goals in 11 minutes of his first league start, showing goal-scoring potential.",
+      "strengths": [
+        "Ambidextrous winger - effective on both flanks",
+        "Impressive second-striker positioning option",
+        "Recent strong early performances at Fenerbahçe"
+      ],
+      "weaknesses": [
+        "Limited track record at elite level",
+        "Still adapting to Fenerbahçe after summer transfer"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~4"
+          },
+          {
+            "stat": "Assists",
+            "value": "~2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~41%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~12"
+          }
+        ]
+      }
+    },
+    "yunus-akgun": {
+      "name": "Yunus Akgün",
+      "country": "Turkey",
+      "position": "FW",
+      "club": "Galatasaray",
+      "age": 25,
+      "profile": "Yunus Akgün is a forward with Galatasaray's recent championship teams. Part of the club's title-winning dynasty, he provides attacking depth and versatility to Turkey's forward line with experience in Turkish top-flight football.",
+      "strengths": [
+        "Part of Galatasaray's championship-winning squad",
+        "Experience in multiple forward roles",
+        "Physical attributes for pressing"
+      ],
+      "weaknesses": [
+        "Limited international experience and goals",
+        "Playing outside elite European leagues"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~3"
+          },
+          {
+            "stat": "Assists",
+            "value": "~1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~35%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~16"
+          }
+        ]
+      }
     }
   }
 }
