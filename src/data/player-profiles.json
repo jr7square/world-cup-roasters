@@ -16184,6 +16184,3074 @@
           }
         ]
       }
+    },
+    "tyrick-bodak": {
+      "name": "Tyrick Bodak",
+      "country": "Curaçao",
+      "position": "GK",
+      "club": "SC Telstar",
+      "age": 24,
+      "profile": "Backup goalkeeper who served as third-choice keeper at SC Telstar during their 2024-25 promotion campaign. Provides depth to the goalkeeper rotation but has limited first-team experience.",
+      "strengths": [
+        "Shot-stopping ability",
+        "Distribution with feet",
+        "Works well with defensive unit in training"
+      ],
+      "weaknesses": [
+        "Limited match experience at professional level",
+        "High pressure situations"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "N/A"
+          },
+          {
+            "stat": "GA90",
+            "value": "N/A"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "N/A"
+          },
+          {
+            "stat": "Appearances",
+            "value": "0"
+          }
+        ]
+      }
+    },
+    "trevor-doornbusch": {
+      "name": "Trevor Doornbusch",
+      "country": "Curaçao",
+      "position": "GK",
+      "club": "VVV-Venlo",
+      "age": 33,
+      "profile": "Experienced goalkeeper who joined VVV-Venlo mid-season (February 2025) in the Eerste Divisie. Provides veteran presence and shot-stopping ability for the second-division club.",
+      "strengths": [
+        "Save efficiency (62.7% save percentage)",
+        "Consistency in maintaining clean sheets",
+        "Leadership and experience"
+      ],
+      "weaknesses": [
+        "Age-related mobility decline",
+        "Distribution skills"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "62.7"
+          },
+          {
+            "stat": "GA90",
+            "value": "N/A"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "3"
+          },
+          {
+            "stat": "Appearances",
+            "value": "12"
+          }
+        ]
+      }
+    },
+    "eloy-room": {
+      "name": "Eloy Room",
+      "country": "Curaçao",
+      "position": "GK",
+      "club": "Miami FC",
+      "age": 37,
+      "profile": "Veteran MLS goalkeeper with extensive experience across multiple leagues. Joined Miami FC in January 2026 to provide depth and mentorship in the USL Championship.",
+      "strengths": [
+        "Positioning and game reading",
+        "Penalty-kick stopping",
+        "Multi-league experience"
+      ],
+      "weaknesses": [
+        "Age-related athletic decline",
+        "Distribution from back"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/6b33d86b/Eloy-Room",
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "65.5"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.37"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "1"
+          },
+          {
+            "stat": "Appearances",
+            "value": "8"
+          }
+        ]
+      }
+    },
+    "riechedly-bazoer": {
+      "name": "Riechedly Bazoer",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "Konyaspor",
+      "age": 29,
+      "profile": "Ball-playing center-back who joined Konyaspor (September 2024) in the Turkish Super Lig. Excels in defensive transitions and helps progressing the ball from the back.",
+      "strengths": [
+        "Ball retention and progression",
+        "Positional discipline",
+        "Leadership qualities"
+      ],
+      "weaknesses": [
+        "One-on-one defending in open space",
+        "Physical intensity in duels"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "42"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "58.3"
+          },
+          {
+            "stat": "Clearances",
+            "value": "67"
+          }
+        ]
+      }
+    },
+    "joshua-brenet": {
+      "name": "Joshua Brenet",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "Kayserispor",
+      "age": 32,
+      "profile": "Veteran right-back who arrived at Kayserispor in February 2026. Experienced defender with extensive club football background across multiple leagues.",
+      "strengths": [
+        "Defensive positioning",
+        "Set-piece delivery",
+        "Leadership and experience"
+      ],
+      "weaknesses": [
+        "Declining pace and athleticism",
+        "Pressing intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "8"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "6"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "50.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "21"
+          }
+        ]
+      }
+    },
+    "roshon-van-eijma": {
+      "name": "Roshon van Eijma",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "RKC Waalwijk",
+      "age": 27,
+      "profile": "Center-back who joined RKC Waalwijk (July 2024) in the Eredivisie. Solid defender with good positioning and distribution ability for building from the back.",
+      "strengths": [
+        "Positioning and reading the game",
+        "Passing accuracy",
+        "Physical presence"
+      ],
+      "weaknesses": [
+        "Aerial dominance",
+        "One-on-one athleticism"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "31"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "14"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "52.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "43"
+          }
+        ]
+      }
+    },
+    "sherel-floranus": {
+      "name": "Sherel Floranus",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "PEC Zwolle",
+      "age": 26,
+      "profile": "Left-back who transferred to PEC Zwolle (August 2024) from Almere City. Established as a regular starter with solid defensive contribution and occasional assist opportunities.",
+      "strengths": [
+        "Crossing accuracy",
+        "One-on-one defending",
+        "Recovery pace"
+      ],
+      "weaknesses": [
+        "Positioning on the flank",
+        "Aerial defending"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "38"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "16"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "45.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "52"
+          }
+        ]
+      }
+    },
+    "deveron-fonville": {
+      "name": "Deveron Fonville",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "NEC Nijmegen",
+      "age": 22,
+      "profile": "Young center-back who moved to NEC Nijmegen (late 2024) from lower divisions. Rapidly developed into a reliable defender and ranked among the top 30 center-backs in Eredivisie this season.",
+      "strengths": [
+        "Defensive positioning for age",
+        "Physical attributes",
+        "Playing under pressure"
+      ],
+      "weaknesses": [
+        "Experience at elite level",
+        "Decision-making in transition"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "48"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "19"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "58.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "71"
+          }
+        ]
+      }
+    },
+    "juri-n-gaari": {
+      "name": "Juriën Gaari",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "Abha Club",
+      "age": 28,
+      "profile": "Defender who played for Al Hazem during 2024-25 before transferring to Abha Club (August 2025). Solid defender with experience in top-tier football.",
+      "strengths": [
+        "Positioning and anticipation",
+        "Physical presence",
+        "Set-piece defending"
+      ],
+      "weaknesses": [
+        "Pace in modern game",
+        "Ball retention"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "28"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "12"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "54.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "44"
+          }
+        ]
+      }
+    },
+    "armando-obispo": {
+      "name": "Armando Obispo",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "PSV Eindhoven",
+      "age": 27,
+      "profile": "Center-back for PSV Eindhoven who won the 2024-25 Eredivisie title. Regular starter in a top Dutch club with strong defensive consistency.",
+      "strengths": [
+        "Defensive solidity",
+        "Aerial dominance",
+        "Concentration"
+      ],
+      "weaknesses": [
+        "Ball progression from defense",
+        "Pressing intensity"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/2ffa6348/Armando-Obispo",
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "35"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "17"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "62.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "58"
+          }
+        ]
+      }
+    },
+    "shurandy-sambo": {
+      "name": "Shurandy Sambo",
+      "country": "Curaçao",
+      "position": "DF",
+      "club": "Sparta Rotterdam",
+      "age": 24,
+      "profile": "Right-back who was on loan at Burnley during 2024-25 Championship season. Returned to Sparta Rotterdam on loan (August 2025) to compete in Eredivisie.",
+      "strengths": [
+        "Aerial duels",
+        "Concentration levels",
+        "Recovery pace"
+      ],
+      "weaknesses": [
+        "Tackling engagement",
+        "Pressing forward momentum"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "48.0"
+          },
+          {
+            "stat": "Clearances",
+            "value": "4"
+          }
+        ]
+      }
+    },
+    "juninho-bacuna": {
+      "name": "Juninho Bacuna",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "FC Volendam",
+      "age": 27,
+      "profile": "Central midfielder on loan at FC Volendam (February 2026) from Turkish club Gaziantep. Box-to-box midfielder with ability to drive play forward and contribute defensively.",
+      "strengths": [
+        "Ball distribution",
+        "Passing accuracy",
+        "Work rate"
+      ],
+      "weaknesses": [
+        "Defensive positioning",
+        "Physical intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "19"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "81.5"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "14"
+          }
+        ]
+      }
+    },
+    "leandro-bacuna": {
+      "name": "Leandro Bacuna",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "Iğdır FK",
+      "age": 31,
+      "profile": "Experienced midfielder playing in Turkish TFF Second League (third tier). Former Premier League player who adapts his game to the level of competition.",
+      "strengths": [
+        "Experience across multiple leagues",
+        "Ball control",
+        "Leadership"
+      ],
+      "weaknesses": [
+        "Pace and athleticism",
+        "High-intensity pressing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "24"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "75.0"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "livano-comenencia": {
+      "name": "Livano Comenencia",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "FC Zürich",
+      "age": 22,
+      "profile": "Young midfielder who joined FC Zurich (August 2025) from Juventus U23. Promising talent in the Swiss Super League with good technical ability.",
+      "strengths": [
+        "Technical proficiency",
+        "Reading the game",
+        "Forward passing"
+      ],
+      "weaknesses": [
+        "Physical robustness",
+        "Experience at elite level"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/c9d96dc1/Livano-Comenencia",
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "8"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "82.0"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "5"
+          },
+          {
+            "stat": "Appearances",
+            "value": "11"
+          }
+        ]
+      }
+    },
+    "kevin-felida": {
+      "name": "Kevin Felida",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "FC Den Bosch",
+      "age": 25,
+      "profile": "Defensive midfielder who returned to FC Den Bosch on a free transfer (July 2025). Provides midfield shield with solid ball-winning ability.",
+      "strengths": [
+        "Positional discipline",
+        "Ball interception",
+        "Work ethic"
+      ],
+      "weaknesses": [
+        "Progressive passing",
+        "Athletic intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "32"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "78.0"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "12"
+          },
+          {
+            "stat": "Appearances",
+            "value": "16"
+          }
+        ]
+      }
+    },
+    "ar-jany-martha": {
+      "name": "Ar'Jany Martha",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "Rotherham United",
+      "age": 22,
+      "profile": "Young midfielder who transferred to Rotherham United (July 2025) from Belgian Beerschot. Former Ajax academy prospect now competing in EFL League One.",
+      "strengths": [
+        "Technical ability",
+        "Ball retention",
+        "Creative passing"
+      ],
+      "weaknesses": [
+        "Defensive intensity",
+        "Physical presence"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "21"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "79.5"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "7"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "tyrese-noslin": {
+      "name": "Tyrese Noslin",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "SC Telstar",
+      "age": 23,
+      "profile": "Right wing-back who became a regular starter for SC Telstar during 2024-25 season. Operates primarily as a right-sided defender with attacking contributions.",
+      "strengths": [
+        "Crossing ability",
+        "Pace on the flank",
+        "Goal-scoring threat"
+      ],
+      "weaknesses": [
+        "Defensive consistency",
+        "Positioning awareness"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "34"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "76.0"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "11"
+          },
+          {
+            "stat": "Appearances",
+            "value": "32"
+          }
+        ]
+      }
+    },
+    "godfried-roemeratoe": {
+      "name": "Godfried Roemeratoe",
+      "country": "Curaçao",
+      "position": "MF",
+      "club": "RKC Waalwijk",
+      "age": 26,
+      "profile": "Central defensive midfielder for RKC Waalwijk in the Eredivisie. Provides protective shield in midfield with solid ball-winning and positioning abilities.",
+      "strengths": [
+        "Defensive positioning",
+        "Ball interception",
+        "Game reading"
+      ],
+      "weaknesses": [
+        "Progressive passing range",
+        "Technical limitations"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "38"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "75.0"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "14"
+          },
+          {
+            "stat": "Appearances",
+            "value": "19"
+          }
+        ]
+      }
+    },
+    "jeremy-antonisse": {
+      "name": "Jeremy Antonisse",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "AE Kifisia",
+      "age": 23,
+      "profile": "Left winger who played for Moreirense (Portugal) during 2024-25 and transferred to AE Kifisia (July 2025). Direct running attacker with good one-on-one ability.",
+      "strengths": [
+        "Dribbling and ball carrying",
+        "One-v-one capability",
+        "Final-third penetration"
+      ],
+      "weaknesses": [
+        "Crossing accuracy",
+        "Decision-making in transition"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "8"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "35.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "tahith-chong": {
+      "name": "Tahith Chong",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "Sheffield United",
+      "age": 24,
+      "profile": "Wide midfielder/attacking midfielder who joined Sheffield United (August 2025) from Luton Town. Played in EFL Championship during 2024-25 season.",
+      "strengths": [
+        "Dribbling ability",
+        "Creative play-making",
+        "Work rate"
+      ],
+      "weaknesses": [
+        "Finishing consistency",
+        "Defensive contribution"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "3"
+          },
+          {
+            "stat": "Assists",
+            "value": "5"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "32.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "kenji-gorre": {
+      "name": "Kenji Gorré",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "Maccabi Haifa",
+      "age": 25,
+      "profile": "Left winger for Maccabi Haifa (joined July 2025) in the Israeli Premier League. Direct running attacker valued for penetration and creating chances.",
+      "strengths": [
+        "Direct running",
+        "One-v-one quality",
+        "Final-third penetration"
+      ],
+      "weaknesses": [
+        "Defensive pressing intensity",
+        "Consistency"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "4"
+          },
+          {
+            "stat": "Assists",
+            "value": "6"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "38.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "sontje-hansen": {
+      "name": "Sontje Hansen",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "Middlesbrough",
+      "age": 24,
+      "profile": "Right winger who played for NEC Nijmegen during 2024-25 in Eredivisie, then transferred to Middlesbrough (August 2025) in the EFL Championship.",
+      "strengths": [
+        "Pace and acceleration",
+        "Direct running",
+        "Crossing into the box"
+      ],
+      "weaknesses": [
+        "Cutting inside and shooting",
+        "Defensive intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "4"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "40.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "32"
+          }
+        ]
+      }
+    },
+    "gervane-kastaneer": {
+      "name": "Gervane Kastaneer",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "Terengganu FC",
+      "age": 29,
+      "profile": "Striker who joined Terengganu FC (January 2026) in Malaysia Super League. Experienced forward who scored international hat-trick during 2024-25 season.",
+      "strengths": [
+        "Goal-scoring instinct",
+        "Physical presence",
+        "International experience"
+      ],
+      "weaknesses": [
+        "Pace decline with age",
+        "Pressing consistency"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "4"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "45.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "13"
+          }
+        ]
+      }
+    },
+    "brandley-kuwas": {
+      "name": "Brandley Kuwas",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "FC Volendam",
+      "age": 32,
+      "profile": "Veteran forward who joined FC Volendam (September 2024) in the Eerste Divisie. Experienced striker with over two decades of professional football.",
+      "strengths": [
+        "Positioning in the box",
+        "Finishing ability",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Pace and athleticism",
+        "Pressing intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "2"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "28.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "11"
+          }
+        ]
+      }
+    },
+    "jurgen-locadia": {
+      "name": "Jürgen Locadia",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "Miami FC",
+      "age": 32,
+      "profile": "Striker who signed with Miami FC (December 2025) in the USL Championship. Veteran forward with MLS experience providing goal-scoring threat.",
+      "strengths": [
+        "Finishing and penalty conversion",
+        "Off-the-ball movement",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Pace and explosiveness",
+        "Pressing without ball"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/6cc47ae1/Jurgen-Locadia",
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "4"
+          },
+          {
+            "stat": "Assists",
+            "value": "N/A"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "42.9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "6"
+          }
+        ]
+      }
+    },
+    "jearl-margaritha": {
+      "name": "Jearl Margaritha",
+      "country": "Curaçao",
+      "position": "FW",
+      "club": "SK Beveren",
+      "age": 25,
+      "profile": "Forward who signed with SK Beveren (August 2025) after playing for Phoenix Rising in USL Championship. Contributes with both goals and assists.",
+      "strengths": [
+        "Versatility across attacking roles",
+        "Finishing ability",
+        "Work rate"
+      ],
+      "weaknesses": [
+        "Consistency at elite level",
+        "Physical intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "5"
+          },
+          {
+            "stat": "Assists",
+            "value": "5"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "38.0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "hernan-galindez": {
+      "name": "Hernán Galíndez",
+      "country": "Ecuador",
+      "position": "GK",
+      "club": "Huracán",
+      "age": 32,
+      "profile": "Veteran goalkeeper with extensive experience in Argentina's top division. Reliable shot-stopper known for composure in high-pressure situations and consistent performances in South American football.",
+      "strengths": [
+        "Shot-stopping ability and reflexes",
+        "Distribution and ball-playing skills",
+        "Experience in competitive leagues"
+      ],
+      "weaknesses": [
+        "Age-related decline in mobility",
+        "Limited experience in top European leagues",
+        "Inconsistent form in recent seasons"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "72.4"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.45"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "24"
+          }
+        ]
+      }
+    },
+    "moises-ramirez": {
+      "name": "Moisés Ramírez",
+      "country": "Ecuador",
+      "position": "GK",
+      "club": "AE Kifisia",
+      "age": 27,
+      "profile": "Backup goalkeeper competing in Greece's Football League. Provides depth to Ecuador's goalkeeper contingent with experience in Greek football.",
+      "strengths": [
+        "Solid fundamentals and positioning",
+        "Experience with multiple clubs",
+        "Adaptability to different systems"
+      ],
+      "weaknesses": [
+        "Limited international experience",
+        "Playing in lower-tier European league",
+        "Less prominent at club level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "68.9"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.82"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "4"
+          },
+          {
+            "stat": "Appearances",
+            "value": "12"
+          }
+        ]
+      }
+    },
+    "gonzalo-valle": {
+      "name": "Gonzalo Valle",
+      "country": "Ecuador",
+      "position": "GK",
+      "club": "LDU Quito",
+      "age": 24,
+      "profile": "Young goalkeeper for Ecuador's domestic champion LDU Quito. Rising prospect learning in South America's competitive environment with potential for growth at international level.",
+      "strengths": [
+        "Youth and physical potential",
+        "Familiarity with Ecuador's football style",
+        "Competitive experience in Serie A Ecuador"
+      ],
+      "weaknesses": [
+        "Limited experience outside Ecuador",
+        "Inexperienced compared to squad alternatives",
+        "Developing game intelligence and positioning"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "70.1"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.53"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "10"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "willian-pacho": {
+      "name": "Willian Pacho",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "Paris Saint-Germain",
+      "age": 22,
+      "profile": "Dynamic left-back for PSG known for pace, athleticism, and progressive passing. Key player in Ecuador's defensive line combining speed with modern fullback responsibilities.",
+      "strengths": [
+        "Exceptional pace and athleticism",
+        "Progressive passing and ball progression",
+        "Aerial duels strength"
+      ],
+      "weaknesses": [
+        "Defensive positioning inconsistency",
+        "Discipline and disciplinary record",
+        "Experience in top competition still developing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.2"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.1"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "64.3"
+          },
+          {
+            "stat": "Clearances",
+            "value": "2.8"
+          }
+        ]
+      }
+    },
+    "piero-hincapie": {
+      "name": "Piero Hincapié",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "Arsenal",
+      "age": 23,
+      "profile": "Left-center back at Arsenal providing defensive stability with good positioning and composure. Key defensive anchor for Ecuador with experience in the Premier League's high intensity.",
+      "strengths": [
+        "Positional awareness and reading of play",
+        "Physical strength and aerial dominance",
+        "Consistency in major European football"
+      ],
+      "weaknesses": [
+        "Limited playing time at Arsenal",
+        "Speed for modern fullback demands",
+        "Occasional lapses in concentration"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2.8"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.4"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "72.1"
+          },
+          {
+            "stat": "Clearances",
+            "value": "3.5"
+          }
+        ]
+      }
+    },
+    "joel-ordonez": {
+      "name": "Joel Ordóñez",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "Club Brugge",
+      "age": 24,
+      "profile": "Right-back for Club Brugge providing defensive coverage and crossing ability. Solid defender with experience in Belgian First Division's competitive environment.",
+      "strengths": [
+        "Crossing ability and offensive support",
+        "Versatility in defensive positioning",
+        "One-on-one defending skills"
+      ],
+      "weaknesses": [
+        "Positioning errors in transition defense",
+        "Pace for recovering against pacey wingers",
+        "Limited experience in top European leagues"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.0"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.2"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "58.7"
+          },
+          {
+            "stat": "Clearances",
+            "value": "3.1"
+          }
+        ]
+      }
+    },
+    "felix-torres": {
+      "name": "Félix Torres",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "Internacional",
+      "age": 26,
+      "profile": "Center-back for Internacional providing defensive solidity and leadership. Experienced defender in Brasileirão with strong physical presence and positioning.",
+      "strengths": [
+        "Aerial dominance and headers",
+        "Positioning and defensive intelligence",
+        "Physical strength and presence"
+      ],
+      "weaknesses": [
+        "Pace limitations in wide coverage",
+        "Recovery speed against quick strikers",
+        "Consistency varies with match difficulty"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.5"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.8"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "74.2"
+          },
+          {
+            "stat": "Clearances",
+            "value": "4.1"
+          }
+        ]
+      }
+    },
+    "pervis-estupinan": {
+      "name": "Pervis Estupiñán",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "AC Milan",
+      "age": 26,
+      "profile": "Attack-minded left-back for AC Milan known for pace and progressive play. Brings European pedigree and experience in Serie A's tactical football to Ecuador's defense.",
+      "strengths": [
+        "Pace and athleticism in wide areas",
+        "Progressive passing and ball progression",
+        "Recovery pace and directional changes"
+      ],
+      "weaknesses": [
+        "Defensive positioning vulnerabilities",
+        "Concentration lapses against clinical finishers",
+        "Limited aerial presence for a fullback"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2.4"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "0.9"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "52.1"
+          },
+          {
+            "stat": "Clearances",
+            "value": "2.1"
+          }
+        ]
+      }
+    },
+    "angelo-preciado": {
+      "name": "Ángelo Preciado",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "Atlético Mineiro",
+      "age": 25,
+      "profile": "Right-back for Atlético Mineiro providing defensive coverage with good crossing ability. Solid performer in Brazil's top division with balanced defensive and offensive contributions.",
+      "strengths": [
+        "Crossing and set-piece delivery",
+        "Physical durability and consistency",
+        "One-on-one defending ability"
+      ],
+      "weaknesses": [
+        "Limited pace for recovery situations",
+        "Positioning against high-intensity pressing",
+        "Decision-making in transition"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.2"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.3"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "61.4"
+          },
+          {
+            "stat": "Clearances",
+            "value": "3.4"
+          }
+        ]
+      }
+    },
+    "jackson-porozo": {
+      "name": "Jackson Porozo",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "Club Tijuana",
+      "age": 27,
+      "profile": "Center-back for Club Tijuana providing defensive leadership and physical presence. Experienced defender in Mexico's Liga MX with solid tactical understanding.",
+      "strengths": [
+        "Aerial dominance and heading ability",
+        "Defensive positioning and communication",
+        "Physical presence and strength"
+      ],
+      "weaknesses": [
+        "Pace for covering ground laterally",
+        "Vulnerability to pace-based attacking strategies",
+        "Limited experience in top European football"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.8"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "2.1"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "70.3"
+          },
+          {
+            "stat": "Clearances",
+            "value": "4.5"
+          }
+        ]
+      }
+    },
+    "yaimar-medina": {
+      "name": "Yaimar Medina",
+      "country": "Ecuador",
+      "position": "DF",
+      "club": "KRC Genk",
+      "age": 24,
+      "profile": "Defender for KRC Genk with versatility to play across the back line. Provides depth and flexibility to Ecuador's defensive options in Belgian First Division.",
+      "strengths": [
+        "Positional versatility across back line",
+        "Composure on the ball and distribution",
+        "Recovery speed and agility"
+      ],
+      "weaknesses": [
+        "Limited offensive contribution from defense",
+        "Inconsistent form in competitive matches",
+        "Aerial dominance not a strength"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2.9"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.6"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "55.2"
+          },
+          {
+            "stat": "Clearances",
+            "value": "2.8"
+          }
+        ]
+      }
+    },
+    "moises-caicedo": {
+      "name": "Moisés Caicedo",
+      "country": "Ecuador",
+      "position": "MF",
+      "club": "Chelsea",
+      "age": 23,
+      "profile": "Dynamic midfielder for Chelsea serving as Ecuador's midfield engine. Brings Premier League experience with high press resistance and box-to-box capability combining defensive and creative duties.",
+      "strengths": [
+        "Ball progression and composure under pressure",
+        "Physical presence and press resistance",
+        "Box-to-box running and stamina"
+      ],
+      "weaknesses": [
+        "Inconsistent defensive positioning",
+        "Limited creative playmaking and passing range",
+        "Concentration lapses in possession"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2.6"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "81.3"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.4"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "jordy-alcivar": {
+      "name": "Jordy Alcívar",
+      "country": "Ecuador",
+      "position": "MF",
+      "club": "Independiente",
+      "age": 25,
+      "profile": "Midfielder for Independiente providing midfield stability and work rate. Solid performer in Argentina's Primera División with experience in competitive South American football.",
+      "strengths": [
+        "Work rate and physical presence",
+        "Ball retention and composure",
+        "Versatility across midfield positions"
+      ],
+      "weaknesses": [
+        "Limited technical skill and dribbling ability",
+        "Passes lack creativity and incision",
+        "Inconsistent form season to season"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.1"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "78.5"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.7"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "denil-castillo": {
+      "name": "Denil Castillo",
+      "country": "Ecuador",
+      "position": "MF",
+      "club": "Midtjylland",
+      "age": 23,
+      "profile": "Midfielder for Midtjylland in Danish Superliga. Developing talent with potential to grow internationally while gaining experience in competitive European football.",
+      "strengths": [
+        "Technical ability and passing range",
+        "Youth and physical development potential",
+        "Adaptability to tactical systems"
+      ],
+      "weaknesses": [
+        "Limited experience at highest levels",
+        "Inconsistent form due to development stage",
+        "Defensive liability in transition play"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "1.8"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "76.2"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "0.8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "14"
+          }
+        ]
+      }
+    },
+    "alan-franco": {
+      "name": "Alan Franco",
+      "country": "Ecuador",
+      "position": "MF",
+      "club": "Atlético Mineiro",
+      "age": 25,
+      "profile": "Midfielder for Atlético Mineiro providing midfield control and defensive stability. Experienced performer in Brazil's top division with tactical discipline.",
+      "strengths": [
+        "Defensive positioning and awareness",
+        "Ball retention under pressure",
+        "Passing accuracy and distribution"
+      ],
+      "weaknesses": [
+        "Limited dribbling and creative play",
+        "Lacks explosive athleticism",
+        "Set-piece vulnerability"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2.7"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "82.1"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "20"
+          }
+        ]
+      }
+    },
+    "pedro-vite": {
+      "name": "Pedro Vite",
+      "country": "Ecuador",
+      "position": "MF",
+      "club": "Pumas UNAM",
+      "age": 24,
+      "profile": "Midfielder for Pumas UNAM in Mexico's Liga MX. Box-to-box player with energy and work rate bringing intensity to Ecuador's midfield.",
+      "strengths": [
+        "Energy and running power",
+        "Pressing intensity and recovery",
+        "Leadership and communication on field"
+      ],
+      "weaknesses": [
+        "Technical skill limitations",
+        "Passing range and precision",
+        "Inconsistent form in difficult matches"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "3.3"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "77.8"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1.5"
+          },
+          {
+            "stat": "Appearances",
+            "value": "19"
+          }
+        ]
+      }
+    },
+    "kendry-paez": {
+      "name": "Kendry Páez",
+      "country": "Ecuador",
+      "position": "MF",
+      "club": "River Plate",
+      "age": 20,
+      "profile": "Young talent for River Plate representing Ecuador's future midfield. Promising prospect with technical ability and potential for significant international impact in coming years.",
+      "strengths": [
+        "Technical skill and dribbling ability",
+        "Passing range and vision",
+        "Youth and physical development potential"
+      ],
+      "weaknesses": [
+        "Defensive positioning still developing",
+        "Consistency at highest competitive levels",
+        "Physical maturity against senior defenders"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "1.4"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "79.6"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "0.6"
+          },
+          {
+            "stat": "Appearances",
+            "value": "16"
+          }
+        ]
+      }
+    },
+    "kevin-rodriguez": {
+      "name": "Kevin Rodríguez",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Royale Union Saint-Gilloise",
+      "age": 26,
+      "profile": "Forward for Union Saint-Gilloise providing attacking depth. Experienced goal scorer with experience in Belgian First Division offering alternative attacking options.",
+      "strengths": [
+        "Finishing ability and positioning in box",
+        "Physical presence and hold-up play",
+        "Movement off the ball and spatial awareness"
+      ],
+      "weaknesses": [
+        "Limited pace for running behind defense",
+        "Dribbling limitations in tight spaces",
+        "Inconsistent goal-scoring form"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "8"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "42.1"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "anthony-valencia": {
+      "name": "Anthony Valencia",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Royal Antwerp",
+      "age": 24,
+      "profile": "Forward for Royal Antwerp in Belgium's top division. Provides attacking options with pace and directness in Ecuador's forward line.",
+      "strengths": [
+        "Pace and directness in attack",
+        "One-on-one finishing ability",
+        "Willingness to press and work defensively"
+      ],
+      "weaknesses": [
+        "Limited consistency in front of goal",
+        "Aerial dominance not a strength",
+        "First touch and ball control variability"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "38.7"
+          },
+          {
+            "stat": "Appearances",
+            "value": "20"
+          }
+        ]
+      }
+    },
+    "enner-valencia": {
+      "name": "Enner Valencia",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Pachuca",
+      "age": 34,
+      "profile": "Experienced captain leading Ecuador's forward line. Proven goal scorer with international pedigree bringing leadership and finishing quality to attacking lineup.",
+      "strengths": [
+        "Clinical finishing and goal-scoring instinct",
+        "Leadership and mental strength",
+        "Experience in major tournaments"
+      ],
+      "weaknesses": [
+        "Age-related decline in pace",
+        "Physical recovery and durability",
+        "Limited creative play for teammates"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "12"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "48.3"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "jordy-caicedo": {
+      "name": "Jordy Caicedo",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Huracán",
+      "age": 23,
+      "profile": "Forward for Huracán providing attacking depth with physical presence. Developing goal scorer in Argentina's Primera División.",
+      "strengths": [
+        "Physical strength and hold-up play",
+        "Heading ability from set pieces",
+        "Pressing intensity and work rate"
+      ],
+      "weaknesses": [
+        "Finishing quality inconsistency",
+        "Limited creativity and linkup play",
+        "Movement patterns sometimes predictable"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "5"
+          },
+          {
+            "stat": "Assists",
+            "value": "N/A"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "35.6"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "jeremy-arevalo": {
+      "name": "Jeremy Arévalo",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "VfB Stuttgart",
+      "age": 23,
+      "profile": "Forward for VfB Stuttgart in Germany's Bundesliga. Brings top European experience with technical ability and tactical understanding.",
+      "strengths": [
+        "Technical quality and ball control",
+        "Tactical positioning and off-ball movement",
+        "Versatility across attacking positions"
+      ],
+      "weaknesses": [
+        "Goal-scoring consistency at highest level",
+        "Limited physical presence",
+        "Playing time and fitness concerns"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "3"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "32.1"
+          },
+          {
+            "stat": "Appearances",
+            "value": "8"
+          }
+        ]
+      }
+    },
+    "gonzalo-plata": {
+      "name": "Gonzalo Plata",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Flamengo",
+      "age": 23,
+      "profile": "Winger for Flamengo bringing pace and dribbling to Ecuador's attack. Talented wide player with technical ability and potential for explosive performances.",
+      "strengths": [
+        "Pace and acceleration in wide areas",
+        "Dribbling and ball progression",
+        "One-on-one ability against defenders"
+      ],
+      "weaknesses": [
+        "Crossing accuracy and final pass",
+        "Defensive work rate and positioning",
+        "Consistency and decision-making"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "7"
+          },
+          {
+            "stat": "Assists",
+            "value": "4"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "39.8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "21"
+          }
+        ]
+      }
+    },
+    "alan-minda": {
+      "name": "Alan Minda",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Atlético Mineiro",
+      "age": 22,
+      "profile": "Young forward for Atlético Mineiro with potential for growth. Developing goal scorer gaining experience in Brazil's competitive environment.",
+      "strengths": [
+        "Youth and physical development potential",
+        "Pace and directness in attack",
+        "Work rate and pressing intensity"
+      ],
+      "weaknesses": [
+        "Finishing quality still developing",
+        "Limited experience at top level",
+        "Decision-making in attacking positions"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "4"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "34.2"
+          },
+          {
+            "stat": "Appearances",
+            "value": "12"
+          }
+        ]
+      }
+    },
+    "john-yeboah": {
+      "name": "John Yeboah",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Venezia",
+      "age": 21,
+      "profile": "Young forward for Venezia in Italy's Serie A. Promising prospect gaining experience in top European football with potential for future development.",
+      "strengths": [
+        "Technical quality and dribbling ability",
+        "Pace and athleticism",
+        "Tactical positioning off the ball"
+      ],
+      "weaknesses": [
+        "Finishing in front of goal",
+        "Physical strength against top defenders",
+        "Limited international experience"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "2"
+          },
+          {
+            "stat": "Assists",
+            "value": "N/A"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "28.9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "6"
+          }
+        ]
+      }
+    },
+    "nilson-angulo": {
+      "name": "Nilson Angulo",
+      "country": "Ecuador",
+      "position": "FW",
+      "club": "Sunderland",
+      "age": 22,
+      "profile": "Forward for Sunderland in England's Championship. Young talent with potential developing in competitive English football.",
+      "strengths": [
+        "Pace and directional ability",
+        "Physical presence and strength",
+        "Pressing and harassing defenders"
+      ],
+      "weaknesses": [
+        "Technical skill limitations",
+        "Finishing consistency",
+        "Spatial awareness in attack"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "3"
+          },
+          {
+            "stat": "Assists",
+            "value": "N/A"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "31.4"
+          },
+          {
+            "stat": "Appearances",
+            "value": "10"
+          }
+        ]
+      }
+    },
+    "manuel-neuer": {
+      "name": "Manuel Neuer",
+      "country": "Germany",
+      "position": "GK",
+      "club": "Bayern Munich",
+      "age": 40,
+      "profile": "Legendary German goalkeeper and Bayern Munich captain who remains Germany's premier shot-stopper despite his age. Known for his exceptional distribution and sweeper-keeper style, commanding both the air and ground.",
+      "strengths": [
+        "Elite shot-stopping and reflexes with consistent clean sheets",
+        "Exceptional ball-playing ability and distribution from the back",
+        "Leadership and command of the penalty area with 124 international caps"
+      ],
+      "weaknesses": [
+        "Age (40) and potential durability concerns for tournament football",
+        "Limited mobility compared to younger goalkeepers in one-on-one situations"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "76.5%"
+          },
+          {
+            "stat": "GA/90",
+            "value": "1.08"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "10"
+          },
+          {
+            "stat": "Appearances",
+            "value": "25"
+          }
+        ]
+      }
+    },
+    "oliver-baumann": {
+      "name": "Oliver Baumann",
+      "country": "Germany",
+      "position": "GK",
+      "club": "TSG Hoffenheim",
+      "age": 32,
+      "profile": "Experienced Hoffenheim shot-stopper providing reliable backup goalkeeper depth. A capable keeper in the Bundesliga with steady performance record.",
+      "strengths": [
+        "Consistent shot-stopping and reliable performances in Bundesliga",
+        "Good distribution and composure with the ball at his feet",
+        "Proven depth at the international level with 31 Germany caps"
+      ],
+      "weaknesses": [
+        "Limited playing time at international level means match rhythm may be an issue",
+        "Plays for a mid-table Bundesliga club without high-pressure experience"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "71.2%"
+          },
+          {
+            "stat": "GA/90",
+            "value": "1.36"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "alexander-nubel": {
+      "name": "Alexander Nübel",
+      "country": "Germany",
+      "position": "GK",
+      "club": "Monaco",
+      "age": 28,
+      "profile": "Rising goalkeeper with European pedigree, competing at Ligue 1's AS Monaco. Future German goalkeeper prospect developing at a top-tier European club.",
+      "strengths": [
+        "Modern sweeper-keeper capable with distribution and positioning",
+        "Competing in Ligue 1 at Monaco with high-level European experience",
+        "Good reflex saves and shot-stopping ability"
+      ],
+      "weaknesses": [
+        "Limited international experience for Germany (less established in national team)",
+        "Playing time subject to Monaco's rotation policy"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "73.8%"
+          },
+          {
+            "stat": "GA/90",
+            "value": "1.14"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "5"
+          },
+          {
+            "stat": "Appearances",
+            "value": "15"
+          }
+        ]
+      }
+    },
+    "waldemar-anton": {
+      "name": "Waldemar Anton",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Borussia Dortmund",
+      "age": 28,
+      "profile": "Solid Dortmund center-back providing defensive stability and aerial dominance. A no-nonsense defender focused on blocking, tackling, and clearing.",
+      "strengths": [
+        "Strong in aerial duels and physical presence in the box",
+        "Reliable tackler with good positioning and defensive awareness",
+        "Experience in Bundesliga and European competition"
+      ],
+      "weaknesses": [
+        "Limited ball-playing ability from the back compared to elite defenders",
+        "Can be vulnerable to technical, possession-based attacks"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "62"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "41"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "71.3%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "118"
+          }
+        ]
+      }
+    },
+    "nathaniel-brown": {
+      "name": "Nathaniel Brown",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Eintracht Frankfurt",
+      "age": 27,
+      "profile": "Frankfurt fullback providing depth at left-back with good attacking contributions. A modern fullback balancing defensive duties with overlapping runs.",
+      "strengths": [
+        "Energetic pressing and tracking of wingers in one-on-one situations",
+        "Capable attacking fullback with quality crosses and underlaps",
+        "Good speed and recovery pace for defensive transitions"
+      ],
+      "weaknesses": [
+        "Inconsistent defensive positioning against direct play",
+        "Limited international experience for Germany at this level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "48"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "28"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "58.2%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "72"
+          }
+        ]
+      }
+    },
+    "joshua-kimmich": {
+      "name": "Joshua Kimmich",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Bayern Munich",
+      "age": 29,
+      "profile": "Munich right-back and one of Europe's most complete defenders with elite technical ability. Renowned for intelligence, reading the game, and forward runs.",
+      "strengths": [
+        "World-class positioning, anticipation, and game intelligence at right-back",
+        "Exceptional passer and ball progression from deep positions",
+        "Versatility to play as defensive midfielder or centerback when needed"
+      ],
+      "weaknesses": [
+        "Can be exposed against explosive wingers with space to run",
+        "Occasional defensive lapses when overcommitted going forward"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "51"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "38"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "64.7%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "94"
+          }
+        ]
+      }
+    },
+    "david-raum": {
+      "name": "David Raum",
+      "country": "Germany",
+      "position": "DF",
+      "club": "RB Leipzig",
+      "age": 26,
+      "profile": "Leipzig left-back with explosive pace and attacking flair. A modern fullback excelling in pressing and counterpress while contributing significantly in attack.",
+      "strengths": [
+        "Exceptional pace and athleticism enabling aggressive pressing and recovery",
+        "Strong attacking contributions with quality crosses and decisive final passes",
+        "Excellent positioning in pressing triggers and defensive transitions"
+      ],
+      "weaknesses": [
+        "Can be vulnerable to direct, physical play against larger forwards",
+        "Occasional lapses in concentration when overcommitted attacking"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "55"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "31"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "52.1%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "68"
+          }
+        ]
+      }
+    },
+    "antonio-rudiger": {
+      "name": "Antonio Rüdiger",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Real Madrid",
+      "age": 31,
+      "profile": "Madrid center-back and Germany's defensive leader bringing elite European pedigree. Aggressive, physically dominant defender with excellent recovery pace.",
+      "strengths": [
+        "World-class physical presence and aggressive defending with relentless intensity",
+        "Outstanding recovery pace and one-on-one defending against strikers",
+        "Excellent left-footed distribution and ability to play out from the back"
+      ],
+      "weaknesses": [
+        "Occasional discipline issues and rash challenges leading to yellow/red cards",
+        "Can be vulnerable to technical, quick-passing movements in tight spaces"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "68"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "44"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "78.5%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "142"
+          }
+        ]
+      }
+    },
+    "nico-schlotterbeck": {
+      "name": "Nico Schlotterbeck",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Borussia Dortmund",
+      "age": 24,
+      "profile": "Young Dortmund center-back with exceptional physical attributes and modern positioning. A ball-playing defender with excellent recovery pace.",
+      "strengths": [
+        "Impressive speed and recovery pace with outstanding athleticism",
+        "Excellent positioning and game-reading with good one-on-one defending",
+        "Progressive passer and comfortable on the ball"
+      ],
+      "weaknesses": [
+        "Occasional positional inconsistencies in complex defensive situations",
+        "Can be caught out by clever movement and switches of play"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "59"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "36"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "76.2%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "115"
+          }
+        ]
+      }
+    },
+    "jonathan-tah": {
+      "name": "Jonathan Tah",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Bayern Munich",
+      "age": 28,
+      "profile": "Munich center-back transferred from Leverkusen, providing left-sided defensive presence. Physical, strong ball-playing defender with solid positioning.",
+      "strengths": [
+        "Strong in aerial duels and physical battles with strikers",
+        "Good left-footed distributor and progressive passer",
+        "Reliable positioning and defensive awareness"
+      ],
+      "weaknesses": [
+        "Limited mobility for a top-tier center-back in modern football",
+        "Can struggle against quick, technical forwards in one-on-one situations"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "48"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "32"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "74.1%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "89"
+          }
+        ]
+      }
+    },
+    "malick-thiaw": {
+      "name": "Malick Thiaw",
+      "country": "Germany",
+      "position": "DF",
+      "club": "Newcastle United",
+      "age": 24,
+      "profile": "Newcastle center-back bringing Premier League experience and explosive athleticism. A physical defender with excellent recovery pace and positioning.",
+      "strengths": [
+        "Exceptional pace and athleticism with recovery speeds among the best",
+        "Strong physical presence and willingness to engage in duels",
+        "Good positioning and reading of the game in defensive situations"
+      ],
+      "weaknesses": [
+        "Occasional lapses in concentration and focus during matches",
+        "Ball-playing ability below the standard of elite center-backs"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "42"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "28"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "68.3%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "76"
+          }
+        ]
+      }
+    },
+    "nadiem-amiri": {
+      "name": "Nadiem Amiri",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Mainz 05",
+      "age": 28,
+      "profile": "Mainz midfielder offering creative midfield depth and pressing intensity. A versatile attacking midfielder with good work rate and box-to-box capabilities.",
+      "strengths": [
+        "Intelligent off-ball movement and pressing triggers in midfield",
+        "Good work rate and intensity throughout 90 minutes",
+        "Capable passer with decent passing accuracy"
+      ],
+      "weaknesses": [
+        "Limited goal threat from midfield and inconsistent finishing",
+        "Can be overrun in more competitive midfields against elite sides"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "35"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "82.1%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "22"
+          },
+          {
+            "stat": "Appearances",
+            "value": "20"
+          }
+        ]
+      }
+    },
+    "leon-goretzka": {
+      "name": "Leon Goretzka",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Bayern Munich",
+      "age": 29,
+      "profile": "Munich's box-to-box midfielder combining physicality with technical quality. A powerful runner with excellent pressing and progressive passing.",
+      "strengths": [
+        "Powerful athlete with excellent box-to-box energy and work rate",
+        "Strong in duel situations and excellent physical presence",
+        "Good ball progression and passing range to unlock defenses"
+      ],
+      "weaknesses": [
+        "Injury history and durability concerns affecting consistency",
+        "Limited creative genius compared to elite midfielders"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "28"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "84.3%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "18"
+          },
+          {
+            "stat": "Appearances",
+            "value": "16"
+          }
+        ]
+      }
+    },
+    "pascal-gross": {
+      "name": "Pascal Groß",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Brighton & Hove Albion",
+      "age": 33,
+      "profile": "Brighton veteran midfielder providing experience and set-piece quality. A capable deep playmaker with good distribution and tactical awareness.",
+      "strengths": [
+        "Excellent set-piece delivery for both corners and free-kicks",
+        "Smart positioning and game intelligence in midfield",
+        "Reliable passer with good accuracy over distance"
+      ],
+      "weaknesses": [
+        "Declining pace and athleticism at age 33",
+        "Limited dribbling ability and lower ceiling for one-on-one contributions"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "32"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "86.7%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "26"
+          },
+          {
+            "stat": "Appearances",
+            "value": "24"
+          }
+        ]
+      }
+    },
+    "jamie-leweling": {
+      "name": "Jamie Leweling",
+      "country": "Germany",
+      "position": "MF",
+      "club": "VfB Stuttgart",
+      "age": 23,
+      "profile": "Stuttgart midfielder with pace and pressing intensity. A modern pressing midfielder capable of transitions with good directness in possession.",
+      "strengths": [
+        "Excellent pressing and counterpressing triggers with high work rate",
+        "Pace and athleticism enabling rapid transitions and recovery",
+        "Capable dribbler with ability to progress the ball"
+      ],
+      "weaknesses": [
+        "Inconsistent decision-making and execution in final third",
+        "Limited end product and creative play compared to elite midfielders"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "31"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "79.8%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "19"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "lennart-karl": {
+      "name": "Lennart Karl",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Bayern Munich",
+      "age": 22,
+      "profile": "Young Munich midfielder emerging as a prospect with technical quality and intelligence. A playmaking midfielder with good vision and creative passing.",
+      "strengths": [
+        "Excellent technical ability and ball-playing for a young midfielder",
+        "Good vision and ability to unlock defenses with creative passes",
+        "Intelligent positioning and understanding of spacing"
+      ],
+      "weaknesses": [
+        "Limited physical presence and durability at higher levels",
+        "Lack of major tournament experience and international appearances"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "12"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "88.4%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "6"
+          },
+          {
+            "stat": "Appearances",
+            "value": "8"
+          }
+        ]
+      }
+    },
+    "jamal-musiala": {
+      "name": "Jamal Musiala",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Bayern Munich",
+      "age": 21,
+      "profile": "Munich's creative jewel and Germany's future star with exceptional dribbling and intelligence. A left-footed playmaker combining pace with technical mastery.",
+      "strengths": [
+        "Exceptional dribbling and close control with ability to drive past defenders",
+        "Superb creative intelligence and passing range to unlock defenses",
+        "Intelligent movement and positioning enabling impactful involvement"
+      ],
+      "weaknesses": [
+        "Occasionally too individualistic resulting in lost possession",
+        "Limited physical presence and occasional defensive vulnerability"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "24"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "85.6%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "16"
+          },
+          {
+            "stat": "Appearances",
+            "value": "29"
+          }
+        ]
+      }
+    },
+    "felix-nmecha": {
+      "name": "Felix Nmecha",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Borussia Dortmund",
+      "age": 24,
+      "profile": "Dortmund defensive midfielder anchoring the midfield with positional awareness. A shield midfielder with good distribution and workrate.",
+      "strengths": [
+        "Excellent positioning and reading of play for defensive stability",
+        "Good passing range and ability to distribute from deep",
+        "Strong physical presence and work rate in midfield"
+      ],
+      "weaknesses": [
+        "Limited creativity and progressive passing compared to box-to-box midfielders",
+        "Occasional lapses in concentration during intense matches"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "48"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "83.2%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "32"
+          },
+          {
+            "stat": "Appearances",
+            "value": "21"
+          }
+        ]
+      }
+    },
+    "aleksandar-pavlovic": {
+      "name": "Aleksandar Pavlović",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Bayern Munich",
+      "age": 20,
+      "profile": "Munich's young midfielder prospect with solid positional awareness and pressing. A developing playmaker learning at the highest level.",
+      "strengths": [
+        "Good positioning and intelligence for a young midfielder",
+        "Solid work rate and pressing triggers in midfield setup",
+        "Capable passer and possession retention"
+      ],
+      "weaknesses": [
+        "Very limited experience at international and top-level football",
+        "Lack of creativity and limited impact in attacking phases"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "18"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "81.9%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "11"
+          }
+        ]
+      }
+    },
+    "angelo-stiller": {
+      "name": "Angelo Stiller",
+      "country": "Germany",
+      "position": "MF",
+      "club": "VfB Stuttgart",
+      "age": 23,
+      "profile": "Stuttgart midfielder providing depth with technical ability and positioning. A pressing-focused midfielder with good distribution from deep.",
+      "strengths": [
+        "Excellent pressing and counterpressing intensity",
+        "Good technical ability and ball progression from midfield",
+        "Solid positioning and off-ball awareness"
+      ],
+      "weaknesses": [
+        "Limited physical presence compared to box-to-box alternatives",
+        "Inconsistent consistency in high-pressure matches"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "29"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "84.1%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "21"
+          },
+          {
+            "stat": "Appearances",
+            "value": "17"
+          }
+        ]
+      }
+    },
+    "florian-wirtz": {
+      "name": "Florian Wirtz",
+      "country": "Germany",
+      "position": "MF",
+      "club": "Liverpool",
+      "age": 21,
+      "profile": "Liverpool's attacking midfielder/winger with exceptional creativity and dribbling. A technical genius capable of playing multiple attacking roles.",
+      "strengths": [
+        "Exceptional dribbling and ball control with ability to create from tight spaces",
+        "Excellent vision and creative passing enabling chance creation",
+        "High intelligence and movement for a young attacking player"
+      ],
+      "weaknesses": [
+        "Limited defensive contribution and work rate off the ball",
+        "Occasional decision-making inconsistency in high-pressure moments"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "18"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "82.3%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "12"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "maximilian-beier": {
+      "name": "Maximilian Beier",
+      "country": "Germany",
+      "position": "FW",
+      "club": "Borussia Dortmund",
+      "age": 22,
+      "profile": "Dortmund forward with pace and directness, developing as a young striker. A modern forward with good movement in the box and counter-attack awareness.",
+      "strengths": [
+        "Excellent pace and athleticism with rapid directness",
+        "Good movement in the box and finishing quality",
+        "Effective on counter-attacks with decisive running"
+      ],
+      "weaknesses": [
+        "Limited link-up play and tactical flexibility",
+        "Inconsistent performances in possession-dominant matches"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "51.2%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "23"
+          }
+        ]
+      }
+    },
+    "kai-havertz": {
+      "name": "Kai Havertz",
+      "country": "Germany",
+      "position": "FW",
+      "club": "Arsenal",
+      "age": 25,
+      "profile": "Arsenal's modern forward providing versatility across attacking roles. A technically gifted player capable of playing as a number 9 or on the wing.",
+      "strengths": [
+        "Excellent technical ability and intelligent positioning in attack",
+        "Good goal-scoring instinct with improving consistency",
+        "Versatility to play multiple positions across the front line"
+      ],
+      "weaknesses": [
+        "Occasional inconsistency in crucial finishing moments",
+        "Can disappear in matches where service is limited"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "12"
+          },
+          {
+            "stat": "Assists",
+            "value": "5"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "54.1%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "leroy-sane": {
+      "name": "Leroy Sané",
+      "country": "Germany",
+      "position": "FW",
+      "club": "Galatasaray",
+      "age": 28,
+      "profile": "Galatasaray winger bringing significant experience and pace to Germany's attack. A creative playmaker capable of both scoring and assisting from wide positions.",
+      "strengths": [
+        "Exceptional pace and ability to beat defenders one-on-one",
+        "Quality crossing and creative passing from wide positions",
+        "Strong goal-scoring record with decisive finishing"
+      ],
+      "weaknesses": [
+        "Playing in Turkish league reduces competitive level exposure",
+        "Occasional inconsistency and commitment concerns"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "8"
+          },
+          {
+            "stat": "Assists",
+            "value": "6"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "48.6%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "20"
+          }
+        ]
+      }
+    },
+    "deniz-undav": {
+      "name": "Deniz Undav",
+      "country": "Germany",
+      "position": "FW",
+      "club": "VfB Stuttgart",
+      "age": 27,
+      "profile": "Stuttgart striker with prolific goal-scoring record in Bundesliga. An intelligent forward with excellent positioning and clinical finishing.",
+      "strengths": [
+        "Excellent positioning and movement to find space in the box",
+        "Reliable and clinical finishing with strong goal-scoring record",
+        "Good link-up play and ability to hold up the ball"
+      ],
+      "weaknesses": [
+        "Limited pace and athleticism compared to modern elite forwards",
+        "Can be isolated without sufficient service and support"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "13"
+          },
+          {
+            "stat": "Assists",
+            "value": "4"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "56.8%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "nick-woltemade": {
+      "name": "Nick Woltemade",
+      "country": "Germany",
+      "position": "FW",
+      "club": "Newcastle United",
+      "age": 24,
+      "profile": "Newcastle young forward with pace and athleticism. An energetic attacker with potential, bringing physicality and directness.",
+      "strengths": [
+        "Excellent pace and athleticism with rapid acceleration",
+        "Physical presence and aggressive running off the ball",
+        "Potential for development as a modern forward"
+      ],
+      "weaknesses": [
+        "Limited goal-scoring record and finishing consistency",
+        "Inconsistent performances at higher competitive levels"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Season",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "2"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "42.1%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "12"
+          }
+        ]
+      }
     }
   }
 }
