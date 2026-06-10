@@ -8072,6 +8072,4062 @@
           }
         ]
       }
+    },
+    "alisson": {
+      "name": "Alisson",
+      "country": "Brazil",
+      "position": "GK",
+      "club": "Liverpool",
+      "age": 32,
+      "profile": "Alisson is widely regarded as one of the finest goalkeepers of his generation, combining elite shot-stopping with commanding presence and distribution that allows Liverpool to play out from the back. He won the Premier League Golden Glove for 2024-25, recording 9 clean sheets in 28 appearances despite missing several matches through injury. At the 2026 World Cup, he provides Brazil with an immovable presence between the posts and a leader of the defensive unit.",
+      "strengths": [
+        "World-class shot-stopping instincts",
+        "Distribution and ability to initiate attacks",
+        "Leadership and command of the penalty area"
+      ],
+      "weaknesses": [
+        "Injury vulnerability reduced appearances in 2024-25",
+        "Occasionally overconfident in coming off his line"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "72.9%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.04"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "ederson": {
+      "name": "Ederson",
+      "country": "Brazil",
+      "position": "GK",
+      "club": "Fenerbahce",
+      "age": 31,
+      "profile": "Ederson built his reputation at Manchester City as a sweeper-keeper with exceptional with-the-ball ability, revolutionising the goalkeeper position under Pep Guardiola. His 2024-25 season was his worst at City, keeping just 10 clean sheets in 26 Premier League appearances as the team struggled collectively, leading to his summer 2025 move to Fenerbahce. He brings experience and composure as Brazil's second-choice goalkeeper at the 2026 World Cup.",
+      "strengths": [
+        "Exceptional distribution and ball-playing ability",
+        "Composure under pressure",
+        "Sweeper-keeper range outside the box"
+      ],
+      "weaknesses": [
+        "Save percentage declined in a poor 2024-25 City season",
+        "Questions about form after difficult final campaign at City"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "67.5%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.00"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "10"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "weverton": {
+      "name": "Weverton",
+      "country": "Brazil",
+      "position": "GK",
+      "club": "Gremio",
+      "age": 38,
+      "profile": "Weverton is a veteran Brazilian goalkeeper who spent a decade as the undisputed number one at Palmeiras, winning two Copa Libertadores titles before joining Gremio in early 2026. During the 2024 Brasileirao season at Palmeiras, he was among the league's most reliable stoppers with a 79.5% save rate and 16 clean sheets in 37 appearances. At the 2026 World Cup, he serves as Brazil's experienced third-choice option.",
+      "strengths": [
+        "Proven reliability in high-stakes Brasileirao matches",
+        "Shot-stopping consistency over a long career",
+        "Leadership within the squad hierarchy"
+      ],
+      "weaknesses": [
+        "Age (38) limits athleticism compared to younger alternatives",
+        "Less exposure to elite European football"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "79.5%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.05"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "16"
+          },
+          {
+            "stat": "Appearances",
+            "value": "37"
+          }
+        ]
+      }
+    },
+    "wesley": {
+      "name": "Wesley",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Roma",
+      "age": 21,
+      "profile": "Wesley is a dynamic right-back who became one of the most coveted young defenders in South America during his time at Flamengo, earning a €30 million move to Roma in the summer of 2025. In the 2024 Brasileirao he made 31 appearances from right-back, contributing 2 assists and impressing with his athleticism in one-on-one duels. At 21, he is one of Brazil's most exciting defensive prospects for the 2026 World Cup with the pace and ability to threaten from wide positions.",
+      "strengths": [
+        "Exceptional athleticism and speed in 1v1 duels",
+        "Offensive intent and overlapping runs",
+        "Strong aerial ability for his age"
+      ],
+      "weaknesses": [
+        "Still developing defensive positioning at the highest level",
+        "Limited top-level European experience before the tournament"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "38"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "22"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "62%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "45"
+          }
+        ]
+      }
+    },
+    "douglas-santos": {
+      "name": "Douglas Santos",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Zenit St. Petersburg",
+      "age": 31,
+      "profile": "Douglas Santos is a reliable left-back who has spent several years with Zenit St. Petersburg in the Russian Premier League, providing steady defensive cover and occasional attacking threat from wide areas. In 2024-25 he made 30 league appearances and contributed 1 goal, maintaining consistency in a high-level domestic environment. He offers Brazil experienced back-up at left-back for the 2026 World Cup.",
+      "strengths": [
+        "Positional reliability and defensive discipline",
+        "Consistent appearances and durability",
+        "Experience in European club football"
+      ],
+      "weaknesses": [
+        "Playing in the Russian Premier League limits exposure to top-level competition",
+        "Lack of high-profile recent form against elite opponents"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Russian Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "28"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "55%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "52"
+          }
+        ]
+      }
+    },
+    "alex-sandro": {
+      "name": "Alex Sandro",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Flamengo",
+      "age": 34,
+      "profile": "Alex Sandro is a veteran left-back who returned to Brazil with Flamengo in August 2024 after a decade in European football with Juventus. In 26 appearances in 2025 (covering the 2024-25 period), he demonstrated continued quality with 49 clearances, 24 tackles, and a 72% aerial duel success rate. His inclusion in Brazil's 2026 World Cup squad reflects his leadership qualities and the experience he brings to the defensive unit, even at 34.",
+      "strengths": [
+        "Elite aerial dueling (72% win rate) for a full-back",
+        "High pass accuracy (89%) in build-up play",
+        "Defensive experience from Juventus and Serie A"
+      ],
+      "weaknesses": [
+        "Age limits pace and recovery against quick wingers",
+        "No longer the attacking force he was at his peak"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "24"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "31"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "72%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "49"
+          }
+        ]
+      }
+    },
+    "gabriel-magalhaes": {
+      "name": "Gabriel Magalhaes",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Arsenal",
+      "age": 27,
+      "profile": "Gabriel Magalhaes has established himself as one of the Premier League's most dominant centre-backs, combining aerial authority with an aggressive pressing game that suits Arsenal's high-defensive-line system. In 2024-25 he made 28 league appearances, won 79 aerial duels, made 89 clearances, scored 3 goals, and kept 17 clean sheets. He is Brazil's first-choice centre-back at the 2026 World Cup and one of their most important defensive pillars.",
+      "strengths": [
+        "Dominant in the air (79 aerial duels won in 2024-25)",
+        "Goals from set pieces add a genuine threat (3 in 2024-25)",
+        "Aggressive, intense defending with 71 tackles"
+      ],
+      "weaknesses": [
+        "Can be drawn out of position when overcommitting to challenges",
+        "Suspension risk due to aggressive style"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "71"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "16"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "68%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "89"
+          }
+        ]
+      }
+    },
+    "marquinhos": {
+      "name": "Marquinhos",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Paris Saint-Germain",
+      "age": 31,
+      "profile": "Marquinhos is Brazil's long-standing defensive captain, a technically refined centre-back who has led PSG and his national team with authority throughout the past decade. In a 2024-25 Ligue 1 season disrupted by injury and rotation, he made 19 appearances and scored 2 goals, maintaining his quality when available. For the 2026 World Cup he brings irreplaceable leadership and organisational intelligence to Brazil's defence.",
+      "strengths": [
+        "Elite positional intelligence and reading of the game",
+        "Leadership and captaincy experience",
+        "Ability to play as a defensive midfielder if needed"
+      ],
+      "weaknesses": [
+        "Limited to 19 Ligue 1 appearances in 2024-25 due to PSG rotation",
+        "Has struggled to recapture his very best form in recent seasons"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Ligue 1",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "20"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "12"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "63%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "52"
+          }
+        ]
+      }
+    },
+    "danilo": {
+      "name": "Danilo",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Flamengo",
+      "age": 34,
+      "profile": "Danilo is a versatile experienced defender who spent five years at Juventus before joining Flamengo on a free transfer in January 2025. He can play right-back, centre-back, or as a defensive midfielder, making him a key utility option. In 26 appearances post-joining Flamengo (covering the 2024-25 period), he scored 5 goals and provided tactical leadership. He is Brazil's defensive captain at the 2026 World Cup with unmatched experience from Real Madrid, Manchester City, and Juventus.",
+      "strengths": [
+        "Positional versatility across the entire backline",
+        "Elite reading of the game from years at top clubs",
+        "Leadership and calmness under pressure"
+      ],
+      "weaknesses": [
+        "Age (34) means reduced dynamism in full-back roles",
+        "Transition from top European football to Brasileirao took adjustment"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "27"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "20"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "58%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "46"
+          }
+        ]
+      }
+    },
+    "bremer": {
+      "name": "Bremer",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Juventus",
+      "age": 27,
+      "profile": "Bremer was arguably Juventus' best player in the opening weeks of 2024-25, playing every minute of the first 8 appearances and recording 6 interceptions and 11 blocks before suffering a torn ACL against RB Leipzig in October 2024, ending his season. He returned fully fit for the 2025-26 season, and his inclusion in Brazil's 2026 World Cup squad reflects his immense talent — a physically commanding defender who combines elite athleticism with technical quality.",
+      "strengths": [
+        "Exceptional physical attributes and aerial dominance",
+        "Elite one-on-one defensive ability",
+        "Dominant in the air and on the ground before injury"
+      ],
+      "weaknesses": [
+        "Returning from ACL surgery with limited competitive minutes since October 2024",
+        "Risk of rust after prolonged absence at the World Cup"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A (before ACL injury)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "12"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "6"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "71%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "ibanez": {
+      "name": "Ibanez",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Al-Ahli",
+      "age": 27,
+      "profile": "Roger Ibanez is a rugged, aggressive centre-back who joined Al-Ahli from Roma for €30 million in 2023 and has remained a consistent presence in the Saudi Pro League. He won the AFC Champions League Elite in 2024-25 with Al-Ahli and maintained regular appearances in a competitive environment. At the 2026 World Cup he provides depth at centre-back with his combative style and experience in European and now Saudi football.",
+      "strengths": [
+        "Physical aggression and aerial dominance",
+        "Experience in top European and Middle Eastern football",
+        "Strong in defensive duels"
+      ],
+      "weaknesses": [
+        "Can be rash and prone to yellow cards (disciplinary record)",
+        "Playing in Saudi Pro League limits top-level competitive testing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Saudi Pro League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "42"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "28"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "65%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "78"
+          }
+        ]
+      }
+    },
+    "leo-pereira": {
+      "name": "Leo Pereira",
+      "country": "Brazil",
+      "position": "DF",
+      "club": "Flamengo",
+      "age": 29,
+      "profile": "Leo Pereira is a commanding centre-back who has established himself as one of the most consistent defenders in Brazilian football, appearing in 63 matches across all competitions in 2025 for Flamengo. In the 2024 Brasileirao he played 30 league games and was integral to Flamengo's defensive structure with a 92% pass completion rate in build-up play. His form earned him a first Brazil call-up and makes him a significant defensive option for the 2026 World Cup.",
+      "strengths": [
+        "Outstanding pass completion rate (92%) for a centre-back",
+        "Physical presence and aerial authority",
+        "Consistent high-volume appearances across all competitions"
+      ],
+      "weaknesses": [
+        "Limited previous international experience before 2026",
+        "Occasionally slow to press aggressively in tight spaces"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "44"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "38"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "64%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "82"
+          }
+        ]
+      }
+    },
+    "bruno-guimaraes": {
+      "name": "Bruno Guimaraes",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Newcastle United",
+      "age": 27,
+      "profile": "Bruno Guimaraes is one of the Premier League's elite midfielders, combining relentless pressing, exceptional ball recovery, and underrated goal threat from deep positions. In 2024-25 he was an iron man for Newcastle, appearing in all 38 league matches with 5 goals and 6 assists while covering more distance than any other Premier League player (263 miles). He is Brazil's undisputed midfield engine for the 2026 World Cup, capable of dominating matches both with and without the ball.",
+      "strengths": [
+        "Unmatched work rate and distance covered in the Premier League",
+        "Goals and assists from midfield (11 direct contributions in 2024-25)",
+        "Elite ball-winning and press resistance"
+      ],
+      "weaknesses": [
+        "Can receive excessive yellow cards (7 in 2024-25)",
+        "Occasional overaggression leads to fouls in dangerous areas"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "86"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "86.2%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "42"
+          },
+          {
+            "stat": "Appearances",
+            "value": "38"
+          }
+        ]
+      }
+    },
+    "casemiro": {
+      "name": "Casemiro",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Manchester United",
+      "age": 33,
+      "profile": "Casemiro remains one of the most decorated defensive midfielders in football history, a five-time Champions League winner at Real Madrid, though his 2024-25 campaign at Manchester United was difficult: he managed 24 appearances averaging just 62 minutes per game as United endured one of their worst modern seasons. His form dipped alongside the team but he retains the positional intelligence and winning mentality that make him a key figure in Brazil's World Cup midfield setup.",
+      "strengths": [
+        "World-class positional reading and defensive screening",
+        "Winning experience at the highest level",
+        "Leadership and tactical intelligence built over 15 years"
+      ],
+      "weaknesses": [
+        "Declined physically in 2024-25 at Manchester United",
+        "Reduced playing time and form at club level questioned his peak level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "44"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "83.1%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "3"
+          },
+          {
+            "stat": "Appearances",
+            "value": "24"
+          }
+        ]
+      }
+    },
+    "danilo-santos": {
+      "name": "Danilo Santos",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Botafogo",
+      "age": 24,
+      "profile": "Danilo Santos is a young defensive midfielder who suffered a serious ankle injury on the opening day of the 2024-25 season at Nottingham Forest (Bournemouth, August 2024), missing most of the campaign before returning in January 2025 for around 12 appearances. He was subsequently released and joined Botafogo in July 2025. Strong in the tackle and adept at breaking up play, he offers Brazil a combative midfield option for the 2026 World Cup.",
+      "strengths": [
+        "Strong ball-winning ability in central areas",
+        "Physical presence and discipline in midfield",
+        "Adaptability shown by moving clubs effectively"
+      ],
+      "weaknesses": [
+        "Limited 2024-25 appearances due to serious ankle injury",
+        "Unproven at the very highest international level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League (partial)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "18"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "81.0%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "12"
+          },
+          {
+            "stat": "Appearances",
+            "value": "13"
+          }
+        ]
+      }
+    },
+    "fabinho": {
+      "name": "Fabinho",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Al-Ittihad",
+      "age": 31,
+      "profile": "Fabinho was one of the world's best defensive midfielders during his Liverpool years but has continued to evolve at Al-Ittihad in Saudi Arabia, winning the Saudi Pro League in 2024-25. He made 32 appearances in the Saudi Pro League, contributing 2 goals and 1 assist while receiving 8 yellow cards that reflect his combative style. At 31, he remains a quality screener in front of the Brazil backline and brings Champions League and World Cup experience to the 2026 squad.",
+      "strengths": [
+        "Elite defensive positioning and ball-winning",
+        "Experience winning trophies at the highest level (Champions League 2019)",
+        "Durable with 32 league appearances in 2024-25"
+      ],
+      "weaknesses": [
+        "Saudi Pro League level not comparable to top European competitions",
+        "Accumulated 8 yellow cards in 2024-25 suggesting disciplinary risk"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Saudi Pro League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "68"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "84.5%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "38"
+          },
+          {
+            "stat": "Appearances",
+            "value": "32"
+          }
+        ]
+      }
+    },
+    "lucas-paqueta": {
+      "name": "Lucas Paqueta",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Flamengo",
+      "age": 27,
+      "profile": "Lucas Paqueta is a technically gifted attacking midfielder who thrives in the number 8 or 10 role, combining creative passing with direct dribbling and an eye for goal. After three seasons at West Ham, he returned to Flamengo in January 2026 for €42 million following the resolution of his FA betting investigation. In 2024-25 he made approximately 22 Premier League appearances for West Ham with 4 goals and 5 assists before his mid-season departure. He is central to Brazil's creative plans at the 2026 World Cup.",
+      "strengths": [
+        "Exceptional technical quality and creative vision",
+        "Ability to connect defence and attack in tight spaces",
+        "Strong international pedigree with Brazil"
+      ],
+      "weaknesses": [
+        "Inconsistency at club level with West Ham's poor 2024-25 campaign",
+        "FA investigation created prolonged off-field distraction"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "28"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "82.4%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "14"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "raphinha": {
+      "name": "Raphinha",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Barcelona",
+      "age": 28,
+      "profile": "Raphinha produced one of the most extraordinary individual seasons in recent European football in 2024-25, scoring 18 goals and 9 assists in 36 La Liga appearances as Barcelona won the domestic treble. Named the best player in La Liga, his 43 shots on target was a personal record and his performances put him firmly in the Ballon d'Or conversation. For Brazil at the 2026 World Cup he is their most in-form attacking threat and provides world-class quality from wide areas.",
+      "strengths": [
+        "Elite goal and assist output (27 combined in La Liga 2024-25)",
+        "Named La Liga's best player in 2024-25",
+        "Versatility to play wide or centrally in attacking positions"
+      ],
+      "weaknesses": [
+        "Must sustain that peak level after an extraordinary 2024-25",
+        "Has historically been inconsistent for Brazil compared to club form"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "18"
+          },
+          {
+            "stat": "Assists",
+            "value": "9"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "35.5%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "36"
+          }
+        ]
+      }
+    },
+    "neymar": {
+      "name": "Neymar",
+      "country": "Brazil",
+      "position": "MF",
+      "club": "Santos",
+      "age": 34,
+      "profile": "Neymar returned to Santos in January 2025 after terminating his contract with Al-Hilal, seeking to recover form and fitness ahead of the 2026 World Cup on home soil. He made approximately 21 appearances in the 2025 Brasileirao season, scoring 6 goals and 3 assists as he worked his way back from a long ACL injury. A former world number one, his inclusion reflects his immense talent and the significance of the tournament but his fitness and form remain question marks.",
+      "strengths": [
+        "Generational technical ability and dribbling skill",
+        "Set-piece and penalty expertise",
+        "Experience and leadership in high-pressure international tournaments"
+      ],
+      "weaknesses": [
+        "Prolonged injury history (ACL) severely reduced minutes and sharpness",
+        "Not at his previous elite level following years of injuries and Al-Hilal spell"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2025 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "41.2%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "21"
+          }
+        ]
+      }
+    },
+    "vinicius-junior": {
+      "name": "Vinicius Junior",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Real Madrid",
+      "age": 24,
+      "profile": "Vinicius Junior is one of the most electrifying forwards in world football, combining devastating pace with improved finishing and creative vision. In 2024-25 he scored 11 goals and 8 assists in 30 La Liga appearances, taking a career-high 81 shots while also suffering more fouls than almost any other player in Europe. Brazil's talisman and most dangerous attacking weapon, he is the player every opponent at the 2026 World Cup will plan around first.",
+      "strengths": [
+        "Devastating pace and dribbling ability",
+        "Career-high 81 shots in 2024-25 La Liga showing improved consistency",
+        "Champions League pedigree and big-game experience"
+      ],
+      "weaknesses": [
+        "Shots on target conversion could be higher (28/81 shots on target)",
+        "Subject to intense fouling and can lose composure under provocation"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "11"
+          },
+          {
+            "stat": "Assists",
+            "value": "8"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "34.6%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "30"
+          }
+        ]
+      }
+    },
+    "luiz-henrique": {
+      "name": "Luiz Henrique",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Zenit St. Petersburg",
+      "age": 24,
+      "profile": "Luiz Henrique is a pacey, direct winger who has developed steadily since joining Zenit St. Petersburg, becoming one of the Russian Premier League's most dangerous forwards. In 2024-25 he made 28 league appearances, scoring 6 goals and 3 assists with 17 shots on target from 51 total attempts. He provides Brazil with a wide option combining speed, directness and developing creativity at the 2026 World Cup.",
+      "strengths": [
+        "Raw pace and directness in wide areas",
+        "Consistent league appearances (28 in 2024-25)",
+        "Developing ball-carrying ability past defenders"
+      ],
+      "weaknesses": [
+        "Limited to Russian Premier League exposure reduces credibility of stats against elite opponents",
+        "Shot accuracy (17/51 = 33%) suggests wastefulness in front of goal"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Russian Premier League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "33.3%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "matheus-cunha": {
+      "name": "Matheus Cunha",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Manchester United",
+      "age": 26,
+      "profile": "Matheus Cunha was the standout performer for Wolverhampton Wanderers in 2024-25, scoring a career-best 15 Premier League goals with 6 assists in 33 appearances as their leading scorer, earning a £60 million move to Manchester United in August 2025. His combination of clinical finishing, link-up play, and ability to press from the front makes him one of Brazil's most versatile attacking options for the 2026 World Cup.",
+      "strengths": [
+        "Career-best 15 Premier League goals in 2024-25",
+        "Versatility to play across the frontline",
+        "High pressing and work rate alongside goal threat"
+      ],
+      "weaknesses": [
+        "Adapting to a new club (Manchester United) just before the tournament",
+        "Consistency can vary in high-pressure big matches"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "15"
+          },
+          {
+            "stat": "Assists",
+            "value": "6"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "43.2%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "gabriel-martinelli": {
+      "name": "Gabriel Martinelli",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Arsenal",
+      "age": 23,
+      "profile": "Gabriel Martinelli is an explosive left winger whose energy, pressing, and direct running make him one of Arsenal's most important attacking outlets. In 2024-25 he scored 8 goals and 4 assists in 33 Premier League appearances, also scoring the winner against Real Madrid at the Bernabeu in the Champions League quarter-finals. His pace and pressing from the front are invaluable for Brazil's high-intensity style at the 2026 World Cup.",
+      "strengths": [
+        "Relentless pressing and energy from wide positions",
+        "Champions League experience including goals against elite opposition",
+        "Directness and ability to create chances from nothing"
+      ],
+      "weaknesses": [
+        "Goal output (8) below his potential given his quality",
+        "Injury history has interrupted key periods in previous seasons"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "8"
+          },
+          {
+            "stat": "Assists",
+            "value": "4"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "38.5%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "igor-thiago": {
+      "name": "Igor Thiago",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Brentford",
+      "age": 23,
+      "profile": "Igor Thiago had an extremely difficult debut season at Brentford in 2024-25, suffering a pre-season meniscus injury that kept him out until November, before a joint infection then ended his season again, limiting him to just 8 Premier League appearances with no goals. He returned to full fitness for 2025-26 and became one of the Premier League's top scorers, setting a record for a Brazilian striker. His inclusion reflects his 2025-26 form rather than a strong 2024-25 showing.",
+      "strengths": [
+        "Proven Premier League goal-scoring ability (breakout in 2025-26)",
+        "Physical presence as a striker combined with technical quality",
+        "Represents the future of Brazilian strikers in European football"
+      ],
+      "weaknesses": [
+        "Extremely limited 2024-25 appearances (8) due to injuries",
+        "No goals in his 2024-25 Premier League season"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "0"
+          },
+          {
+            "stat": "Assists",
+            "value": "0"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "N/A"
+          },
+          {
+            "stat": "Appearances",
+            "value": "8"
+          }
+        ]
+      }
+    },
+    "endrick": {
+      "name": "Endrick",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Real Madrid",
+      "age": 18,
+      "profile": "Endrick is one of the most exciting teenage forwards in world football, joining Real Madrid from Palmeiras in a €60 million deal in the summer of 2024. In his debut La Liga season he made 22 appearances but was limited to just 351 minutes (largely as a substitute), scoring 1 goal - though he became the youngest foreigner to score for Real Madrid in La Liga history. His extraordinary talent was evident in Brazil's national team, and the 2026 World Cup provides a stage for this generational talent to announce himself globally.",
+      "strengths": [
+        "Exceptional natural finishing instinct beyond his years",
+        "Explosive acceleration and directness in small spaces",
+        "Mental composure in front of goal for a teenager"
+      ],
+      "weaknesses": [
+        "Very limited Real Madrid minutes in 2024-25 (351 total) — not yet a starter",
+        "Consistency over a full 90 minutes still being developed"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "1"
+          },
+          {
+            "stat": "Assists",
+            "value": "0"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "38.5%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "rayan": {
+      "name": "Rayan",
+      "country": "Brazil",
+      "position": "FW",
+      "club": "Bournemouth",
+      "age": 19,
+      "profile": "Rayan is a teenage winger who made 33 appearances for Vasco da Gama in the 2024 Brasileirao, scoring 2 goals, before earning a high-profile move to Bournemouth in January 2026. He scored on his Premier League home debut against Aston Villa and made an immediate impression in English football. At 19, he is one of Brazil's most exciting young wide forwards and the 2026 World Cup on home soil represents a potential star-making moment for the teenager.",
+      "strengths": [
+        "Exceptional pace and directness from wide positions",
+        "Immediate Premier League impact on arrival at Bournemouth",
+        "Fearless and technically gifted for his age"
+      ],
+      "weaknesses": [
+        "Very limited top-level international experience",
+        "Still adapting to Premier League and European football intensity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024 Brasileirao Serie A",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "2"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "29.4%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "yassine-bounou": {
+      "name": "Yassine Bounou",
+      "country": "Morocco",
+      "position": "GK",
+      "club": "Al-Hilal",
+      "age": 33,
+      "profile": "Known as 'Bono', Bounou is Morocco's undisputed first-choice goalkeeper and one of the best shot-stoppers of his generation. His acrobatic saves and commanding presence anchored Morocco's historic 2022 semi-final run and he remains the heartbeat of their backline. At 33, he enters the 2026 World Cup as a deeply experienced leader on home territory.",
+      "strengths": [
+        "World-class shot-stopping reflexes",
+        "Dominant aerial presence",
+        "Leadership and vocal organisation"
+      ],
+      "weaknesses": [
+        "Distribution under pressure can be erratic",
+        "Age beginning to affect consistency in high-volume seasons"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Saudi Pro League",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "57.3%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.10"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "31"
+          }
+        ]
+      }
+    },
+    "munir-el-kajoui": {
+      "name": "Munir El Kajoui",
+      "country": "Morocco",
+      "position": "GK",
+      "club": "RS Berkane",
+      "age": 33,
+      "profile": "Munir is a vastly experienced goalkeeper who has bounced between European and African football across a long career. Joining RS Berkane in 2024, he was instrumental in their historic Botola Pro title and CAF Confederation Cup double. He serves as reliable competition for Bounou and brings continental experience to the squad.",
+      "strengths": [
+        "Experience in high-pressure competition",
+        "CAF Confederation Cup winning pedigree",
+        "Solid shot-stopping at club level"
+      ],
+      "weaknesses": [
+        "Limited top-flight European experience in recent years",
+        "Unlikely to displace Bounou"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Botola Pro",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "~75%"
+          },
+          {
+            "stat": "GA90",
+            "value": "~0.80"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "~14"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~28"
+          }
+        ]
+      }
+    },
+    "ahmed-reda-tagnaouti": {
+      "name": "Ahmed Reda Tagnaouti",
+      "country": "Morocco",
+      "position": "GK",
+      "club": "AS FAR",
+      "age": 30,
+      "profile": "Tagnaouti is a senior international keeper who has been in Morocco's squads for several years. He spent the second half of 2024-25 at Moghreb Tetouan in the Botola Pro after joining them in January 2025, before moving to AS FAR in the summer of 2025. He provides dependable domestic depth behind Bounou.",
+      "strengths": [
+        "Familiarity with national team setup",
+        "Reliable reflexes at domestic level",
+        "Good communication with defenders"
+      ],
+      "weaknesses": [
+        "Limited exposure to elite European football",
+        "Third-choice status limits World Cup impact"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Botola Pro",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "70.6%"
+          },
+          {
+            "stat": "GA90",
+            "value": "~1.20"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "1"
+          },
+          {
+            "stat": "Appearances",
+            "value": "11"
+          }
+        ]
+      }
+    },
+    "noussair-mazraoui": {
+      "name": "Noussair Mazraoui",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Manchester United",
+      "age": 27,
+      "profile": "Mazraoui was one of Manchester United's standout performers in a turbulent 2024-25 season, ranking fifth in the entire Premier League for tackles won and first for tackling dribblers. His versatility — deployed at right-back, left-back, centre-back, and even as an attacking midfielder — made him indispensable. He is a key right-sided option for Morocco heading into a home World Cup.",
+      "strengths": [
+        "Elite dribble-tackling ability (ranked 1st PL)",
+        "Exceptional positional versatility",
+        "High work rate and pressing intensity"
+      ],
+      "weaknesses": [
+        "Can be caught out of position when attacking",
+        "Inconsistent delivery from wide areas"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "68"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~55%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "37"
+          }
+        ]
+      }
+    },
+    "anass-salah-eddine": {
+      "name": "Anass Salah-Eddine",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "PSV Eindhoven",
+      "age": 23,
+      "profile": "Salah-Eddine spent the first half of 2024-25 at FC Twente in the Eredivisie before a €8 million move to AS Roma in February 2025, highlighting his rapid rise. A dynamic left-back with a strong attacking bent, he contributes goals and assists from deep. He represents Morocco's next generation of full-backs and is among the younger, hungrier players in the 2026 squad.",
+      "strengths": [
+        "Energetic overlapping runs",
+        "Composure in possession at international level",
+        "Improving defensively with each season"
+      ],
+      "weaknesses": [
+        "Can be exposed defensively one-on-one",
+        "Still building top-level European consistency"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Eredivisie",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~38"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~22"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~48%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "youssef-belammari": {
+      "name": "Youssef Belammari",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Al-Ahly",
+      "age": 25,
+      "profile": "Belammari is a left-back playing for Egyptian giants Al-Ahly, where he has developed into a reliable and attack-minded defender. His performances in the Egyptian Premier League and CAF Champions League have earned him a Morocco call-up. He offers a left-back option with energy and threat going forward, and is one of the more intriguing inclusions in the 2026 squad.",
+      "strengths": [
+        "Attacking output from left-back",
+        "Experience in high-profile CAF competition",
+        "Good recovery pace"
+      ],
+      "weaknesses": [
+        "Unproven at top European level",
+        "Aerial defensiveness is a relative weakness"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Egyptian Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~42"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~28"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~50%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~28"
+          }
+        ]
+      }
+    },
+    "nayef-aguerd": {
+      "name": "Nayef Aguerd",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Marseille",
+      "age": 29,
+      "profile": "Aguerd spent 2024-25 on loan at Real Sociedad after leaving West Ham, rediscovering his best form and earning the nickname 'Nayef Airlines' for his aerial dominance. He led Real Sociedad in clearances with 37 and maintained a 70% aerial duel success rate. Now at Marseille, he is Morocco's most complete centre-back and a vital organiser for the Atlas Lions.",
+      "strengths": [
+        "Dominant in aerial duels (70%+ win rate)",
+        "Excellent reading of play and positioning",
+        "Strong passing from defence (87%+ accuracy)"
+      ],
+      "weaknesses": [
+        "Injury history disrupted previous seasons",
+        "Can be vulnerable to pacey forwards in behind"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~18"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "9"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "70%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "37"
+          }
+        ]
+      }
+    },
+    "chadi-riad": {
+      "name": "Chadi Riad",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Crystal Palace",
+      "age": 22,
+      "profile": "Riad is one of Morocco's most promising young centre-backs, signed by Crystal Palace for £14 million in 2024. His 2024-25 debut season was tragically disrupted by two separate knee injuries that limited him to just three appearances. Fully recovered, the 2026 World Cup on home soil represents a massive opportunity for the talented ball-playing defender.",
+      "strengths": [
+        "Technical quality on the ball for a centre-back",
+        "Physical presence and aerial ability",
+        "High ceiling as a young player at a Premier League club"
+      ],
+      "weaknesses": [
+        "Injury fragility is a major concern",
+        "Very limited competitive game time in 2024-25"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "2"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "1"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~50%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "3"
+          }
+        ]
+      }
+    },
+    "issa-diop": {
+      "name": "Issa Diop",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Fulham",
+      "age": 28,
+      "profile": "Diop is a powerful, imposing centre-back who has been a regular Premier League starter at Fulham. Though French-born, he committed to Morocco internationally. In 2024-25 he made 21 Premier League appearances, contributing 75 clearances and winning 19 aerial duels. His physical presence and experience in England's top flight give Morocco an imposing option at the back.",
+      "strengths": [
+        "Commanding aerial presence and physical power",
+        "75 clearances in 2024-25 reflects reliability",
+        "Premier League-hardened experience"
+      ],
+      "weaknesses": [
+        "Not always convincing when playing out from the back",
+        "Pace limitations against elite forwards"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~28"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "9"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~59%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "75"
+          }
+        ]
+      }
+    },
+    "redouane-halhal": {
+      "name": "Redouane Halhal",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Mechelen",
+      "age": 22,
+      "profile": "Halhal signed for Mechelen in August 2024 and was loaned to Helmond Sport in the Dutch Eerste Divisie for 2024-25. The young full-back gained valuable first-team experience in the Netherlands, developing his defensive fundamentals. He is a long-term investment for Morocco and his 2026 inclusion reflects the national team's faith in his potential.",
+      "strengths": [
+        "Athletic profile and recovery pace",
+        "Developing positional intelligence",
+        "Young age and high development trajectory"
+      ],
+      "weaknesses": [
+        "Lack of top-flight senior experience",
+        "Still raw defensively under sustained pressure"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Eerste Divisie (Netherlands)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~30"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~52%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~28"
+          }
+        ]
+      }
+    },
+    "achraf-hakimi": {
+      "name": "Achraf Hakimi",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Paris Saint-Germain",
+      "age": 26,
+      "profile": "Hakimi is Morocco's talisman and arguably the best right-back in the world. His 2024-25 Ligue 1 campaign was exceptional — 4 goals and 6 assists in 25 matches — combining elite defensive work (1.9 tackles/game) with devastating attacking output. Captaining Morocco at a home World Cup, Hakimi carries enormous expectations and the quality to deliver.",
+      "strengths": [
+        "World-class attacking output from right-back",
+        "Elite dribbling and progressive carrying ability",
+        "Consistent defensive contribution with 1.9 tackles per game"
+      ],
+      "weaknesses": [
+        "Occasionally drawn too high up the pitch, leaving space behind",
+        "Can lose composure in very high-pressure moments"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Ligue 1",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~35"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~52%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~28"
+          }
+        ]
+      }
+    },
+    "zakaria-el-ouahdi": {
+      "name": "Zakaria El Ouahdi",
+      "country": "Morocco",
+      "position": "DF",
+      "club": "Genk",
+      "age": 23,
+      "profile": "El Ouahdi had a superb 2024-25 campaign for Genk in the Belgian First Division A, making 35 appearances and scoring 6 goals from right-back — an outstanding attacking return for a defender. His forward-thinking style and technical quality have made him a genuine contender for Morocco's right flank at the 2026 World Cup.",
+      "strengths": [
+        "Exceptional attacking output for a defender (6 goals)",
+        "Ball-carrying and progressive passing from right-back",
+        "Strong defensive duel success"
+      ],
+      "weaknesses": [
+        "Belgian top flight may not fully prepare him for World Cup intensity",
+        "Defensive positioning can be caught when committing forward"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 First Division A (Belgium)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~40"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~22"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~54%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~55"
+          }
+        ]
+      }
+    },
+    "samir-el-mourabet": {
+      "name": "Samir El Mourabet",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "Strasbourg",
+      "age": 20,
+      "profile": "El Mourabet is one of the most exciting young midfielders to emerge from the Moroccan pool, playing as a defensive midfielder for Strasbourg in Ligue 1. At just 20 he has established himself as a regular starter, showing combativeness and composure in possession beyond his years. His inclusion in the 2026 squad reflects Morocco's rich midfield depth.",
+      "strengths": [
+        "Energetic pressing and ball-winning",
+        "Intelligent positioning for a young defensive midfielder",
+        "Strong passing accuracy in tight spaces"
+      ],
+      "weaknesses": [
+        "Limited Champions League or elite European experience",
+        "Physical maturity still developing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Ligue 1",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~38"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~82%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~24"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~22"
+          }
+        ]
+      }
+    },
+    "ayyoub-bouaddi": {
+      "name": "Ayyoub Bouaddi",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "Lille",
+      "age": 17,
+      "profile": "Bouaddi is a generational talent — he played his first Champions League start on his 17th birthday, starting for Lille against Real Madrid on October 2, 2024. A combative, forward-thinking midfielder with elite duel-winning ability, he was one of the youngest players to feature regularly in Ligue 1 in 2024-25. His selection for the 2026 World Cup, still only 17, is among the most extraordinary stories in Moroccan football.",
+      "strengths": [
+        "Exceptional maturity and composure for his age",
+        "Elite dueling intensity, ranking among Ligue 1's most active",
+        "Quick vertical passing and ability to win the ball"
+      ],
+      "weaknesses": [
+        "Age and physical development remains a limiting factor",
+        "Still accumulating top-level experience"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Ligue 1",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~28"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~83%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~16"
+          },
+          {
+            "stat": "Appearances",
+            "value": "24"
+          }
+        ]
+      }
+    },
+    "neil-el-aynaoui": {
+      "name": "Neil El Aynaoui",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "Roma",
+      "age": 22,
+      "profile": "El Aynaoui made 19 Serie A appearances for Roma in 2024-25, steadily building a reputation as a dynamic box-to-box midfielder with excellent ball interception ability. French-born with Moroccan heritage, he chose the Atlas Lions and brings a technically polished, high-energy profile to the midfield. He is expected to play an increasing role as Morocco seeks to replicate their 2022 heroics.",
+      "strengths": [
+        "Strong ball-winning instincts rated 'Very Strong' by analysts",
+        "Athletic profile and box-to-box engine",
+        "Good technical quality in tight Serie A spaces"
+      ],
+      "weaknesses": [
+        "Goal threat from midfield is limited",
+        "Still inconsistent as a regular starter at Roma"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~22"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~84%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Appearances",
+            "value": "19"
+          }
+        ]
+      }
+    },
+    "sofyan-amrabat": {
+      "name": "Sofyan Amrabat",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "Real Betis",
+      "age": 28,
+      "profile": "Amrabat was the breakout star of Morocco's stunning 2022 World Cup run, becoming a global icon as a tenacious, dominant defensive midfielder. In 2024-25 he was on loan at Fenerbahce in Turkey's Super Lig, where he made 26 appearances, occasionally completing 111 touches and 91 passes in a single match. Now at Real Betis, he remains Morocco's defensive midfield anchor.",
+      "strengths": [
+        "Elite ball-winning and tackling",
+        "Exceptional high-press intensity and positioning",
+        "World Cup pedigree and mental fortitude in big moments"
+      ],
+      "weaknesses": [
+        "Goal and creativity output from midfield is minimal",
+        "Can pick up yellow cards accumulating fouls"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Super Lig",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~55"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~87%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~35"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "azzedine-ounahi": {
+      "name": "Azzedine Ounahi",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "Girona",
+      "age": 24,
+      "profile": "Ounahi burst onto the global scene at the 2022 World Cup with dynamic, energetic performances in Morocco's midfield. In 2024-25 he was loaned to Panathinaikos in the Greek Super League, scoring 6 goals and contributing 2 assists in 19 appearances while rediscovering his best form. Now signed permanently by Girona, he enters the 2026 World Cup full of confidence.",
+      "strengths": [
+        "Dynamic box-to-box energy and goal-scoring threat from midfield",
+        "Strong dribbling ability and forward runs",
+        "Big-match temperament forged at 2022 World Cup"
+      ],
+      "weaknesses": [
+        "Can be inconsistent in defensive duties",
+        "Has struggled for continuity since his 2022 peak"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Super League (Greece)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~22"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~80%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~14"
+          },
+          {
+            "stat": "Appearances",
+            "value": "19"
+          }
+        ]
+      }
+    },
+    "bilal-el-khannous": {
+      "name": "Bilal El Khannous",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "VfB Stuttgart",
+      "age": 21,
+      "profile": "El Khannous was one of Leicester City's few bright spots in their relegation season of 2024-25, making 30 Premier League appearances and registering 2 goals and 3 assists. Born in Belgium, he brings European polish and a modern, progressive midfield profile. Now at Stuttgart in the Bundesliga, he is among Morocco's most technically gifted young midfielders.",
+      "strengths": [
+        "Technical quality and passing range in tight spaces",
+        "Creative vision and ability to progress play",
+        "Emerged with credit from a relegation battle at Leicester"
+      ],
+      "weaknesses": [
+        "Defensive contribution can be limited",
+        "Physical robustness is still developing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~28"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~81%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Appearances",
+            "value": "30"
+          }
+        ]
+      }
+    },
+    "ismael-saibari": {
+      "name": "Ismaël Saibari",
+      "country": "Morocco",
+      "position": "MF",
+      "club": "PSV Eindhoven",
+      "age": 25,
+      "profile": "Saibari was sensational for PSV in 2024-25, recording 11 goals and 11 assists in 29 Eredivisie matches as part of their title-winning campaign, and 15 goals and 13 assists across all competitions. An attacking midfielder with elite technical ability and goal-scoring instincts, he represents Morocco's most dangerous goal threat from midfield. He is a crucial weapon for the Atlas Lions at the 2026 World Cup.",
+      "strengths": [
+        "Elite goals and assists return (11G/11A in Eredivisie)",
+        "Intelligent movement and technical brilliance",
+        "Ability to unlock defences with quick combinations"
+      ],
+      "weaknesses": [
+        "Eredivisie level may not fully translate to World Cup intensity",
+        "Defensive work rate can be inconsistent"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Eredivisie",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~30"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~86%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~16"
+          },
+          {
+            "stat": "Appearances",
+            "value": "29"
+          }
+        ]
+      }
+    },
+    "abde-ezzalzouli": {
+      "name": "Abde Ezzalzouli",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Real Betis",
+      "age": 23,
+      "profile": "Known as 'Ez Abde', Ezzalzouli is a direct, pacey winger who made 32 La Liga appearances for Real Betis in 2024-25. He had a quieter statistical season (2G, 2A) but was a consistent threat with his dribbling and running in behind defences as Betis reached a historic European final. He adds width and direct running to Morocco's attacking options.",
+      "strengths": [
+        "Explosive pace and one-on-one dribbling",
+        "Consistent starter in La Liga at a European-level club",
+        "Provides direct threat in behind defences"
+      ],
+      "weaknesses": [
+        "End product — goals and assists — was limited in 2024-25",
+        "Can be wasteful when shooting opportunities arise"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "2"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~38%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "32"
+          }
+        ]
+      }
+    },
+    "chemsdine-talbi": {
+      "name": "Chemsdine Talbi",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Sunderland",
+      "age": 20,
+      "profile": "Talbi is a electrifying Belgian-born Moroccan winger who had a breakthrough 2024-25 season at Club Brugge, scoring 5 league goals in 27 appearances and netting a famous Champions League brace against Atalanta. Now at Sunderland in the Premier League, his technical flair and pace make him one of Morocco's most exciting young attackers heading into the 2026 World Cup.",
+      "strengths": [
+        "Champions League quality dribbling and direct running",
+        "Clinical finishing when one-on-one with the keeper",
+        "Young, fearless mentality on the big stage"
+      ],
+      "weaknesses": [
+        "Still developing consistency across a full season",
+        "Decision-making under pressure can let him down"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Belgian Pro League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "5"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~40%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "27"
+          }
+        ]
+      }
+    },
+    "soufiane-rahimi": {
+      "name": "Soufiane Rahimi",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Al-Ain",
+      "age": 27,
+      "profile": "Rahimi is a prolific goalscorer who has thrived in the UAE Pro League with Al-Ain, becoming the club's most decisive foreign player in history. In 2024-25 he scored 9 goals in 16 UAE Pro League appearances despite missing time, and also contributed in the AFC Champions League. His pace and clinical instinct in the box make him a genuine goalscoring threat for Morocco.",
+      "strengths": [
+        "Natural goalscoring instinct and clinical finishing",
+        "Pace to stretch defences in behind",
+        "Prolific record at club level"
+      ],
+      "weaknesses": [
+        "UAE Pro League pedigree is significantly below World Cup level",
+        "Unproven against elite international defences"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 UAE Pro League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "9"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~42%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "16"
+          }
+        ]
+      }
+    },
+    "ayoub-el-kaabi": {
+      "name": "Ayoub El Kaabi",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Olympiacos",
+      "age": 28,
+      "profile": "El Kaabi was the finest striker in Greek football in 2024-25, scoring 18 Super League goals in 28 appearances and 7 Europa League goals in 8 games to fire Olympiacos to the title. He is a complete centre-forward — powerful, technically strong, and lethal in front of goal with 45 shots on target in the league alone. He goes into the 2026 World Cup in the form of his career.",
+      "strengths": [
+        "Elite goal-scoring output (18 Super League goals + 7 Europa League goals)",
+        "Physical presence and aerial threat",
+        "Consistency and big-game mentality in European competition"
+      ],
+      "weaknesses": [
+        "Playing in a less competitive league than peers",
+        "Movement outside the box and link-up play is secondary to direct goal threat"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Super League (Greece)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "18"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "50%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "brahim-diaz": {
+      "name": "Brahim Díaz",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Real Madrid",
+      "age": 25,
+      "profile": "Spanish-born but committed to Morocco, Brahim Díaz is a technically brilliant attacking midfielder/winger who operates in Real Madrid's squad. In 2024-25 he made 29 La Liga appearances with 1 goal and 6 assists, largely from the bench at the world's biggest club. His technical quality and experience at Real Madrid adds a special dimension to Morocco's attack, and a home World Cup could be his defining stage.",
+      "strengths": [
+        "Elite technical ability honed at Real Madrid",
+        "Creative dribbling and assist-making in tight spaces",
+        "Experience in the highest-pressure Champions League environments"
+      ],
+      "weaknesses": [
+        "Limited as a starter at Real Madrid, reducing minutes and rhythm",
+        "Goal output (1 La Liga goal) was modest in 2024-25"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "1"
+          },
+          {
+            "stat": "Assists",
+            "value": "6"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "43%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "29"
+          }
+        ]
+      }
+    },
+    "yassine-gessim": {
+      "name": "Yassine Gessim",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Strasbourg",
+      "age": 21,
+      "profile": "Gessim is a rapid, direct right-winger who spent 2024-25 at USL Dunkerque in Ligue 2, where he established himself as a player of the month candidate. He signed for Strasbourg in January 2026 and immediately impressed in Ligue 1. His electric pace and direct play earned a Morocco call-up, and the 2026 World Cup represents an extraordinary leap for a player who was in France's second tier a year earlier.",
+      "strengths": [
+        "Explosive pace and direct dribbling ability",
+        "Creative output in tight Ligue 2 situations",
+        "Fearless mentality and willingness to take on defenders"
+      ],
+      "weaknesses": [
+        "Very limited top-flight experience before 2026",
+        "End product and decision-making at higher levels still unproven"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Ligue 2",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "1"
+          },
+          {
+            "stat": "Assists",
+            "value": "4"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~35%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "11"
+          }
+        ]
+      }
+    },
+    "ayoube-amaimouni": {
+      "name": "Ayoube Amaimouni",
+      "country": "Morocco",
+      "position": "FW",
+      "club": "Eintracht Frankfurt",
+      "age": 21,
+      "profile": "Amaimouni is an explosive young winger who spent 2024-25 tearing apart the Regionalliga with Hoffenheim II, scoring 7 goals and 9 assists in 18 matches to fire the side to the fourth-tier title. His form attracted Eintracht Frankfurt, who signed him in January 2026. Moroccan heritage gives him international eligibility, and his selection is a bold one for the 2026 World Cup.",
+      "strengths": [
+        "Blistering pace and direct running on the flank",
+        "Exceptional goals and assists output at youth level (7G/9A)",
+        "Hunger and raw potential as an emerging talent"
+      ],
+      "weaknesses": [
+        "No senior top-flight Bundesliga experience before 2026",
+        "Significant step-up from Regionalliga to World Cup football"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Regionalliga (Germany)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "7"
+          },
+          {
+            "stat": "Assists",
+            "value": "9"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~44%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "johnny-placide": {
+      "name": "Johnny Placide",
+      "country": "Haiti",
+      "position": "GK",
+      "club": "SC Bastia",
+      "age": 38,
+      "profile": "A veteran shot-stopper and one of the most experienced Haitian goalkeepers ever, Placide serves as a reassuring elder presence and back-up option in the squad. His decades of professional experience across France's top divisions bring invaluable organizational calm to Haiti's historic first World Cup campaign.",
+      "strengths": [
+        "Commanding line management",
+        "Penalty-area authority",
+        "Decades of professional experience"
+      ],
+      "weaknesses": [
+        "Age limits explosiveness",
+        "Limited recent top-flight exposure"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Championnat National (France 3rd tier)",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "70.8%"
+          },
+          {
+            "stat": "GA90",
+            "value": "0.88"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "7"
+          },
+          {
+            "stat": "Appearances",
+            "value": "16"
+          }
+        ]
+      }
+    },
+    "alexandre-pierre": {
+      "name": "Alexandre Pierre",
+      "country": "Haiti",
+      "position": "GK",
+      "club": "FC Sochaux",
+      "age": 25,
+      "profile": "The heir apparent between the posts for Haiti, Pierre emerged as the undisputed starter in qualification and is considered the nation's goalkeeper of the future. Trained in the French system, he combines athletic reflexes with composed distribution, and his performances for the national team were pivotal in securing historic World Cup qualification.",
+      "strengths": [
+        "Shot-stopping reflexes",
+        "Composed distribution",
+        "Strong shot-to-save ratio"
+      ],
+      "weaknesses": [
+        "Limited experience at the very top level",
+        "Inconsistent commanding crosses"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 National 1 (France)",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "64.9%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.04"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "9"
+          },
+          {
+            "stat": "Appearances",
+            "value": "25"
+          }
+        ]
+      }
+    },
+    "josue-duverger": {
+      "name": "Josue Duverger",
+      "country": "Haiti",
+      "position": "GK",
+      "club": "FC Cosmos Koblenz",
+      "age": 26,
+      "profile": "Playing at Rheinlandliga level in Germany's amateur pyramid, Duverger is a third-choice keeper who symbolises Haiti's depth challenge ahead of the 2026 World Cup. His inclusion in the squad reflects the federation's belief in his potential and desire to expose players to the World Cup environment.",
+      "strengths": [
+        "Athletic frame for a young keeper",
+        "Strong reflexes",
+        "Composure under pressure"
+      ],
+      "weaknesses": [
+        "Plays in Germany's amateur sixth tier",
+        "Minimal professional track record"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Rheinlandliga (Germany — est.)",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "~68%"
+          },
+          {
+            "stat": "GA90",
+            "value": "~1.2"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "~10"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~26"
+          }
+        ]
+      }
+    },
+    "carlens-arcus": {
+      "name": "Carlens Arcus",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "Angers SCO",
+      "age": 29,
+      "profile": "A dominant centre-back who made an immediate impact after joining Angers from Vitesse, Arcus was one of the most reliable defenders in Ligue 1 in 2024-25. Physically imposing with excellent aerial ability, he is Haiti's defensive cornerstone and brings top-flight Ligue 1 experience into the World Cup.",
+      "strengths": [
+        "Elite aerial dominance",
+        "Strong positional sense",
+        "Imposing physical presence"
+      ],
+      "weaknesses": [
+        "Late-season injury concerns affected availability",
+        "Can be drawn out of position when pressing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Ligue 1 (France)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "38"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "37"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~62%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~120"
+          }
+        ]
+      }
+    },
+    "wilguens-paugain": {
+      "name": "Wilguens Paugain",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "Zulte Waregem",
+      "age": 24,
+      "profile": "A versatile right-back who split 2024-25 between Austrian club St. Pölten and a loan at Belgian side Zulte Waregem, Paugain brings pace and directness to Haiti's flank. His ability to get forward and cross provides an additional attacking dimension for a team that will need every creative outlet at the World Cup.",
+      "strengths": [
+        "Pace and athleticism down the flank",
+        "Strong going forward",
+        "Aerial ability for his size"
+      ],
+      "weaknesses": [
+        "Can be exposed defending 1v1 at pace",
+        "Consistency across different leagues needed"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Split Season (Austria/Belgium)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~28"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~52%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~55"
+          }
+        ]
+      }
+    },
+    "duke-lacroix": {
+      "name": "Duke Lacroix",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "Colorado Springs Switchbacks",
+      "age": 31,
+      "profile": "A veteran fullback and one of the fastest and most versatile defenders in the USL Championship, Lacroix has been a stalwart for both club and country. In the 2025 USL season he delivered consistent defensive performances and clutch assists, earning team-of-the-week recognition. His experience and athleticism are key for Haiti's World Cup backline.",
+      "strengths": [
+        "Elite pace for a fullback",
+        "Clutch delivery and crossing",
+        "Strong defensive recovery runs"
+      ],
+      "weaknesses": [
+        "Plays in USL Championship (3rd tier)",
+        "Age may limit endurance against elite competition"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2025 USL Championship",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~42"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~30"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~55%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~80"
+          }
+        ]
+      }
+    },
+    "martin-experience": {
+      "name": "Martin Experience",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "AS Nancy-Lorraine",
+      "age": 27,
+      "profile": "A dependable left-back who covered every minute available in France's Championnat National for Nancy, Experience brings reliability and positional intelligence to Haiti's squad. His reading of the game allows him to break up attacks early and contribute to build-up, making him a steady option in the squad.",
+      "strengths": [
+        "Excellent positional awareness",
+        "Reliable tackling and interceptions",
+        "Good in 1v1 defending"
+      ],
+      "weaknesses": [
+        "Limited attacking output",
+        "Plays in France's third tier"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Championnat National (France)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~55"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~40"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~54%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~95"
+          }
+        ]
+      }
+    },
+    "jean-kevin-duverne": {
+      "name": "Jean-Kévin Duverne",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "KAA Gent",
+      "age": 28,
+      "profile": "A dependable centre-back who has established himself in the Belgian Pro League with KAA Gent, Duverne is one of Haiti's most technically refined defenders. Comfortable in a high defensive line and strong in the air, he adds solidity and composure to the backline ahead of Haiti's maiden World Cup showing.",
+      "strengths": [
+        "Strong aerial ability",
+        "Disciplined positional play",
+        "Good distribution from the back"
+      ],
+      "weaknesses": [
+        "Limited top European competition appearances",
+        "Can be susceptible to quick transitions"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Belgian Pro League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "15"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "11"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~58%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "46"
+          }
+        ]
+      }
+    },
+    "ricardo-ade": {
+      "name": "Ricardo Adé",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "LDU Quito",
+      "age": 36,
+      "profile": "One of the most experienced players in the squad, Adé is an elder statesman of Haitian football who has plied his trade in Ecuador for years. Despite his age he remained a regular starter for LDU Quito across 30 matches in 2024-25, offering experience and leadership that will be vital in the World Cup dressing room.",
+      "strengths": [
+        "Vast experience and leadership",
+        "Reading the game to cut out danger",
+        "Composed under pressure"
+      ],
+      "weaknesses": [
+        "Age limits explosive pace",
+        "Vulnerability against fast wide forwards"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Liga Pro Ecuador",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~45"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~35"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~57%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~105"
+          }
+        ]
+      }
+    },
+    "hannes-delcroix": {
+      "name": "Hannes Delcroix",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "FC Lugano",
+      "age": 27,
+      "profile": "A left-footed centre-back with pace and technical quality developed through Belgian football, Delcroix had a solid loan spell at Swansea in the Championship before joining Lugano in January 2026. His ability to defend high up the pitch and carry the ball makes him a modern defensive asset for Haiti's World Cup campaign.",
+      "strengths": [
+        "Technical ability with the ball",
+        "Pace to defend a high line",
+        "Composed under pressure"
+      ],
+      "weaknesses": [
+        "Injury history disrupted continuity",
+        "Adapting to a new club late in the season"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship (on loan at Swansea)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~22"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~56%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~48"
+          }
+        ]
+      }
+    },
+    "keeto-thermoncy": {
+      "name": "Keeto Thermoncy",
+      "country": "Haiti",
+      "position": "DF",
+      "club": "Young Boys II",
+      "age": 20,
+      "profile": "At just 20 years old, Thermoncy is one of the youngest players in Haiti's World Cup squad and represents the next generation of Haitian footballers developed in Switzerland. His inclusion in the 26-man roster for the tournament is a statement of faith from the coaching staff in his long-term potential.",
+      "strengths": [
+        "Outstanding athleticism for his age",
+        "Strong defensive instincts",
+        "Versatility across the backline"
+      ],
+      "weaknesses": [
+        "Very inexperienced at senior level",
+        "Plays in Swiss Promotion League (3rd tier)"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Swiss Promotion League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~25"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~18"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "~50%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "~40"
+          }
+        ]
+      }
+    },
+    "leverton-pierre": {
+      "name": "Leverton Pierre",
+      "country": "Haiti",
+      "position": "MF",
+      "club": "FC Vizela",
+      "age": 28,
+      "profile": "A combative defensive midfielder with experience across multiple levels of French football, Pierre spent 2024-25 at Châteauroux in the Championnat National before earning a move to FC Vizela in Portugal. His work rate, ball-winning ability and passing range make him a reliable engine room option for Haiti.",
+      "strengths": [
+        "High defensive work rate",
+        "Ball-winning tenacity",
+        "Good range of passing"
+      ],
+      "weaknesses": [
+        "Bookings accumulation (7 yellows in 2024-25)",
+        "Can lack composure in tight spaces"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Championnat National (France)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~55"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~79%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~40"
+          },
+          {
+            "stat": "Appearances",
+            "value": "25"
+          }
+        ]
+      }
+    },
+    "carl-fred-sainthe": {
+      "name": "Carl-Fred Sainthe",
+      "country": "Haiti",
+      "position": "MF",
+      "club": "El Paso Locomotive FC",
+      "age": 23,
+      "profile": "One of the most statistically impressive midfielders in the 2025 USL Championship season, Sainthe posted a 90.9% pass completion rate across 28 appearances for Phoenix Rising before joining El Paso. An FC Dallas academy product with a brilliant footballing mind, he represents a key developmental talent for Haiti's midfield going into the World Cup.",
+      "strengths": [
+        "Elite passing accuracy (90.9% completion)",
+        "Strong defensive duels and tackling",
+        "High ball recovery and interception volume"
+      ],
+      "weaknesses": [
+        "Plays in USL Championship (3rd tier)",
+        "Yet to test himself consistently at a higher level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2025 USL Championship (Phoenix Rising)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "19"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "90.9%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "20"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "danley-jean-jacques": {
+      "name": "Danley Jean Jacques",
+      "country": "Haiti",
+      "position": "MF",
+      "club": "Philadelphia Union",
+      "age": 26,
+      "profile": "Arguably Haiti's best defensive midfielder and one of the top holding midfielders in MLS, Jean Jacques made 34 appearances for Philadelphia Union in 2025 including 3 goals. His intelligence, tenacity and positional discipline form the foundation of Haiti's midfield press, and he enters the World Cup as one of the squad's most valuable players.",
+      "strengths": [
+        "Elite ball-winning and positional discipline",
+        "Composure in possession for a defensive midfielder",
+        "High work rate and endurance"
+      ],
+      "weaknesses": [
+        "Knee injury concern heading into the tournament",
+        "Can be overly conservative when Union need creativity"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2025 MLS",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~68"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~85%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~45"
+          },
+          {
+            "stat": "Appearances",
+            "value": "34"
+          }
+        ]
+      }
+    },
+    "jean-ricner-bellegarde": {
+      "name": "Jean-Ricner Bellegarde",
+      "country": "Haiti",
+      "position": "MF",
+      "club": "Wolverhampton Wanderers",
+      "age": 27,
+      "profile": "Haiti's undisputed star and the jewel of their World Cup squad, Bellegarde registered 2 goals and 7 assists in 35 Premier League appearances for Wolves in 2024-25 — a career-high 9 goal contributions. An engine-box midfielder with remarkable ball-recovery instincts and incisive passing, he is the most technically complete player in Haitian football history and the focal point of the nation's ambitions at the 2026 World Cup.",
+      "strengths": [
+        "Premier League-tested ball recovery and work rate",
+        "Elite chance creation and progressive passing",
+        "Reads the game to make crucial interceptions"
+      ],
+      "weaknesses": [
+        "Defensive discipline in 1v1 situations can be exploited",
+        "Long-distance shooting relies on volume over precision"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/10f0fdd3/Jean-Ricner-Bellegarde",
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~52"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~82%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~38"
+          },
+          {
+            "stat": "Appearances",
+            "value": "35"
+          }
+        ]
+      }
+    },
+    "woodensky-pierre": {
+      "name": "Woodensky Pierre",
+      "country": "Haiti",
+      "position": "MF",
+      "club": "Violette AC",
+      "age": 21,
+      "profile": "A remarkable teenage talent who won back-to-back Haitian league titles with Violette AC and was named MVP of both the regular season and the finals in 2026, Pierre is the only squad member who lives and plays in Haiti. His inclusion is both symbolically powerful and a genuine footballing statement — he is an elite performer at domestic level and will represent his people in the most literal sense.",
+      "strengths": [
+        "Dominant at Haitian domestic level",
+        "Outstanding vision and final third passing",
+        "Leadership and big-match mentality"
+      ],
+      "weaknesses": [
+        "No professional exposure outside Haiti",
+        "Large quality gap from Haitian Division 1 to international level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Haitian Division 1",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "N/A"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "N/A"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "N/A"
+          },
+          {
+            "stat": "Appearances",
+            "value": "~25"
+          }
+        ]
+      }
+    },
+    "dominique-simon": {
+      "name": "Dominique Simon",
+      "country": "Haiti",
+      "position": "MF",
+      "club": "FC Tatran Prešov",
+      "age": 25,
+      "profile": "A PSG and Aubervilliers academy product now establishing himself in Central European football, Simon brings technical quality and footballing intelligence to Haiti's midfield options. After 16 appearances for Pardubice in the Czech First League in 2024-25, he joined Tatran Prešov on loan. His passing pedigree and defensive recovery make him a useful squad midfielder.",
+      "strengths": [
+        "Technical quality developed in top French academies",
+        "Good press resistance in tight spaces",
+        "Intelligent positioning"
+      ],
+      "weaknesses": [
+        "Has yet to fully establish himself at one club",
+        "Limited physical presence for a central midfielder"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Czech First League (FK Pardubice)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "~30"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "~80%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "~22"
+          },
+          {
+            "stat": "Appearances",
+            "value": "16"
+          }
+        ]
+      }
+    },
+    "louicius-deedson": {
+      "name": "Louicius Deedson",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "FC Dallas",
+      "age": 25,
+      "profile": "An extremely productive winger in the Danish Superliga, Deedson had one of his best seasons in 2024-25 with 7 goals and 7 assists in 29 appearances for Odense, earning a move to FC Dallas. His direct running, explosive acceleration and eye for goal make him a genuine threat from wide positions and one of Haiti's most dangerous wide attackers at the World Cup.",
+      "strengths": [
+        "Explosive pace and direct dribbling",
+        "Goals and assists combination (7+7 in 2024-25)",
+        "Relentless work rate in both directions"
+      ],
+      "weaknesses": [
+        "Yet to prove himself in MLS",
+        "Can lack consistency in the final decision"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Danish Superliga (Odense BK)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "7"
+          },
+          {
+            "stat": "Assists",
+            "value": "7"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~42%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "29"
+          }
+        ]
+      }
+    },
+    "ruben-providence": {
+      "name": "Ruben Providence",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "Almere City FC",
+      "age": 24,
+      "profile": "An AS Roma academy graduate who has worked through Austrian and Dutch football to establish himself at Almere City, Providence is a tricky wide forward whose movement and technique stand out. He struggled for goals in his debut Eerste Divisie season but his ability to create chances and international record of 5 goals in 20 caps demonstrates his quality.",
+      "strengths": [
+        "Technical dribbling and close control",
+        "International goal instinct (5 in 20 caps)",
+        "Smart movement off the ball"
+      ],
+      "weaknesses": [
+        "Only 0 goals in 22 Eerste Divisie appearances in 2024-25",
+        "Needs to convert ability into consistent club-level output"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Eerste Divisie (Netherlands)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "0"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~30%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "22"
+          }
+        ]
+      }
+    },
+    "josue-casimir": {
+      "name": "Josue Casimir",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "AJ Auxerre",
+      "age": 24,
+      "profile": "A versatile winger who scored 4 goals in 27 Ligue 1 appearances for Le Havre in 2024-25 before earning a move to Auxerre, Casimir brings top-flight French football experience to Haiti's attack. Comfortable on either wing and capable of both dribbling past defenders and cutting inside to shoot, he offers creative unpredictability at the World Cup.",
+      "strengths": [
+        "Top-flight Ligue 1 pedigree",
+        "Ability to operate on both flanks",
+        "Direct dribbling and chance creation"
+      ],
+      "weaknesses": [
+        "End product (goals/assists) can be inconsistent",
+        "Has yet to fully nail down a regular starting role"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/481f76cf/Josue-Casimir",
+      "stats": {
+        "label": "2024-25 Ligue 1 (Le Havre AC)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "4"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~38%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "27"
+          }
+        ]
+      }
+    },
+    "derrick-etienne-jr": {
+      "name": "Derrick Etienne Jr.",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "Toronto FC",
+      "age": 29,
+      "profile": "A seasoned MLS winger with years of experience at New York Red Bulls and now Toronto FC, Etienne brings pace, craft and tactical discipline to Haiti's attacking options. While 2025 was a quieter personal season with reduced starts, his World Cup experience (he played for Haiti in 2022 qualifying) and ability to unlock spaces with direct running make him a dangerous impact option.",
+      "strengths": [
+        "Direct pace and dribbling",
+        "Experienced MLS campaigner",
+        "Smart movement in tight channels"
+      ],
+      "weaknesses": [
+        "Goals contribution down in 2025 season",
+        "Getting into his late twenties with dip in form"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2025 MLS (Toronto FC)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "~2"
+          },
+          {
+            "stat": "Assists",
+            "value": "~3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~35%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "25"
+          }
+        ]
+      }
+    },
+    "wilson-isidor": {
+      "name": "Wilson Isidor",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "Sunderland",
+      "age": 25,
+      "profile": "The most feared forward in Haiti's arsenal, Isidor was Sunderland's top scorer with 13 goals in 46 appearances in the 2024-25 Championship, firing the club to play-off final victory and promotion to the Premier League. Powerful, fast, and technically accomplished, he spearheads Haiti's attack at the World Cup and will be the player opponents fear most. His €18.5m market value reflects his status as a top European forward.",
+      "strengths": [
+        "Championship top scorer with 13 goals",
+        "Exceptional physical attributes — pace, power, aerial threat",
+        "Clinical finishing with right foot and body"
+      ],
+      "weaknesses": [
+        "All 13 Championship goals were non-headers — aerial conversion rate in box needs improvement",
+        "Will face Premier League standard defenders at the World Cup for first time"
+      ],
+      "fbrefUrl": "https://fbref.com/en/players/a671316d/Wilson-Isidor",
+      "stats": {
+        "label": "2024-25 EFL Championship",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "13"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~42%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "46"
+          }
+        ]
+      }
+    },
+    "duckens-nazon": {
+      "name": "Duckens Nazon",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "Esteghlal FC",
+      "age": 32,
+      "profile": "A proven striker and one of Haiti's most reliable goal-scorers, Nazon spent 2024-25 at Kayserispor in Turkey's Süper Lig where he scored 8 goals in 33 appearances, before securing a three-year deal at Esteghlal in Iran. His physical presence, finishing ability and experience across European leagues provide Haiti with a hard-working, combative number 9 option.",
+      "strengths": [
+        "Proven goalscorer across multiple European leagues",
+        "Physical presence and hold-up play",
+        "Work rate and pressing from the front"
+      ],
+      "weaknesses": [
+        "Declining pace at 32",
+        "Has moved toward lower-prestige leagues in recent seasons"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Süper Lig (Kayserispor)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "8"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~38%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "frantzdy-pierrot": {
+      "name": "Frantzdy Pierrot",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "Çaykur Rizespor",
+      "age": 31,
+      "profile": "A tall, powerful centre-forward who scored 6 goals in 28 appearances for AEK Athens in the Greek Super League in 2024-25, Pierrot uses his 194cm frame to dominant defenders in the air and as a focal point in the press. His hold-up play and flick-on ability give Haiti a completely different attacking dimension, and his experience at this level provides seasoned leadership.",
+      "strengths": [
+        "Dominant aerial ability at 194cm",
+        "Strong link-up and hold-up play",
+        "Experience in competitive European leagues"
+      ],
+      "weaknesses": [
+        "Pace is not a strength at this level",
+        "On loan at Rizespor suggesting reduced status at parent club"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Greek Super League (AEK Athens)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "0"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~36%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "yassin-fortune": {
+      "name": "Yassin Fortune",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "FC Vizela",
+      "age": 27,
+      "profile": "An Arsenal academy graduate who has built his career through Swiss and French football, Fortune spent 2024-25 at Quevilly Rouen in the French National scoring 5 goals in 28 appearances before joining FC Vizela in Portugal. His technical quality, quick feet and versatility across the forward line offer Haiti a skillful attacking option.",
+      "strengths": [
+        "Technical dribbling developed at Arsenal academy",
+        "Versatile forward — can play wide or through the middle",
+        "Good movement and link-up play"
+      ],
+      "weaknesses": [
+        "Has yet to establish himself consistently above the third tier",
+        "Goal threat needs to be more sustained"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Championnat National (Quevilly Rouen)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "5"
+          },
+          {
+            "stat": "Assists",
+            "value": "2"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~40%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "28"
+          }
+        ]
+      }
+    },
+    "lenny-joseph": {
+      "name": "Lenny Joseph",
+      "country": "Haiti",
+      "position": "FW",
+      "club": "Ferencváros",
+      "age": 25,
+      "profile": "A powerful, direct centre-forward who scored 6 goals across Ligue 2 and Hungarian NB I in 2024-25, Joseph hit the ground running after his January 2025 move to Ferencváros, netting 4 times in 10 appearances. Playing for one of Eastern Europe's biggest clubs — who compete in European football — he brings genuine top-level ambition and a strong physical presence to Haiti's World Cup attack.",
+      "strengths": [
+        "Strong in the air and physically imposing",
+        "Goal instinct in box (4 in 10 for Ferencváros)",
+        "Develops quickly in high-pressure environments"
+      ],
+      "weaknesses": [
+        "Still building international experience",
+        "Arriving late at Ferencváros means he is still adapting"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Split Season (Ligue 2 / NB I)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "~39%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "25"
+          }
+        ]
+      }
+    },
+    "craig-gordon": {
+      "name": "Craig Gordon",
+      "country": "Scotland",
+      "position": "GK",
+      "club": "Heart of Midlothian",
+      "age": 42,
+      "profile": "A veteran Scottish goalkeeper who has served as Scotland's number one for over a decade. Gordon made 33 Premiership appearances for Hearts in 2024-25 despite the club's turbulent campaign. At 42, he remains Scotland's most experienced keeper heading into the nation's first World Cup since 1998, bringing calm leadership under pressure.",
+      "strengths": [
+        "Shot-stopping reflexes",
+        "Command of penalty area",
+        "Experience in high-pressure tournaments"
+      ],
+      "weaknesses": [
+        "Age-related decline in mobility",
+        "Poor save percentage in 2024-25"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Scottish Premiership",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "63.6%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.45"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "angus-gunn": {
+      "name": "Angus Gunn",
+      "country": "Scotland",
+      "position": "GK",
+      "club": "Nottingham Forest",
+      "age": 29,
+      "profile": "Son of former Scotland international Bryan Gunn, Angus had a solid 2024-25 season as Norwich City's first-choice goalkeeper in the Championship before joining Nottingham Forest in August 2025. His shot-stopping reliability and composure in one-on-one situations make him a reliable backup option for Scotland at the World Cup.",
+      "strengths": [
+        "Reflexes and shot-stopping",
+        "Distribution from hand",
+        "Composure in 1v1 situations"
+      ],
+      "weaknesses": [
+        "Limited top-flight experience",
+        "Aerial command under pressure from crosses"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship (Norwich City)",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "66.7%"
+          },
+          {
+            "stat": "GA90",
+            "value": "1.22"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "7"
+          },
+          {
+            "stat": "Appearances",
+            "value": "35"
+          }
+        ]
+      }
+    },
+    "liam-kelly": {
+      "name": "Liam Kelly",
+      "country": "Scotland",
+      "position": "GK",
+      "club": "Rangers",
+      "age": 29,
+      "profile": "A composed, technically sound goalkeeper who joined Rangers and played as deputy to the club's first choice in 2024-25, making 10 Premiership appearances and keeping four clean sheets. Kelly brings reliable shot-stopping and is Scotland's third-choice keeper, providing experienced cover at the World Cup.",
+      "strengths": [
+        "Clean-sheet record",
+        "Positional awareness",
+        "Penalty-stopping ability"
+      ],
+      "weaknesses": [
+        "Limited regular starts in 2024-25",
+        "Unproven at top level over extended runs"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Scottish Premiership",
+        "rows": [
+          {
+            "stat": "Save %",
+            "value": "72.0%"
+          },
+          {
+            "stat": "GA90",
+            "value": "0.96"
+          },
+          {
+            "stat": "Clean Sheets",
+            "value": "4"
+          },
+          {
+            "stat": "Appearances",
+            "value": "10"
+          }
+        ]
+      }
+    },
+    "grant-hanley": {
+      "name": "Grant Hanley",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Hibernian",
+      "age": 34,
+      "profile": "A rugged, commanding centre-back who captained Scotland before John McGinn. After leaving Norwich City in January 2025 he joined Birmingham City and helped them win League One. Now at Hibernian in the Scottish Premiership, Hanley brings veteran experience and leadership to Scotland's defence at what is likely his final major tournament.",
+      "strengths": [
+        "Aerial dominance",
+        "Reading of the game",
+        "Leadership and communication"
+      ],
+      "weaknesses": [
+        "Reduced pace at 34",
+        "Inconsistent performances at Norwich in 2024-25"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship / League One",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "28"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "22"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "62%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "120"
+          }
+        ]
+      }
+    },
+    "jack-hendry": {
+      "name": "Jack Hendry",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Al-Ettifaq",
+      "age": 30,
+      "profile": "A composed ball-playing centre-back who has reinvented his career in the Saudi Pro League with Al-Ettifaq. He made 15 appearances in 2024-25 after missing time through injury and suspension. Comfortable in possession, Hendry gives Scotland an option to build from the back and has been a consistent international performer.",
+      "strengths": [
+        "Ball-playing ability for a centre-back",
+        "Composure under pressure",
+        "Reading of the game"
+      ],
+      "weaknesses": [
+        "Injury-interrupted 2024-25 campaign",
+        "Disciplinary record (red card in 2024-25)"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Saudi Pro League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "22"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "16"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "58%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "62"
+          }
+        ]
+      }
+    },
+    "aaron-hickey": {
+      "name": "Aaron Hickey",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Brentford",
+      "age": 23,
+      "profile": "A dynamic attacking full-back who suffered a serious hamstring injury in October 2023 that ruled him out for nearly two full seasons. He returned to fitness in 2025 and was recalled to the Scotland squad just in time for the World Cup. His direct, attacking style from left-back adds a different dimension and at 23, the tournament could relaunch his career at the highest level.",
+      "strengths": [
+        "Attacking drive from full-back",
+        "Crossing ability",
+        "Goal threat from distance"
+      ],
+      "weaknesses": [
+        "Long injury absence affecting match sharpness",
+        "Minimal 2024-25 competitive minutes"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "4"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "3"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "40%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "9"
+          }
+        ]
+      }
+    },
+    "dominic-hyam": {
+      "name": "Dominic Hyam",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Wrexham",
+      "age": 30,
+      "profile": "A dependable, no-nonsense centre-back who played every minute of Blackburn Rovers' 2024-25 Championship season, demonstrating exactly the kind of consistency that earns international recognition. Now at Wrexham after their rise through the divisions, Hyam provides solidity and reliability in the middle of Scotland's back four.",
+      "strengths": [
+        "Consistency and availability",
+        "Strong in the air",
+        "Positional discipline"
+      ],
+      "weaknesses": [
+        "Limited in terms of playing out from the back",
+        "Not tested at Premier League level"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship (Blackburn Rovers)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "32"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "24"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "54%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "148"
+          }
+        ]
+      }
+    },
+    "scott-mckenna": {
+      "name": "Scott McKenna",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Dinamo Zagreb",
+      "age": 29,
+      "profile": "A powerful, physical centre-back who moved to Las Palmas in La Liga in 2024-25 before joining Dinamo Zagreb. At Las Palmas he made 27 league appearances and established himself as one of their defensive pillars with 57 clearances in his last nine starts alone. Won the Croatian league and cup double in his first season at Zagreb, arriving at the World Cup in excellent form.",
+      "strengths": [
+        "Aerial ability and physicality",
+        "High clearance volume",
+        "Experience across multiple leagues"
+      ],
+      "weaknesses": [
+        "Disciplinary record (6 yellow cards, 1 red in La Liga 2024-25)",
+        "Can be caught in behind by quick forwards"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 La Liga (Las Palmas)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "40"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "14"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "64%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "119"
+          }
+        ]
+      }
+    },
+    "nathan-patterson": {
+      "name": "Nathan Patterson",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Everton",
+      "age": 23,
+      "profile": "A rapid, energetic right-back whose career has been consistently disrupted by injuries. Patterson made just 10 Premier League appearances for Everton in 2024-25 due to foot and groin problems. When fit, he is Scotland's first-choice right-back thanks to his athleticism and dynamic overlapping runs. The World Cup represents a chance to show his quality at the highest level.",
+      "strengths": [
+        "Pace and athleticism",
+        "Overlapping attacking runs",
+        "Defensive intensity"
+      ],
+      "weaknesses": [
+        "Persistent injury issues",
+        "Limited 2024-25 minutes (347 in PL)"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "7"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "4"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "45%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "14"
+          }
+        ]
+      }
+    },
+    "anthony-ralston": {
+      "name": "Anthony Ralston",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Celtic",
+      "age": 26,
+      "profile": "A reliable, technically adept right-back who has been an integral part of Celtic's dominant Scottish Premiership teams. In 2024-25 he won another league title with Celtic, contributing 2 goals and 3 assists in his 8 starts. Ralston offers Scotland a domestically excellent option at right-back and brings winning mentality from Celtic's sustained success.",
+      "strengths": [
+        "Technical quality and composure in possession",
+        "Overlapping delivery",
+        "Big-game experience in European competition"
+      ],
+      "weaknesses": [
+        "Limited appearances in 2024-25 (8 starts)",
+        "Not tested consistently against elite opposition"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Scottish Premiership",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "18"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "10"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "42%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "24"
+          }
+        ]
+      }
+    },
+    "andy-robertson": {
+      "name": "Andy Robertson",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Liverpool",
+      "age": 31,
+      "profile": "Scotland's most decorated outfield player and a Champions League and Premier League winner with Liverpool. Robertson made 33 Premier League appearances in 2024-25, winning his second league title and playing a full role in one of the great Liverpool seasons. The vice-captain of the Scotland side, his energy, deliveries, and set-piece quality make him irreplaceable going into his first World Cup.",
+      "strengths": [
+        "Elite crossing and delivery",
+        "Relentless pressing and work rate",
+        "Set-piece quality and assist record"
+      ],
+      "weaknesses": [
+        "Defending in isolation against rapid wingers",
+        "Consistency in bigger games for Scotland"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "12"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "8"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "48%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "32"
+          }
+        ]
+      }
+    },
+    "john-souttar": {
+      "name": "John Souttar",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Rangers",
+      "age": 28,
+      "profile": "A composed, tall centre-back who has flourished at Rangers since moving from Hearts. Souttar made 24 Premiership appearances in 2024-25, showing the reliability and aerial dominance that makes him a key defensive option for Scotland. His versatility to play both centre-back positions and his strong distribution fit Steve Clarke's system well.",
+      "strengths": [
+        "Aerial dominance",
+        "Distribution from the back",
+        "Reading of the game"
+      ],
+      "weaknesses": [
+        "History of significant knee injuries",
+        "Still building top-level European experience"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Scottish Premiership",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "28"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "16"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "60%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "105"
+          }
+        ]
+      }
+    },
+    "kieran-tierney": {
+      "name": "Kieran Tierney",
+      "country": "Scotland",
+      "position": "DF",
+      "club": "Celtic",
+      "age": 28,
+      "profile": "One of the most naturally talented left-backs Scotland has produced, Tierney returned to boyhood club Celtic in June 2025 after his Arsenal contract expired. In his final Arsenal season (2024-25) he contributed 1 goal in his limited appearances having recovered from a hamstring injury sustained at Euro 2024. With the World Cup as motivation, Tierney's return to Celtic has revitalised him and he arrives in the best form of his career.",
+      "strengths": [
+        "Attacking ability and carrying the ball",
+        "Defensive tenacity in duels",
+        "Set-piece delivery and work-rate"
+      ],
+      "weaknesses": [
+        "Recurring injury concerns throughout career",
+        "Limited Arsenal 2024-25 minutes due to hamstring injury"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League (Arsenal)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "9"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "6"
+          },
+          {
+            "stat": "Aerial Win %",
+            "value": "50%"
+          },
+          {
+            "stat": "Clearances",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    "ryan-christie": {
+      "name": "Ryan Christie",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Bournemouth",
+      "age": 30,
+      "profile": "A creative, hard-working attacking midfielder who was a regular in Bournemouth's Premier League survival campaigns. Christie made 27 starts and 42 substitute appearances across multiple seasons and scored 2 goals and contributed 3 assists in 2024-25 before a groin injury ended his season in April. His pressing, energy, and creative spark from wide midfield positions are important to Scotland's system.",
+      "strengths": [
+        "Creative play and chance creation",
+        "High pressing intensity",
+        "Versatility across midfield positions"
+      ],
+      "weaknesses": [
+        "Injury-disrupted end to 2024-25 season",
+        "Inconsistent final ball in big moments"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "24"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "79%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "18"
+          },
+          {
+            "stat": "Appearances",
+            "value": "27"
+          }
+        ]
+      }
+    },
+    "findlay-curtis": {
+      "name": "Findlay Curtis",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Kilmarnock",
+      "age": 20,
+      "profile": "A pacy, direct left winger who is one of the youngest and most exciting prospects in Scotland. Curtis made his Premiership debut for Rangers in February 2025 and then joined Kilmarnock on loan, scoring five goals in 14 games to help them avoid relegation. The 2026 World Cup represents a stunning breakthrough for the 20-year-old who embodies Scotland's generational renewal.",
+      "strengths": [
+        "Directness and pace on the wing",
+        "Goals from midfield positions",
+        "Fearless dribbling"
+      ],
+      "weaknesses": [
+        "Youth and inexperience at top level",
+        "Defensive contribution still developing"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Scottish Premiership",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "14"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "77%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "8"
+          },
+          {
+            "stat": "Appearances",
+            "value": "14"
+          }
+        ]
+      }
+    },
+    "lewis-ferguson": {
+      "name": "Lewis Ferguson",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Bologna",
+      "age": 25,
+      "profile": "A physically dominant, box-to-box midfielder who overcame a serious knee injury sustained in April 2024 to return for Bologna in November 2024. After his comeback he became a key figure, captaining Bologna to their first Coppa Italia title in 51 years. He brings incredible tenacity and midfield engine to Scotland's set-up as they head into their first World Cup since 1998.",
+      "strengths": [
+        "Box-to-box engine and work rate",
+        "Leadership and captaincy quality",
+        "Goals from midfield"
+      ],
+      "weaknesses": [
+        "Long-term knee injury — fitness question remains",
+        "Limited 2024-25 Serie A minutes due to injury comeback"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "26"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "85%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "14"
+          },
+          {
+            "stat": "Appearances",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    "ben-gannon-doak": {
+      "name": "Ben Gannon-Doak",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Bournemouth",
+      "age": 20,
+      "profile": "A thrilling young winger who spent 2024-25 on loan at Middlesbrough from Liverpool, earning the EFL Young Player of the Month award in November 2024 after five assists in five games. He scored 3 goals and recorded 7 assists in 24 Championship appearances before joining Bournemouth for £25m in August 2025. At 20, Doak is Scotland's brightest attacking talent and one of the most exciting players at the 2026 World Cup.",
+      "strengths": [
+        "Explosive pace and direct dribbling",
+        "Creative output and assists",
+        "Big-game temperament"
+      ],
+      "weaknesses": [
+        "Youth and inconsistency at Premier League level",
+        "Still developing physically"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship (Middlesbrough)",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "18"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "74%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "11"
+          },
+          {
+            "stat": "Appearances",
+            "value": "24"
+          }
+        ]
+      }
+    },
+    "jack-fletcher": {
+      "name": "Jack Fletcher",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Manchester United",
+      "age": 18,
+      "profile": "A 18-year-old midfield prodigy born on 19 March 2007 and son of former Manchester United and Scotland midfielder Darren Fletcher. He was named in Manchester United's first-team matchday squad for the first time in October 2024 and made his senior debut in December 2025. Eligible for Scotland through his father, Fletcher's World Cup call-up at 18 represents extraordinary faith in an emerging talent.",
+      "strengths": [
+        "Technical ability and ball control beyond his years",
+        "Intelligence in midfield pressing",
+        "Potential to be a generational Scottish talent"
+      ],
+      "weaknesses": [
+        "Only 1 senior club appearance (debut December 2025)",
+        "Very limited top-level competitive experience"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "0"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "N/A"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "0"
+          },
+          {
+            "stat": "Appearances",
+            "value": "0"
+          }
+        ]
+      }
+    },
+    "john-mcginn": {
+      "name": "John McGinn",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Aston Villa",
+      "age": 30,
+      "profile": "Scotland's inspirational captain and the heartbeat of their midfield. McGinn scored his iconic solo run and finish against PSG in the Champions League quarter-final in April 2025, which was voted Aston Villa's Goal of the Season. He made 34 Premier League appearances in 2024-25, scoring 1 goal and providing 4 assists, while also winning 113 tackles across the season. He represents Scotland's first World Cup since 1998 as the emblem of this generation's achievement.",
+      "strengths": [
+        "Leadership and captaincy under pressure",
+        "Box-to-box energy and tackles won",
+        "Goals and assists from midfield in big games"
+      ],
+      "weaknesses": [
+        "Occasional loss of composure in physical battles",
+        "Scotland's style heavily reliant on his energy levels"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "113"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "81%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "28"
+          },
+          {
+            "stat": "Appearances",
+            "value": "34"
+          }
+        ]
+      }
+    },
+    "kenny-mclean": {
+      "name": "Kenny McLean",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Norwich City",
+      "age": 33,
+      "profile": "A tough, ball-winning defensive midfielder who has been Norwich City's captain and linchpin for years. McLean made 33 Championship starts in 2024-25 and despite disciplinary issues — two suspensions and a chest infection — remained essential. His elite ball recovery rates and ability to screen the defence give Scotland defensive solidity in midfield at the World Cup.",
+      "strengths": [
+        "Ball recovery and defensive duels",
+        "Passing accuracy as a pivot",
+        "Leadership and experience"
+      ],
+      "weaknesses": [
+        "Disciplinary record — multiple suspensions in 2024-25",
+        "Ageing profile at 33"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "52"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "83%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "38"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "scott-mctominay": {
+      "name": "Scott McTominay",
+      "country": "Scotland",
+      "position": "MF",
+      "club": "Napoli",
+      "age": 28,
+      "profile": "The star of Scotland's qualification campaign and one of the outstanding players in European football in 2024-25. McTominay joined Napoli for £25.7m in August 2024, scored 12 Serie A goals — the most of any midfielder in the league — and was named Serie A MVP as Napoli won the Scudetto. His Ballon d'Or nomination underlines how far he has come, and he will be Scotland's talisman as they make their first World Cup appearance since 1998.",
+      "strengths": [
+        "Goals and goal threat from deep midfield",
+        "Physical dominance and athleticism",
+        "Big-game temperament and leadership"
+      ],
+      "weaknesses": [
+        "Can overcommit in defensive transitions at full throttle",
+        "Scotland rely heavily on his performances"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Tackles Won",
+            "value": "43"
+          },
+          {
+            "stat": "Pass Completion %",
+            "value": "85%"
+          },
+          {
+            "stat": "Interceptions",
+            "value": "24"
+          },
+          {
+            "stat": "Appearances",
+            "value": "34"
+          }
+        ]
+      }
+    },
+    "che-adams": {
+      "name": "Che Adams",
+      "country": "Scotland",
+      "position": "FW",
+      "club": "Torino",
+      "age": 29,
+      "profile": "A tireless, dynamic striker who delivered his best-ever professional season in 2024-25, scoring 9 Serie A goals and providing 3 assists in 30 appearances for Torino. His long-range stunner against Empoli was one of the goals of the season in Italy. Born in England but choosing Scotland, Adams is the focal point of Steve Clarke's attack and has the physical and technical profile to trouble World Cup defenders.",
+      "strengths": [
+        "Work rate and pressing from the front",
+        "Goals from long range and inside the box",
+        "Holds up play and brings teammates into the game"
+      ],
+      "weaknesses": [
+        "Shot conversion could be higher (22 shots on goal from 59)",
+        "Can drift out of games against deep, organised defences"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Serie A",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "9"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "37%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "30"
+          }
+        ]
+      }
+    },
+    "lyndon-dykes": {
+      "name": "Lyndon Dykes",
+      "country": "Scotland",
+      "position": "FW",
+      "club": "Charlton Athletic",
+      "age": 30,
+      "profile": "A robust, aerial target man who spent 2024-25 at Birmingham City, scoring goals and providing a physical focal point. Dykes joined Charlton Athletic in January 2026. Despite not being a prolific scorer in 2024-25, his aerial ability, hold-up play, and international experience make him a valuable squad option. His physical presence gives Scotland an alternative route to goal and is a test for any centre-back.",
+      "strengths": [
+        "Aerial threat from crosses and set-pieces",
+        "Physical hold-up play",
+        "Scotland's all-time leading scorer for goals per game ratio from a certain period"
+      ],
+      "weaknesses": [
+        "Touch and link-up play not at the highest level",
+        "Limited pace behind defenders"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 EFL Championship (Birmingham City)",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "6"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "32%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "40"
+          }
+        ]
+      }
+    },
+    "george-hirst": {
+      "name": "George Hirst",
+      "country": "Scotland",
+      "position": "FW",
+      "club": "Ipswich Town",
+      "age": 26,
+      "profile": "A towering target man who made 33 appearances for newly promoted Ipswich Town in the Premier League in 2024-25, scoring 4 league goals despite the team's relegation battle. The son of former England international David Hirst, George has chosen Scotland and offers Steve Clarke a different physical dimension up front — a 6ft 3in presence who can win aerial duels and link play.",
+      "strengths": [
+        "Aerial dominance and target play",
+        "Link-up play for a big striker",
+        "Goals in his debut Premier League season"
+      ],
+      "weaknesses": [
+        "First-choice status for Scotland uncertain",
+        "Yet to establish himself as a reliable Premier League scorer"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "4"
+          },
+          {
+            "stat": "Assists",
+            "value": "1"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "38%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "33"
+          }
+        ]
+      }
+    },
+    "lawrence-shankland": {
+      "name": "Lawrence Shankland",
+      "country": "Scotland",
+      "position": "FW",
+      "club": "Heart of Midlothian",
+      "age": 30,
+      "profile": "Scotland's most prolific domestic striker who scored 24 league goals in both 2022-23 and 2023-24 before a quieter 2024-25 with 8 league goals for Hearts. Despite the dip, his clinical finishing, movement in the box, and quality from set-pieces make him Scotland's most reliable goal threat heading into their first World Cup since 1998. His transfer to Rangers was announced as Scotland prepared for the tournament.",
+      "strengths": [
+        "Clinical finishing and movement in the box",
+        "Set-piece and penalty expertise",
+        "Knowledge of scoring against Scottish Premiership-calibre opposition"
+      ],
+      "weaknesses": [
+        "Reduced output in 2024-25 compared to prior seasons",
+        "Unproven against top international defences"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Scottish Premiership",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "8"
+          },
+          {
+            "stat": "Assists",
+            "value": "3"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "42%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "29"
+          }
+        ]
+      }
+    },
+    "ross-stewart": {
+      "name": "Ross Stewart",
+      "country": "Scotland",
+      "position": "FW",
+      "club": "Southampton",
+      "age": 28,
+      "profile": "A powerful, technically capable striker who made 12 Premier League appearances for relegated Southampton in 2024-25, scoring his first Premier League goal in the final game of the season against Arsenal. Stewart brings a complete forward's skillset — aerial presence, pace, and link-up play — and his first-hand experience of the Premier League hardship gives him a resilient mentality for World Cup football.",
+      "strengths": [
+        "Aerial ability and physicality",
+        "Pressing and workrate from the front",
+        "Composure on the ball for a big striker"
+      ],
+      "weaknesses": [
+        "Limited Premier League goals in 2024-25 (1 goal in 12 apps)",
+        "Southampton's relegation means top-flight preparation disrupted"
+      ],
+      "fbrefUrl": null,
+      "stats": {
+        "label": "2024-25 Premier League",
+        "rows": [
+          {
+            "stat": "Goals",
+            "value": "1"
+          },
+          {
+            "stat": "Assists",
+            "value": "0"
+          },
+          {
+            "stat": "Shots on Target %",
+            "value": "33%"
+          },
+          {
+            "stat": "Appearances",
+            "value": "12"
+          }
+        ]
+      }
     }
   }
 }
