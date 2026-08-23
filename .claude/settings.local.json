@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "Bash",
       "Read(//home/junior/Dev/**)",
       "Bash(npx create-next-app@latest world-cup-roasters --typescript --tailwind --app --src-dir --no-eslint --use-npm --yes)",
       "Bash(npm --version)",
@@ -19,7 +20,25 @@
       "Bash(pkill -f \"next dev\")",
       "Bash(node:*)",
       "Bash(ls:*)",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)",
+      "Bash(git commit -m ' *)",
+      "Skill(update-config)",
+      "WebFetch",
+      "WebSearch",
+      "Bash(curl -s http://localhost:3000/matches)",
+      "Bash(curl -s http://localhost:3000/matches/GS-A-MD1-1)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); groups=[g for g in d.get\\('groups',[]\\) if g.get\\('name'\\)=='Group B']; print\\(json.dumps\\(groups, indent=2\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); gs=d.get\\('groupSchedule',[]\\); groups=set\\(\\); [groups.add\\(m.get\\('group',''\\)\\) for m in gs]; print\\(sorted\\(groups\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); gs=d.get\\('groupSchedule',[]\\); b=[m for m in gs if m.get\\('group'\\)=='B']; teams=set\\(\\); [teams.update\\([m['home'],m['away']]\\) for m in b]; print\\(sorted\\(teams\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)[:5]\\); k=list\\(d.keys\\(\\)\\)[0]; print\\(json.dumps\\(d[k], indent=2\\)\\)\")",
+      "Bash(python3 -c ' *jj)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)",
+      "Bash(rm /tmp/group-d-*.json)"
     ]
   }
 }
